@@ -1,0 +1,2001 @@
+order_id,product_id,quantity,order_date,customer_city,payment_mode,order_status
+ord2263,p009,1,2025-10-02,delhi,cash_on_delivery,delivered
+ord1298,p003,10,2024-12-25,pune,cash_on_delivery,delivered
+ord1060,p002,8,2025-02-05,pune,net banking,cancelled
+ord2697,p002,9,2024-12-13,ahmedabad,cash_on_delivery,delivered
+ord1744,p008,2,2024-12-07,mumbai,net banking,delivered
+ord2544,p033,3,2025-05-01,ahmedabad,cash_on_delivery,delivered
+ord1977,p002,1,2024-12-13,delhi,upi,delivered
+ord1353,p034,7,2025-01-29,mumbai,debit_card,delivered
+ord2432,p033,2,2025-01-22,delhi,net banking,delivered
+ord2402,p007,1,2024-12-18,bangalore,net banking,cancelled
+ord1690,p035,9,2024-12-18,chennai,cash_on_delivery,delivered
+ord1944,p013,1,2025-02-28,hyderabad,cash_on_delivery,delivered
+ord2729,p011,4,2025-01-18,mumbai,upi,delivered
+ord2996,p022,2,2024-12-09,ahmedabad,cash_on_delivery,delivered
+ord2182,p037,8,2025-01-23,bangalore,net banking,delivered
+ord1856,p006,8,2024-12-20,chennai,debit_card,delivered
+ord1088,p013,10,2025-05-01,hyderabad,cash_on_delivery,returned
+ord2625,p018,5,2025-02-24,bangalore,credit_card,cancelled
+ord2762,p021,4,2024-12-05,delhi,net_banking,cancelled
+ord2692,p012,2,2024-12-07,hyderabad,upi,returned
+ord1036,p015,8,2025-02-09,ahmedabad,credit_card,cancelled
+ord2385,p021,2,2025-02-14,ahmedabad,debit_card,returned
+ord2523,p023,5,2025-01-26,kolkata,net banking,delivered
+ord2151,p029,2,2025-02-03,ahmedabad,debit_card,returned
+ord2400,p003,2,2025-02-23,ahmedabad,cash_on_delivery,returned
+ord1732,p036,4,2025-01-23,kolkata,debit_card,returned
+ord1481,p023,2,2024-12-18,mumbai,upi,cancelled
+ord1066,p006,5,2025-02-22,bangalore,upi,delivered
+ord1938,p001,9,2024-12-25,chennai,net banking,cancelled
+ord1035,p002,8,2025-01-01,delhi,cash_on_delivery,delivered
+ord2886,p040,9,2024-01-12,bangalore,cash_on_delivery,cancelled
+ord2600,p101,2,2025-01-27,ahmedabad,credit_card,delivered
+ord2005,p006,8,2025-01-26,pune,upi,returned
+ord1451,p016,8,2025-01-17,delhi,credit_card,returned
+ord1126,p018,7,2025-02-19,chennai,debit_card,delivered
+ord1745,p036,4,2025-01-04,ahmedabad,credit_card,delivered
+ord2634,p013,6,2025-02-07,bangalore,upi,delivered
+ord1963,p018,5,2024-12-24,pune,credit_card,returned
+ord1458,p026,2,2025-01-31,mumbai,credit_card,cancelled
+ord2742,p029,2,2025-01-02,chennai,credit_card,delivered
+ord2338,p026,10,2024-12-28,delhi,net banking,returned
+ord2590,p032,5,2025-03-01,chennai,upi,returned
+ord2358,p039,3,2025-02-22,hyderabad,credit_card,cancelled
+ord2249,p039,9,2024-12-18,mumbai,credit_card,delivered
+ord1481,p015,0,2024-12-27,delhi,net banking,delivered
+ord2431,p016,9,2025-01-25,hyderabad,credit_card,delivered
+ord2889,p016,2,2024-10-12,mumbai,debit_card,delivered
+ord1279,p039,10,2025-01-07,ahmedabad,credit_card,delivered
+ord1567,p007,2,2025-01-12,chennai,upi,cancelled
+ord1481,p011,3,2025-02-23,chennai,upi,returned
+ord1896,p012,8,2025-02-10,hyderabad,credit_card,cancelled
+ord2257,p011,6,2025-02-27,hyderabad,debit_card,cancelled
+ord2966,p022,10,2024-12-19,kolkata,net banking,returned
+ord2914,p021,4,2025-01-10,hyderabad,upi,delivered
+ord1481,p009,8,2025-02-16,hyderabad,upi,delivered
+ord1828,p036,4,2025-11-02,bangalore,credit_card,delivered
+ord1727,p017,4,2025-02-02,kolkata,net banking,returned
+ord1737,p014,2,2025-02-28,bangalore,credit_card,delivered
+ord2855,p012,3,2025-02-09,hyderabad,net banking,delivered
+ord1003,p004,10,2025-01-18,delhi,debit_card,returned
+ord2277,p006,1,2025-02-15,pune,cash_on_delivery,returned
+ord1747,p009,8,2024-12-10,bangalore,upi,delivered
+ord2739,p001,2,2025-11-01,bangalore,credit_card,delivered
+ord1127,p035,6,2025-10-01,pune,cash_on_delivery,delivered
+ord2034,p011,7,2024-12-21,mumbai,debit_card,cancelled
+ord1561,p014,4,2025-02-28,mumbai,upi,delivered
+ord2877,p028,6,2024-12-08,chennai,debit_card,delivered
+ord2527,p009,6,2025-02-24,kolkata,credit_card,delivered
+ord2332,p036,10,2025-01-12,ahmedabad,debit_card,cancelled
+ord1890,p019,4,2025-02-21,chennai,debit_card,returned
+ord1564,p008,1,2025-02-05,chennai,credit_card,returned
+ord2943,p005,1,2025-01-01,kolkata,cash_on_delivery,delivered
+ord1678,p035,7,2025-01-20,bangalore,cash_on_delivery,delivered
+ord1204,p018,1,2025-02-15,delhi,net banking,returned
+ord2019,p002,7,2025-02-27,bangalore,credit_card,delivered
+ord1481,p020,5,2024-12-16,pune,debit_card,returned
+ord2046,p008,5,2025-01-11,hyderabad,net banking,delivered
+ord2220,p012,2,2025-02-13,hyderabad,credit_card,delivered
+ord1499,p001,4,2025-01-20,chennai,debit_card,delivered
+ord1325,p003,9,2025-02-23,ahmedabad,net banking,delivered
+ord1118,p022,2,2025-02-25,ahmedabad,debit_card,delivered
+ord2063,p030,4,2024-12-23,bangalore,net banking,returned
+ord1361,p036,9,2024-12-30,mumbai,cash_on_delivery,delivered
+ord2670,p008,1,2024-12-24,mumbai,net banking,delivered
+ord2074,p015,10,2024-12-25,kolkata,credit_card,delivered
+ord2719,p034,4,2025-01-12,pune,debit_card,cancelled
+ord1687,p027,3,2024-12-19,delhi,debit_card,returned
+ord2079,p030,3,2024-12-08,kolkata,cash_on_delivery,returned
+ord2043,p015,5,2025-02-20,bangalore,credit_card,delivered
+ord1939,p036,9,2025-01-21,chennai,credit_card,cancelled
+ord2427,p004,7,2025-01-30,ahmedabad,credit_card,returned
+ord2820,p002,4,2025-01-21,kolkata,net banking,delivered
+ord1993,p002,8,2025-03-01,pune,cash_on_delivery,delivered
+ord2016,p023,1,2024-01-12,mumbai,net banking,delivered
+ord2827,p036,9,2024-12-01,hyderabad,upi,delivered
+ord2134,p034,10,2024-12-18,hyderabad,upi,delivered
+ord2627,p031,9,2025-02-09,hyderabad,credit_card,delivered
+ord2792,p039,2,2025-02-15,bangalore,credit_card,delivered
+ord1316,p023,1,2025-02-26,mumbai,credit_card,delivered
+ord2320,p006,0,2024-12-01,delhi,credit_card,delivered
+ord1797,p032,2,2025-01-16,hyderabad,cash_on_delivery,delivered
+ord2244,p005,5,2025-01-02,mumbai,upi,cancelled
+ord1141,p024,5,2025-01-30,ahmedabad,credit_card,cancelled
+ord1299,p031,3,2025-02-21,kolkata,debit_card,returned
+ord1583,p035,7,2025-01-20,hyderabad,debit_card,delivered
+ord2101,p032,8,2025-01-21,hyderabad,credit_card,delivered
+ord1396,p036,8,2025-02-05,bangalore,credit_card,cancelled
+ord1537,p037,7,2024-12-20,mumbai,net_banking,returned
+ord1735,p011,10,2025-01-28,ahmedabad,upi,returned
+ord1885,p023,1,2024-12-02,hyderabad,credit_card,delivered
+ord1634,p024,9,2025-02-28,mumbai,net_banking,delivered
+ord2786,p037,9,2025-01-23,delhi,debit_card,delivered
+ord1874,p009,1,2025-02-11,ahmedabad,upi,returned
+ord2572,p036,4,2025-02-15,bangalore,upi,delivered
+ord2384,p023,1,2025-01-06,ahmedabad,upi,cancelled
+ord2921,p040,6,2024-02-12,chennai,upi,delivered
+ord1515,p023,1,2025-01-27,pune,net banking,delivered
+ord2606,p025,3,2025-01-26,mumbai,cash_on_delivery,delivered
+ord1121,p019,8,2024-12-16,hyderabad,credit_card,delivered
+ord2796,p025,6,2025-02-28,ahmedabad,upi,delivered
+ord1551,p027,10,2025-02-13,ahmedabad,upi,returned
+ord1787,p021,10,2025-02-25,chennai,net banking,delivered
+ord2746,p039,2,2025-01-21,pune,debit_card,delivered
+ord2932,p035,10,2025-02-13,mumbai,upi,returned
+ord2549,p036,6,2025-07-01,delhi,debit_card,delivered
+ord1887,p039,2,2025-01-04,chennai,upi,cancelled
+ord1437,p003,4,2025-01-08,pune,cash_on_delivery,delivered
+ord2592,p023,8,2024-12-06,chennai,cash_on_delivery,returned
+ord1749,p016,10,2025-01-15,chennai,debit_card,returned
+ord2136,p007,1,2024-12-13,ahmedabad,net banking,cancelled
+ord1293,p023,9,2025-02-13,mumbai,upi,delivered
+ord2499,p037,10,2025-01-30,kolkata,upi,cancelled
+ord1544,p022,8,2025-02-20,kolkata,cash_on_delivery,cancelled
+ord1174,p021,9,2025-01-22,delhi,upi,delivered
+ord2924,p021,10,2024-12-30,hyderabad,net banking,delivered
+ord1177,p015,4,2025-02-22,bangalore,debit_card,delivered
+ord2447,p009,5,2025-02-11,hyderabad,cash_on_delivery,returned
+ord1998,p001,10,2025-01-09,bangalore,debit_card,cancelled
+ord2557,p018,3,2025-02-16,delhi,cash_on_delivery,delivered
+ord1724,p025,3,2025-01-18,pune,cash_on_delivery,returned
+ord2585,p002,6,2025-01-22,kolkata,upi,delivered
+ord2685,p039,6,2025-02-15,chennai,cash_on_delivery,delivered
+ord2563,p004,8,2025-02-16,hyderabad,net banking,delivered
+ord1393,p025,1,2025-01-15,delhi,credit_card,delivered
+ord1792,p040,1,2025-02-01,mumbai,debit_card,delivered
+ord1481,p015,2,2025-02-03,mumbai,cash_on_delivery,delivered
+ord1685,p020,5,2025-02-15,bangalore,cash_on_delivery,delivered
+ord1481,p013,7,2024-12-18,delhi,credit_card,delivered
+ord2419,p022,8,2025-10-01,kolkata,credit_card,delivered
+ord1481,p019,1,2025-02-13,pune,upi,delivered
+ord2069,p015,2,2024-12-07,hyderabad,credit_card,returned
+ord1667,p002,6,2025-01-24,mumbai,debit_card,delivered
+ord1065,p033,3,2025-01-19,bangalore,cash_on_delivery,returned
+ord1703,p016,6,2024-12-18,delhi,net banking,delivered
+ord2239,p036,4,2024-12-14,pune,upi,delivered
+ord2227,p015,1,2024-12-17,bangalore,upi,delivered
+ord2334,p019,1,2024-12-10,chennai,cash_on_delivery,returned
+ord1658,p034,5,2024-12-16,chennai,debit_card,delivered
+ord2514,p039,6,2024-12-20,kolkata,credit_card,delivered
+ord2705,p011,1,2024-12-26,delhi,net banking,delivered
+ord1858,p015,8,2025-02-20,delhi,net banking,returned
+ord1975,p021,8,2024-12-21,kolkata,net banking,delivered
+ord1592,p006,5,2024-12-09,kolkata,debit_card,delivered
+ord1902,p002,9,2024-12-10,delhi,net banking,cancelled
+ord1595,p021,2,2025-01-02,ahmedabad,cash_on_delivery,delivered
+ord2014,p025,4,2025-02-14,chennai,debit_card,delivered
+ord1654,p037,7,2024-12-30,chennai,upi,returned
+ord2546,p013,10,2024-12-20,kolkata,upi,cancelled
+ord2769,p006,6,2024-12-09,kolkata,net banking,delivered
+ord2909,p015,0,2024-12-16,hyderabad,upi,delivered
+ord1920,p018,6,2025-02-09,ahmedabad,upi,cancelled
+ord2817,p011,6,2025-01-25,bangalore,upi,delivered
+ord2351,p028,2,2025-01-22,bangalore,credit_card,cancelled
+ord2071,p010,8,2024-12-04,hyderabad,net banking,delivered
+ord1476,p018,5,2025-01-19,chennai,cash_on_delivery,cancelled
+ord2448,p006,4,2025-02-21,mumbai,upi,delivered
+ord2271,p037,0,2025-01-18,chennai,net_banking,cancelled
+ord1418,p028,2,2025-01-14,mumbai,debit_card,cancelled
+ord2029,p015,4,2025-02-28,chennai,debit_card,delivered
+ord1185,p099,7,2025-02-17,hyderabad,cash_on_delivery,delivered
+ord1502,p003,3,2024-12-21,hyderabad,net banking,cancelled
+ord1772,p025,10,2025-02-21,ahmedabad,credit_card,returned
+ord2913,p038,1,2025-03-01,bangalore,credit_card,delivered
+ord2650,p017,6,2024-12-01,ahmedabad,cash_on_delivery,returned
+ord1569,p037,1,2025-01-18,pune,upi,cancelled
+ord1405,p022,7,2025-01-11,delhi,cash_on_delivery,delivered
+ord2936,p036,9,2024-12-23,kolkata,upi,delivered
+ord2920,p008,7,2025-01-17,mumbai,net_banking,delivered
+ord2272,p036,1,2025-02-01,ahmedabad,debit_card,delivered
+ord1865,p015,1,2025-02-27,bangalore,debit_card,delivered
+ord1719,p039,10,2024-12-25,kolkata,upi,returned
+ord1364,p012,7,2025-12-02,delhi,upi,cancelled
+ord2926,p025,8,2025-07-02,hyderabad,credit_card,delivered
+ord2947,p027,6,2025-12-02,chennai,upi,cancelled
+ord2807,p033,6,2025-01-01,ahmedabad,debit_card,cancelled
+ord1615,p023,2,2025-02-14,delhi,cash_on_delivery,returned
+ord1891,p012,2,2025-02-04,ahmedabad,cash_on_delivery,delivered
+ord1238,p014,1,2025-01-17,kolkata,debit_card,delivered
+ord1972,p040,7,2024-12-17,pune,credit_card,returned
+ord1481,p017,3,2024-03-12,pune,cash_on_delivery,delivered
+ord1839,p021,3,2024-12-14,mumbai,debit_card,delivered
+ord2655,p001,3,2024-12-28,mumbai,net banking,delivered
+ord2317,p007,6,2024-12-24,mumbai,net banking,delivered
+ord1210,p013,2,2025-01-02,delhi,net banking,cancelled
+ord2683,p016,9,2025-02-03,ahmedabad,upi,returned
+ord1767,p037,10,2024-09-12,ahmedabad,cash_on_delivery,returned
+ord1769,p028,7,2024-12-31,delhi,credit_card,cancelled
+ord1780,p036,4,2025-07-02,mumbai,upi,returned
+ord2056,p020,7,2025-01-11,mumbai,cash_on_delivery,delivered
+ord1994,p013,7,2025-01-29,ahmedabad,debit_card,returned
+ord2726,p005,1,2025-10-01,kolkata,credit_card,delivered
+ord1871,p008,2,2025-02-15,chennai,debit_card,cancelled
+ord1881,p008,3,2025-01-17,pune,debit_card,delivered
+ord1093,p027,1,2025-02-03,pune,upi,delivered
+ord2656,p007,10,2025-01-28,pune,net banking,delivered
+ord1027,p036,8,2025-01-30,hyderabad,credit_card,returned
+ord1623,p022,1,2024-12-06,delhi,credit_card,delivered
+ord1120,p036,2,2025-01-26,delhi,debit_card,cancelled
+ord2410,p009,2,2025-01-01,hyderabad,cash_on_delivery,delivered
+ord2416,p036,3,2024-12-25,ahmedabad,cash_on_delivery,delivered
+ord1096,p033,3,2024-12-31,delhi,credit_card,delivered
+ord1226,p008,6,2025-01-10,pune,net banking,delivered
+ord2295,p101,6,2025-02-14,kolkata,cash_on_delivery,returned
+ord2310,p025,2,2024-01-12,ahmedabad,debit_card,returned
+ord1805,p022,3,2025-02-17,pune,upi,delivered
+ord1481,p030,10,2025-01-26,kolkata,net banking,delivered
+ord2919,p003,3,2025-02-08,delhi,debit_card,delivered
+ord1033,p012,3,2024-12-31,chennai,credit_card,returned
+ord2518,p027,7,2024-12-23,hyderabad,credit_card,delivered
+ord1481,p021,5,2025-02-22,kolkata,credit_card,delivered
+ord1272,p006,8,2025-01-30,ahmedabad,credit_card,delivered
+ord1278,p019,10,2024-12-23,bangalore,credit_card,delivered
+ord1759,p005,9,2025-02-24,mumbai,cash_on_delivery,returned
+ord2253,p016,0,2025-02-03,pune,cash_on_delivery,returned
+ord2636,p035,8,2024-12-13,mumbai,upi,delivered
+ord2242,p033,7,2025-01-26,chennai,cash_on_delivery,returned
+ord1287,p021,3,2025-01-15,delhi,debit_card,delivered
+ord2927,p031,9,2025-01-16,chennai,credit_card,delivered
+ord2700,p006,2,2025-01-23,ahmedabad,debit_card,returned
+ord2422,p003,2,2025-01-07,delhi,debit_card,delivered
+ord1481,p023,10,2024-12-02,ahmedabad,debit_card,returned
+ord2840,p026,9,2025-02-23,kolkata,cash_on_delivery,delivered
+ord2539,p034,8,2025-01-03,kolkata,cash_on_delivery,delivered
+ord2624,p005,8,2025-01-24,mumbai,cash_on_delivery,delivered
+ord1409,p017,2,2024-12-25,kolkata,debit_card,returned
+ord2663,p022,7,2025-01-09,ahmedabad,net banking,delivered
+ord1818,p015,1,2025-09-02,hyderabad,upi,delivered
+ord1487,p018,6,2025-02-27,hyderabad,debit_card,delivered
+ord2255,p031,3,2025-02-15,kolkata,net banking,returned
+ord2179,p014,9,2024-12-25,hyderabad,cash_on_delivery,delivered
+ord1132,p019,6,2025-02-03,mumbai,upi,delivered
+ord2095,p030,4,2025-01-09,mumbai,cash_on_delivery,returned
+ord2184,p027,1,2025-01-24,kolkata,upi,delivered
+ord1283,p028,5,2025-02-10,kolkata,credit_card,delivered
+ord2559,p039,5,2025-02-09,mumbai,upi,returned
+ord2718,p013,3,2025-01-03,bangalore,net banking,returned
+ord2251,p040,2,2025-02-13,ahmedabad,credit_card,returned
+ord1212,p032,5,2024-06-12,kolkata,upi,returned
+ord1481,p036,3,2024-12-25,mumbai,cash_on_delivery,delivered
+ord2574,p013,5,2025-01-21,bangalore,cash_on_delivery,returned
+ord2240,p036,7,2025-01-16,chennai,cash_on_delivery,delivered
+ord1369,p036,8,2025-02-07,delhi,credit_card,delivered
+ord1330,p035,9,2025-05-02,pune,cash_on_delivery,delivered
+ord1116,p022,1,2025-01-24,bangalore,cash_on_delivery,delivered
+ord2957,p011,2,2025-02-02,ahmedabad,debit_card,delivered
+ord1439,p007,8,2025-01-02,pune,net banking,returned
+ord2076,p036,10,2025-01-12,pune,net_banking,delivered
+ord1904,p099,7,2025-01-21,chennai,upi,cancelled
+ord2781,p015,0,2025-01-28,chennai,credit_card,delivered
+ord2478,p035,6,2025-02-08,kolkata,cash_on_delivery,delivered
+ord1016,p009,5,2024-12-25,ahmedabad,credit_card,delivered
+ord1412,p002,2,2025-01-31,pune,upi,delivered
+ord1031,p011,7,2024-12-17,hyderabad,cash_on_delivery,cancelled
+ord2505,p020,1,2025-01-10,chennai,cash_on_delivery,delivered
+ord1378,p036,1,2024-12-05,delhi,cash_on_delivery,delivered
+ord2048,p023,8,2024-12-27,pune,credit_card,returned
+ord1317,p002,5,2025-01-19,kolkata,net banking,cancelled
+ord2104,p023,7,2024-05-12,pune,credit_card,delivered
+ord2327,p014,4,2025-01-26,ahmedabad,debit_card,delivered
+ord1954,p037,9,2025-02-09,kolkata,cash_on_delivery,returned
+ord2607,p007,2,2025-02-13,bangalore,net_banking,returned
+ord1507,p001,7,2024-12-18,pune,cash_on_delivery,cancelled
+ord2501,p036,7,2025-02-28,chennai,net banking,returned
+ord2133,p019,2,2025-02-16,delhi,credit_card,delivered
+ord1709,p036,7,2024-12-24,mumbai,upi,returned
+ord1606,p012,2,2025-02-19,kolkata,credit_card,delivered
+ord1481,p009,2,2025-02-07,mumbai,net banking,returned
+ord1404,p033,6,2025-02-14,kolkata,cash_on_delivery,delivered
+ord1122,p015,2,2025-01-31,kolkata,cash_on_delivery,returned
+ord2860,p036,10,2025-02-22,kolkata,credit_card,delivered
+ord2488,p034,5,2025-01-04,delhi,net_banking,delivered
+ord2197,p008,6,2025-02-27,hyderabad,debit_card,delivered
+ord2955,p007,9,2025-02-14,delhi,debit_card,delivered
+ord2337,p021,2,2025-01-29,ahmedabad,credit_card,cancelled
+ord2643,p020,9,2024-12-03,hyderabad,net banking,returned
+ord1588,p008,2,2025-02-14,ahmedabad,cash_on_delivery,delivered
+ord1674,p016,0,2025-01-03,chennai,debit_card,returned
+ord2348,p024,2,2025-01-26,kolkata,cash_on_delivery,returned
+ord1360,p003,10,2025-02-21,chennai,upi,cancelled
+ord1788,p032,5,2025-01-05,delhi,credit_card,cancelled
+ord2818,p036,1,2025-02-11,hyderabad,debit_card,delivered
+ord2331,p008,1,2025-02-20,kolkata,net banking,delivered
+ord1013,p016,2,2025-02-05,ahmedabad,upi,delivered
+ord2982,p019,7,2025-01-24,chennai,cash_on_delivery,delivered
+ord2141,p023,0,2025-01-28,pune,upi,cancelled
+ord1849,p023,4,2025-02-14,kolkata,cash_on_delivery,delivered
+ord1192,p003,10,2024-12-16,hyderabad,credit_card,returned
+ord1570,p035,4,2025-01-21,delhi,net banking,cancelled
+ord2467,p024,9,2025-02-23,delhi,credit_card,delivered
+ord1383,p100,2,2024-12-16,bangalore,credit_card,delivered
+ord1074,p019,8,2025-01-04,bangalore,debit_card,returned
+ord2991,p009,7,2024-12-20,kolkata,upi,cancelled
+ord1684,p006,5,2024-12-15,hyderabad,upi,returned
+ord1079,p036,4,2025-02-21,pune,upi,delivered
+ord1481,p030,2,2025-01-31,kolkata,cash_on_delivery,returned
+ord2198,p018,10,2025-03-01,kolkata,net banking,delivered
+ord1955,p037,6,2025-01-31,delhi,net_banking,delivered
+ord2050,p039,7,2025-02-19,ahmedabad,net banking,delivered
+ord2144,p028,7,2025-01-22,chennai,credit_card,delivered
+ord2749,p036,7,2025-01-01,bangalore,debit_card,delivered
+ord1450,p013,6,2025-01-04,kolkata,debit_card,delivered
+ord1481,p011,9,2024-12-19,hyderabad,credit_card,delivered
+ord1603,p003,9,2025-02-24,bangalore,credit_card,delivered
+ord2303,p005,8,2025-04-01,bangalore,credit_card,delivered
+ord1453,p008,6,2025-02-05,pune,cash_on_delivery,delivered
+ord1254,p020,3,2025-01-30,pune,net banking,delivered
+ord1194,p029,3,2025-01-22,mumbai,debit_card,returned
+ord1494,p031,2,2024-12-08,delhi,debit_card,cancelled
+ord1791,p023,0,2024-12-07,hyderabad,upi,cancelled
+ord2845,p002,10,2025-02-08,bangalore,net banking,cancelled
+ord1481,p019,10,2025-01-06,kolkata,upi,delivered
+ord2992,p012,2,2024-12-27,kolkata,debit_card,cancelled
+ord1245,p010,8,2025-02-01,delhi,credit_card,delivered
+ord2725,p002,4,2025-02-21,kolkata,credit_card,delivered
+ord2424,p037,6,2025-02-02,ahmedabad,net_banking,delivered
+ord2006,p021,7,2025-01-17,bangalore,debit_card,returned
+ord2949,p030,10,2024-12-05,chennai,cash_on_delivery,delivered
+ord1220,p008,2,2024-12-26,kolkata,debit_card,cancelled
+ord2472,p029,10,2024-12-16,delhi,net banking,delivered
+ord2178,p025,4,2024-12-11,bangalore,upi,delivered
+ord2302,p005,2,2025-01-07,kolkata,net banking,delivered
+ord2903,p030,8,2025-01-21,mumbai,cash_on_delivery,delivered
+ord1718,p036,6,2024-12-05,mumbai,upi,delivered
+ord2461,p017,2,2025-02-04,mumbai,upi,delivered
+ord2122,p099,9,2024-12-31,pune,cash_on_delivery,delivered
+ord2278,p003,5,2024-12-15,bangalore,upi,delivered
+ord1424,p012,7,2024-12-21,delhi,debit_card,cancelled
+ord2695,p008,9,2025-02-01,mumbai,debit_card,delivered
+ord2555,p027,2,2025-01-14,chennai,credit_card,delivered
+ord1536,p025,9,2024-12-04,ahmedabad,credit_card,cancelled
+ord2395,p013,8,2024-12-18,delhi,credit_card,cancelled
+ord1258,p030,2,2025-02-12,bangalore,cash_on_delivery,cancelled
+ord1539,p011,3,2024-05-12,pune,cash_on_delivery,cancelled
+ord1691,p006,2,2024-04-12,kolkata,debit_card,delivered
+ord2044,p023,6,2025-01-17,chennai,cash_on_delivery,delivered
+ord2457,p013,5,2024-12-19,chennai,cash_on_delivery,returned
+ord2668,p025,3,2024-12-27,kolkata,debit_card,delivered
+ord1666,p015,10,2025-05-01,hyderabad,credit_card,delivered
+ord1481,p008,7,2024-12-14,pune,debit_card,delivered
+ord1527,p101,9,2025-02-17,ahmedabad,credit_card,cancelled
+ord1462,p040,5,2024-09-12,kolkata,upi,delivered
+ord2510,p009,2,2024-12-16,delhi,credit_card,returned
+ord1521,p024,7,2024-12-23,bangalore,cash_on_delivery,delivered
+ord2438,p006,4,2025-01-15,delhi,credit_card,delivered
+ord2383,p023,3,2024-12-24,hyderabad,upi,delivered
+ord2130,p040,10,2025-01-27,bangalore,net banking,delivered
+ord2212,p021,8,2025-01-14,mumbai,net_banking,delivered
+ord2813,p023,5,2024-12-20,mumbai,net banking,cancelled
+ord2905,p021,8,2025-02-07,delhi,upi,delivered
+ord2420,p002,10,2025-01-18,delhi,debit_card,cancelled
+ord2192,p005,2,2025-02-05,hyderabad,cash_on_delivery,returned
+ord2835,p016,10,2024-12-26,bangalore,credit_card,returned
+ord1679,p038,3,2024-12-24,chennai,upi,delivered
+ord2537,p036,0,2024-12-24,chennai,net banking,delivered
+ord1415,p022,10,2025-12-02,mumbai,debit_card,returned
+ord2744,p006,3,2025-02-13,kolkata,cash_on_delivery,delivered
+ord2724,p022,4,2024-12-17,kolkata,debit_card,cancelled
+ord1449,p021,2,2024-12-27,bangalore,debit_card,delivered
+ord1761,p036,1,2025-02-20,bangalore,debit_card,cancelled
+ord1757,p031,6,2025-01-25,delhi,credit_card,delivered
+ord1289,p023,6,2025-02-18,hyderabad,upi,cancelled
+ord2353,p003,5,2025-01-16,ahmedabad,cash_on_delivery,delivered
+ord1247,p034,6,2024-12-08,hyderabad,upi,delivered
+ord1199,p027,10,2024-12-01,hyderabad,cash_on_delivery,delivered
+ord2664,p022,2,2025-01-10,ahmedabad,upi,delivered
+ord2329,p001,3,2025-02-02,hyderabad,cash_on_delivery,delivered
+ord1906,p003,3,2025-10-01,hyderabad,credit_card,delivered
+ord2576,p002,4,2024-12-22,delhi,upi,delivered
+ord2429,p101,2,2025-01-13,hyderabad,net banking,delivered
+ord1281,p021,7,2025-02-13,kolkata,net banking,delivered
+ord1876,p008,10,2024-12-23,ahmedabad,net banking,cancelled
+ord1146,p013,3,2024-12-31,mumbai,upi,delivered
+ord2831,p036,5,2024-12-19,delhi,upi,returned
+ord1819,p030,7,2025-01-01,mumbai,debit_card,cancelled
+ord2020,p039,5,2025-01-05,chennai,cash_on_delivery,delivered
+ord1481,p039,10,2025-01-25,ahmedabad,net banking,delivered
+ord2131,p028,9,2024-12-03,hyderabad,cash_on_delivery,delivered
+ord2870,p005,8,2025-01-29,chennai,credit_card,returned
+ord2782,p037,10,2025-02-21,mumbai,credit_card,delivered
+ord1300,p022,2,2025-01-05,bangalore,net banking,delivered
+ord2984,p022,8,2024-12-21,ahmedabad,debit_card,delivered
+ord1390,p012,5,2025-02-10,hyderabad,upi,cancelled
+ord2173,p002,10,2025-02-21,chennai,upi,delivered
+ord1660,p101,8,2024-11-12,bangalore,cash_on_delivery,delivered
+ord1928,p016,6,2024-12-16,ahmedabad,credit_card,delivered
+ord1940,p003,3,2024-12-29,ahmedabad,upi,delivered
+ord2594,p015,10,2025-01-12,hyderabad,net banking,returned
+ord2030,p012,7,2024-12-04,chennai,cash_on_delivery,returned
+ord2918,p024,4,2025-01-04,delhi,net banking,delivered
+ord1601,p008,9,2024-12-05,hyderabad,cash_on_delivery,cancelled
+ord2833,p013,7,2025-02-17,kolkata,debit_card,cancelled
+ord1400,p006,6,2025-02-15,ahmedabad,net banking,delivered
+ord2897,p024,2,2025-01-06,kolkata,upi,delivered
+ord1436,p011,5,2025-02-27,ahmedabad,credit_card,delivered
+ord1682,p006,9,2025-12-01,ahmedabad,credit_card,delivered
+ord1115,p037,2,2025-05-02,chennai,upi,cancelled
+ord1775,p021,1,2024-12-15,ahmedabad,debit_card,cancelled
+ord1631,p035,2,2024-12-30,hyderabad,debit_card,delivered
+ord1758,p002,5,2025-01-23,delhi,credit_card,cancelled
+ord1145,p100,4,2024-12-13,bangalore,credit_card,delivered
+ord1741,p007,10,2025-01-05,kolkata,credit_card,cancelled
+ord1466,p013,9,2025-02-20,pune,upi,delivered
+ord1108,p037,5,2025-02-22,pune,credit_card,delivered
+ord2528,p022,0,2025-01-23,mumbai,cash_on_delivery,delivered
+ord2532,p033,2,2025-02-22,kolkata,upi,cancelled
+ord2292,p036,9,2025-02-04,ahmedabad,cash_on_delivery,delivered
+ord1731,p017,5,2025-01-11,hyderabad,net banking,delivered
+ord1230,p033,1,2025-01-18,chennai,debit_card,delivered
+ord1149,p035,8,2025-01-26,delhi,credit_card,cancelled
+ord1659,p038,10,2025-02-18,ahmedabad,upi,delivered
+ord1345,p012,5,2025-02-19,mumbai,net banking,delivered
+ord2647,p019,1,2025-02-16,ahmedabad,upi,delivered
+ord1648,p009,5,2025-01-24,bangalore,net banking,delivered
+ord2082,p039,3,2025-01-16,pune,net banking,delivered
+ord2001,p033,2,2025-02-01,ahmedabad,upi,delivered
+ord1540,p002,5,2025-02-08,chennai,credit_card,returned
+ord1914,p008,8,2025-01-23,delhi,upi,returned
+ord2280,p013,7,2025-01-04,mumbai,upi,cancelled
+ord1250,p022,5,2024-12-02,hyderabad,debit_card,cancelled
+ord2290,p006,3,2024-12-15,ahmedabad,upi,delivered
+ord2944,p030,5,2025-01-17,chennai,debit_card,cancelled
+ord2267,p022,7,2025-02-28,ahmedabad,debit_card,returned
+ord1007,p023,9,2024-12-19,chennai,credit_card,delivered
+ord1630,p032,10,2025-01-12,hyderabad,net banking,cancelled
+ord2186,p031,7,2025-02-08,ahmedabad,upi,cancelled
+ord1144,p016,5,2025-01-02,bangalore,upi,cancelled
+ord1246,p028,3,2025-02-05,pune,upi,delivered
+ord2965,p030,7,2025-01-10,ahmedabad,cash_on_delivery,cancelled
+ord1083,p023,7,2024-12-04,mumbai,cash_on_delivery,returned
+ord2152,p033,2,2024-12-04,delhi,debit_card,cancelled
+ord1888,p020,2,2024-07-12,pune,upi,delivered
+ord2491,p004,0,2025-02-18,mumbai,upi,delivered
+ord2830,p037,6,2024-12-15,delhi,net banking,delivered
+ord2418,p005,3,2025-02-22,pune,net banking,cancelled
+ord2201,p017,8,2025-02-06,delhi,credit_card,cancelled
+ord1628,p011,2,2025-02-25,ahmedabad,credit_card,returned
+ord1303,p021,8,2024-12-19,ahmedabad,debit_card,delivered
+ord1339,p001,1,2025-01-25,chennai,net banking,delivered
+ord1019,p020,2,2024-12-08,delhi,credit_card,delivered
+ord1859,p020,10,2025-01-19,delhi,credit_card,delivered
+ord1180,p022,6,2025-07-02,kolkata,net banking,delivered
+ord2275,p017,6,2025-02-23,ahmedabad,debit_card,delivered
+ord1306,p016,4,2024-12-30,delhi,net banking,cancelled
+ord2314,p033,7,2025-01-13,bangalore,cash_on_delivery,delivered
+ord2379,p001,2,2025-02-18,ahmedabad,upi,delivered
+ord1877,p025,7,2025-02-05,ahmedabad,cash_on_delivery,delivered
+ord1419,p014,1,2025-01-03,bangalore,net banking,returned
+ord2154,p011,10,2024-12-10,delhi,net banking,cancelled
+ord1514,p013,8,2024-12-14,pune,credit_card,delivered
+ord2087,p025,0,2025-02-14,chennai,credit_card,returned
+ord2556,p015,3,2024-12-17,ahmedabad,credit_card,delivered
+ord2502,p040,1,2024-12-02,chennai,debit_card,delivered
+ord1824,p020,0,2025-02-11,hyderabad,upi,cancelled
+ord1243,p039,5,2024-12-13,delhi,net banking,cancelled
+ord1571,p012,10,2025-02-25,mumbai,cash_on_delivery,delivered
+ord2974,p027,5,2025-02-03,pune,cash_on_delivery,delivered
+ord1484,p022,1,2025-01-18,pune,debit_card,delivered
+ord2716,p013,8,2025-02-04,chennai,debit_card,delivered
+ord1555,p036,3,2025-04-01,delhi,credit_card,cancelled
+ord1562,p023,1,2024-12-29,hyderabad,cash_on_delivery,returned
+ord1155,p035,4,2024-08-12,bangalore,net banking,returned
+ord1198,p011,6,2025-01-05,delhi,debit_card,delivered
+ord1059,p011,5,2025-01-21,mumbai,cash_on_delivery,delivered
+ord2097,p006,5,2025-01-24,hyderabad,credit_card,delivered
+ord2060,p027,1,2024-12-21,delhi,net banking,cancelled
+ord1459,p020,8,2025-01-05,hyderabad,upi,delivered
+ord1481,p003,8,2025-02-05,ahmedabad,cash_on_delivery,delivered
+ord1671,p005,6,2025-01-23,chennai,net banking,returned
+ord2217,p007,8,2025-02-10,chennai,debit_card,delivered
+ord1883,p023,9,2024-12-22,pune,credit_card,delivered
+ord1970,p023,4,2025-06-01,kolkata,cash_on_delivery,returned
+ord2286,p009,9,2025-01-24,mumbai,net banking,delivered
+ord1286,p034,3,2024-12-01,pune,cash_on_delivery,cancelled
+ord1257,p015,3,2025-02-11,ahmedabad,credit_card,delivered
+ord1269,p004,3,2025-02-14,ahmedabad,net banking,cancelled
+ord2850,p017,2,2024-12-17,hyderabad,cash_on_delivery,returned
+ord2150,p039,3,2024-12-31,delhi,credit_card,delivered
+ord2153,p026,7,2025-03-01,chennai,net banking,delivered
+ord1846,p006,5,2025-02-11,hyderabad,cash_on_delivery,delivered
+ord2513,p005,9,2025-02-21,mumbai,credit_card,cancelled
+ord1111,p019,2,2025-02-03,mumbai,cash_on_delivery,returned
+ord2124,p036,2,2024-12-12,pune,credit_card,cancelled
+ord1026,p008,6,2024-12-21,bangalore,cash_on_delivery,delivered
+ord1435,p037,2,2024-12-06,bangalore,upi,cancelled
+ord2747,p037,6,2025-01-23,chennai,upi,delivered
+ord1376,p007,7,2024-12-05,kolkata,upi,returned
+ord1644,p022,6,2024-12-24,mumbai,net banking,delivered
+ord2481,p025,4,2025-01-28,delhi,net banking,cancelled
+ord2737,p030,1,2024-12-07,kolkata,net banking,cancelled
+ord2986,p030,2,2025-02-21,kolkata,debit_card,returned
+ord1591,p020,8,2024-12-25,ahmedabad,upi,delivered
+ord1621,p021,3,2024-12-28,bangalore,credit_card,delivered
+ord2910,p017,6,2024-12-21,pune,debit_card,delivered
+ord2935,p036,7,2025-01-05,pune,upi,cancelled
+ord2869,p013,1,2025-01-15,mumbai,credit_card,cancelled
+ord1961,p023,5,2025-01-03,kolkata,net banking,cancelled
+ord2802,p003,9,2024-12-18,kolkata,net banking,cancelled
+ord1433,p033,4,2024-12-15,ahmedabad,net banking,cancelled
+ord2313,p030,2,2025-02-23,kolkata,credit_card,cancelled
+ord1195,p022,2,2025-01-04,kolkata,cash_on_delivery,delivered
+ord2465,p019,10,2025-02-05,chennai,net banking,cancelled
+ord2506,p101,1,2024-12-01,hyderabad,credit_card,delivered
+ord1781,p040,2,2024-12-17,kolkata,cash_on_delivery,cancelled
+ord2246,p033,4,2025-01-20,ahmedabad,credit_card,cancelled
+ord2291,p007,1,2024-12-19,delhi,upi,returned
+ord1368,p002,1,2025-02-23,chennai,debit_card,returned
+ord1481,p023,1,2025-01-24,pune,upi,delivered
+ord2873,p032,2,2025-02-19,delhi,net banking,delivered
+ord2788,p036,1,2024-12-23,hyderabad,debit_card,delivered
+ord1625,p034,9,2024-12-18,mumbai,net banking,delivered
+ord1806,p037,9,2025-02-24,chennai,credit_card,delivered
+ord1297,p021,5,2025-02-21,delhi,debit_card,cancelled
+ord1043,p039,1,2024-12-15,bangalore,debit_card,delivered
+ord1321,p004,10,2025-04-02,chennai,net banking,returned
+ord1870,p035,2,2024-12-13,kolkata,credit_card,delivered
+ord1447,p023,6,2025-03-01,mumbai,upi,delivered
+ord2717,p011,3,2024-12-03,delhi,cash_on_delivery,delivered
+ord2366,p030,10,2024-12-23,mumbai,net banking,cancelled
+ord1829,p100,2,2024-12-18,bangalore,net banking,cancelled
+ord1556,p031,1,2025-02-07,kolkata,net banking,delivered
+ord1324,p037,4,2024-12-25,ahmedabad,credit_card,delivered
+ord2806,p015,4,2025-07-01,bangalore,cash_on_delivery,delivered
+ord1560,p015,2,2025-02-28,ahmedabad,cash_on_delivery,delivered
+ord2823,p013,2,2025-01-19,kolkata,net banking,returned
+ord1077,p005,4,2024-12-05,chennai,cash_on_delivery,delivered
+ord2617,p020,0,2025-01-24,delhi,net banking,returned
+ord2252,p033,3,2024-12-10,kolkata,debit_card,delivered
+ord1124,p036,9,2024-12-11,chennai,credit_card,cancelled
+ord1441,p017,10,2025-01-02,mumbai,cash_on_delivery,delivered
+ord2847,p016,6,2025-02-28,chennai,cash_on_delivery,returned
+ord2933,p038,6,2025-01-27,delhi,debit_card,delivered
+ord1420,p013,2,2025-01-25,chennai,debit_card,delivered
+ord1285,p027,2,2024-12-25,chennai,cash_on_delivery,delivered
+ord2147,p019,9,2024-03-12,hyderabad,upi,delivered
+ord1528,p024,4,2025-01-27,kolkata,upi,delivered
+ord2433,p015,4,2025-09-01,delhi,upi,returned
+ord2578,p005,6,2024-12-12,hyderabad,debit_card,cancelled
+ord1481,p028,5,2025-02-25,bangalore,credit_card,delivered
+ord2816,p001,8,2025-02-04,bangalore,net banking,cancelled
+ord2373,p006,0,2025-01-15,kolkata,upi,delivered
+ord2003,p012,10,2025-01-10,hyderabad,credit_card,returned
+ord2775,p001,2,2025-01-22,bangalore,credit_card,delivered
+ord1322,p016,2,2025-02-14,mumbai,cash_on_delivery,delivered
+ord2498,p001,8,2025-01-04,chennai,cash_on_delivery,cancelled
+ord2541,p039,4,2025-02-22,chennai,credit_card,delivered
+ord1866,p010,1,2025-01-29,pune,upi,delivered
+ord2321,p037,3,2024-12-11,pune,upi,delivered
+ord2521,p008,7,2025-02-10,kolkata,upi,delivered
+ord1481,p039,3,2025-01-21,mumbai,credit_card,delivered
+ord1639,p015,8,2024-12-22,mumbai,upi,delivered
+ord1762,p004,2,2024-04-12,ahmedabad,cash_on_delivery,delivered
+ord1358,p030,10,2025-02-27,chennai,net banking,delivered
+ord2035,p024,4,2024-12-23,kolkata,upi,delivered
+ord2229,p006,1,2025-01-06,bangalore,upi,delivered
+ord1743,p002,7,2025-01-18,kolkata,credit_card,delivered
+ord2854,p007,1,2025-02-10,pune,net banking,delivered
+ord2941,p023,7,2025-03-01,kolkata,net banking,cancelled
+ord2561,p015,7,2025-01-28,bangalore,debit_card,returned
+ord2640,p026,0,2025-02-23,bangalore,net banking,delivered
+ord2061,p008,2,2025-01-09,bangalore,net banking,delivered
+ord1523,p017,5,2025-02-27,kolkata,net banking,cancelled
+ord1649,p033,10,2025-10-01,kolkata,cash_on_delivery,delivered
+ord1329,p025,2,2024-12-13,chennai,credit_card,delivered
+ord2623,p010,10,2025-02-04,bangalore,upi,delivered
+ord1090,p016,10,2024-12-21,pune,debit_card,cancelled
+ord1382,p014,3,2024-12-22,pune,net banking,returned
+ord2376,p024,6,2024-12-30,ahmedabad,debit_card,delivered
+ord2276,p100,9,2025-01-02,kolkata,upi,delivered
+ord2916,p023,4,2024-12-23,delhi,cash_on_delivery,delivered
+ord2911,p029,4,2024-12-16,bangalore,cash_on_delivery,returned
+ord1313,p101,9,2024-12-01,mumbai,net_banking,delivered
+ord1403,p033,5,2024-12-14,pune,net_banking,cancelled
+ord2053,p032,3,2025-01-19,hyderabad,net banking,cancelled
+ord2497,p005,1,2025-01-16,bangalore,upi,cancelled
+ord1598,p012,1,2025-01-27,bangalore,debit_card,delivered
+ord1156,p040,1,2025-02-05,hyderabad,cash_on_delivery,delivered
+ord1756,p006,4,2025-01-25,pune,net banking,delivered
+ord1790,p022,2,2024-11-12,chennai,net banking,delivered
+ord1274,p001,8,2024-12-12,chennai,net banking,delivered
+ord1672,p010,1,2024-12-17,chennai,upi,returned
+ord1056,p006,5,2025-01-09,chennai,cash_on_delivery,delivered
+ord1481,p021,3,2025-02-08,pune,cash_on_delivery,delivered
+ord1548,p034,8,2024-12-17,bangalore,net banking,cancelled
+ord2679,p018,5,2025-12-02,chennai,net banking,cancelled
+ord1366,p006,2,2025-01-06,mumbai,debit_card,cancelled
+ord2274,p022,7,2025-01-14,hyderabad,upi,delivered
+ord2357,p037,6,2024-12-02,ahmedabad,debit_card,delivered
+ord1481,p004,0,2025-01-20,mumbai,cash_on_delivery,returned
+ord1030,p028,6,2025-02-24,hyderabad,debit_card,delivered
+ord1099,p022,0,2025-02-03,bangalore,upi,delivered
+ord1335,p002,9,2025-01-30,mumbai,upi,cancelled
+ord2912,p034,2,2025-02-28,bangalore,debit_card,delivered
+ord1646,p026,0,2025-05-02,pune,net banking,delivered
+ord2938,p024,1,2025-02-12,hyderabad,cash_on_delivery,returned
+ord1050,p017,5,2025-02-14,chennai,upi,returned
+ord2754,p007,4,2024-12-17,delhi,debit_card,delivered
+ord1075,p101,7,2025-02-25,kolkata,net banking,delivered
+ord2568,p007,4,2024-12-27,bangalore,upi,returned
+ord2008,p039,2,2025-01-13,delhi,cash_on_delivery,delivered
+ord2569,p023,1,2024-12-29,pune,debit_card,delivered
+ord2895,p028,4,2024-12-15,kolkata,credit_card,returned
+ord1786,p022,1,2025-01-13,chennai,net banking,delivered
+ord1714,p034,8,2025-01-24,pune,upi,returned
+ord2479,p003,4,2024-12-14,ahmedabad,debit_card,cancelled
+ord2805,p015,9,2025-02-11,delhi,debit_card,returned
+ord1882,p011,4,2025-01-19,chennai,credit_card,delivered
+ord2228,p028,7,2024-12-05,chennai,net banking,delivered
+ord1750,p006,7,2025-02-02,mumbai,credit_card,delivered
+ord1584,p008,7,2024-12-06,ahmedabad,net banking,cancelled
+ord1481,p001,7,2025-02-05,delhi,upi,delivered
+ord1260,p002,9,2024-12-06,chennai,debit_card,delivered
+ord1867,p012,6,2025-01-19,ahmedabad,net banking,delivered
+ord2264,p012,10,2024-12-05,hyderabad,debit_card,delivered
+ord2470,p022,10,2024-03-12,bangalore,upi,delivered
+ord1184,p024,9,2025-02-25,bangalore,credit_card,delivered
+ord1104,p006,6,2025-02-27,bangalore,cash_on_delivery,delivered
+ord2525,p028,6,2025-01-18,bangalore,upi,delivered
+ord1434,p022,10,2024-12-18,pune,credit_card,cancelled
+ord2105,p040,9,2025-05-01,pune,cash_on_delivery,returned
+ord2190,p006,4,2025-02-08,kolkata,cash_on_delivery,delivered
+ord2169,p022,2,2025-01-15,bangalore,cash_on_delivery,cancelled
+ord1214,p034,7,2024-12-02,pune,upi,cancelled
+ord2330,p021,0,2024-12-20,hyderabad,credit_card,delivered
+ord1656,p015,9,2025-02-17,hyderabad,upi,cancelled
+ord1962,p034,7,2024-12-25,ahmedabad,debit_card,cancelled
+ord1670,p005,2,2025-02-14,hyderabad,credit_card,cancelled
+ord2170,p033,6,2024-12-13,bangalore,credit_card,returned
+ord2007,p012,3,2025-02-11,mumbai,net banking,delivered
+ord1734,p023,7,2024-09-12,ahmedabad,upi,returned
+ord2234,p035,5,2024-03-12,kolkata,credit_card,delivered
+ord2394,p001,5,2025-01-08,chennai,net banking,delivered
+ord2033,p003,7,2024-12-24,ahmedabad,debit_card,cancelled
+ord1524,p005,4,2024-12-25,delhi,upi,cancelled
+ord2783,p036,9,2025-01-21,mumbai,debit_card,returned
+ord2662,p023,6,2024-12-12,kolkata,cash_on_delivery,returned
+ord2787,p023,8,2025-01-20,chennai,debit_card,delivered
+ord2605,p034,2,2025-02-24,chennai,net banking,delivered
+ord2885,p016,10,2024-01-12,ahmedabad,debit_card,delivered
+ord1572,p019,8,2025-01-15,kolkata,cash_on_delivery,cancelled
+ord2795,p018,1,2025-02-16,mumbai,upi,delivered
+ord2562,p037,7,2024-12-01,hyderabad,net banking,delivered
+ord1179,p016,3,2025-01-07,delhi,cash_on_delivery,cancelled
+ord2111,p025,10,2024-12-25,chennai,debit_card,delivered
+ord2956,p004,8,2025-02-25,bangalore,credit_card,cancelled
+ord1605,p002,8,2024-12-28,kolkata,debit_card,cancelled
+ord1218,p035,10,2024-12-12,bangalore,debit_card,returned
+ord1328,p017,7,2025-02-17,pune,debit_card,delivered
+ord2765,p001,1,2024-12-18,chennai,cash_on_delivery,cancelled
+ord1844,p025,5,2024-12-25,bangalore,debit_card,delivered
+ord1602,p014,4,2024-12-26,hyderabad,debit_card,returned
+ord1410,p018,7,2025-01-25,bangalore,upi,delivered
+ord2164,p039,9,2025-01-28,delhi,net banking,delivered
+ord2752,p019,8,2024-12-13,kolkata,net banking,cancelled
+ord2550,p020,5,2024-12-19,ahmedabad,credit_card,delivered
+ord1202,p005,3,2025-01-19,pune,cash_on_delivery,delivered
+ord2723,p034,1,2025-02-24,ahmedabad,cash_on_delivery,cancelled
+ord1231,p033,8,2025-02-17,hyderabad,net banking,delivered
+ord1585,p023,9,2025-01-15,delhi,debit_card,returned
+ord2391,p022,9,2025-01-04,kolkata,debit_card,delivered
+ord2270,p012,1,2025-02-15,mumbai,cash_on_delivery,delivered
+ord1454,p006,5,2025-03-01,hyderabad,cash_on_delivery,delivered
+ord2665,p015,2,2024-12-28,kolkata,debit_card,delivered
+ord1063,p031,1,2025-01-23,pune,net banking,delivered
+ord1148,p030,6,2025-02-26,delhi,net banking,delivered
+ord2509,p028,5,2025-01-08,delhi,net banking,delivered
+ord1505,p027,4,2025-01-25,ahmedabad,cash_on_delivery,delivered
+ord2107,p034,9,2025-02-09,delhi,net banking,returned
+ord1411,p016,1,2025-01-15,hyderabad,credit_card,delivered
+ord1948,p022,8,2024-12-23,bangalore,upi,cancelled
+ord2952,p100,10,2025-02-22,kolkata,net banking,returned
+ord1843,p006,1,2024-12-12,bangalore,debit_card,delivered
+ord2967,p101,2,2025-02-27,kolkata,cash_on_delivery,cancelled
+ord1310,p014,9,2024-12-14,mumbai,credit_card,delivered
+ord1481,p001,3,2024-12-22,delhi,upi,delivered
+ord1675,p038,2,2025-05-01,bangalore,debit_card,returned
+ord2390,p031,10,2025-09-01,delhi,cash_on_delivery,delivered
+ord2733,p010,5,2025-02-28,delhi,debit_card,cancelled
+ord1725,p017,2,2025-02-17,mumbai,credit_card,delivered
+ord2768,p011,1,2025-01-01,bangalore,upi,delivered
+ord2435,p017,6,2025-01-19,delhi,upi,delivered
+ord2512,p002,5,2025-01-11,kolkata,net banking,cancelled
+ord1228,p012,3,2024-12-03,bangalore,net banking,cancelled
+ord1150,p025,1,2025-01-09,mumbai,cash_on_delivery,delivered
+ord1973,p027,10,2024-12-27,hyderabad,credit_card,cancelled
+ord2888,p016,0,2025-01-14,chennai,upi,delivered
+ord2917,p023,3,2024-12-25,kolkata,cash_on_delivery,delivered
+ord2261,p016,2,2025-02-12,delhi,cash_on_delivery,delivered
+ord2285,p004,5,2024-09-12,kolkata,cash_on_delivery,delivered
+ord2365,p032,2,2024-12-28,kolkata,net banking,returned
+ord1481,p032,10,2024-12-07,mumbai,net_banking,delivered
+ord2004,p015,5,2024-02-12,chennai,debit_card,delivered
+ord2580,p023,9,2024-12-08,bangalore,debit_card,delivered
+ord1652,p101,5,2025-07-02,kolkata,cash_on_delivery,delivered
+ord1039,p036,7,2025-01-23,hyderabad,cash_on_delivery,delivered
+ord2336,p036,2,2024-12-01,pune,net banking,delivered
+ord1017,p034,8,2024-12-12,hyderabad,credit_card,delivered
+ord1481,p004,6,2025-01-07,ahmedabad,credit_card,cancelled
+ord2155,p040,10,2024-12-25,bangalore,credit_card,returned
+ord1147,p013,8,2024-12-29,hyderabad,credit_card,delivered
+ord1208,p027,6,2025-02-28,mumbai,credit_card,delivered
+ord2896,p001,4,2025-01-16,ahmedabad,credit_card,delivered
+ord1011,p013,10,2025-01-09,hyderabad,upi,delivered
+ord1481,p014,10,2024-12-05,mumbai,cash_on_delivery,returned
+ord1413,p023,9,2025-01-01,ahmedabad,upi,cancelled
+ord1894,p038,6,2025-01-08,pune,credit_card,delivered
+ord1477,p034,8,2025-01-30,pune,credit_card,delivered
+ord2437,p020,1,2025-01-08,pune,cash_on_delivery,delivered
+ord2430,p013,10,2025-02-27,bangalore,cash_on_delivery,returned
+ord2666,p039,4,2025-01-17,ahmedabad,upi,cancelled
+ord2455,p006,6,2025-02-24,chennai,credit_card,cancelled
+ord2168,p039,2,2024-12-01,pune,cash_on_delivery,returned
+ord2143,p030,3,2025-02-06,delhi,cash_on_delivery,delivered
+ord1256,p002,9,2025-02-20,delhi,cash_on_delivery,returned
+ord2405,p009,5,2025-02-01,bangalore,credit_card,delivered
+ord2092,p022,1,2025-01-07,ahmedabad,upi,delivered
+ord1964,p004,4,2024-12-26,delhi,net banking,returned
+ord1493,p021,5,2025-01-25,kolkata,upi,delivered
+ord1812,p022,3,2025-02-20,pune,cash_on_delivery,delivered
+ord1820,p028,3,2024-12-03,mumbai,net banking,cancelled
+ord1481,p007,8,2025-02-17,delhi,credit_card,delivered
+ord2127,p028,0,2024-12-26,hyderabad,credit_card,delivered
+ord1632,p039,9,2025-02-12,mumbai,debit_card,delivered
+ord1950,p023,1,2025-01-13,ahmedabad,upi,delivered
+ord1845,p026,6,2025-01-03,delhi,cash_on_delivery,delivered
+ord1249,p021,5,2024-12-28,hyderabad,credit_card,cancelled
+ord2713,p020,5,2025-02-18,hyderabad,net_banking,delivered
+ord2694,p011,0,2024-06-12,ahmedabad,credit_card,delivered
+ord2360,p005,9,2025-01-17,ahmedabad,upi,returned
+ord1162,p021,10,2024-12-29,bangalore,upi,delivered
+ord1168,p026,6,2024-11-12,ahmedabad,cash_on_delivery,cancelled
+ord1481,p024,4,2025-01-17,chennai,upi,cancelled
+ord2369,p019,2,2025-01-19,ahmedabad,upi,cancelled
+ord2352,p039,1,2025-01-06,ahmedabad,credit_card,returned
+ord1755,p003,4,2024-12-29,mumbai,cash_on_delivery,returned
+ord2736,p020,9,2024-12-22,delhi,upi,delivered
+ord2042,p029,6,2024-12-06,pune,cash_on_delivery,delivered
+ord2824,p007,6,2025-01-22,delhi,cash_on_delivery,returned
+ord2609,p026,0,2025-07-02,hyderabad,upi,cancelled
+ord2230,p005,10,2025-02-15,chennai,cash_on_delivery,delivered
+ord2191,p002,8,2025-02-19,ahmedabad,cash_on_delivery,cancelled
+ord1810,p011,10,2025-02-10,mumbai,upi,delivered
+ord2849,p015,6,2024-12-30,ahmedabad,cash_on_delivery,cancelled
+ord2645,p006,2,2025-11-01,bangalore,net_banking,cancelled
+ord1776,p029,0,2024-12-08,hyderabad,cash_on_delivery,delivered
+ord2013,p022,1,2025-02-22,kolkata,credit_card,delivered
+ord1012,p038,7,2024-12-22,chennai,net banking,returned
+ord2098,p039,8,2024-12-09,chennai,credit_card,delivered
+ord2333,p030,2,2025-01-09,bangalore,cash_on_delivery,delivered
+ord1432,p101,3,2025-01-30,mumbai,credit_card,cancelled
+ord1337,p016,10,2025-02-28,bangalore,net banking,delivered
+ord1504,p023,3,2024-12-12,ahmedabad,credit_card,delivered
+ord1884,p014,4,2025-02-24,delhi,debit_card,delivered
+ord2815,p025,5,2025-01-07,chennai,credit_card,delivered
+ord2868,p018,6,2024-12-19,pune,debit_card,cancelled
+ord1187,p006,3,2025-02-25,chennai,net banking,delivered
+ord1189,p018,8,2024-12-25,kolkata,net banking,delivered
+ord2012,p011,4,2025-02-10,pune,net banking,delivered
+ord2392,p040,2,2025-02-24,chennai,upi,delivered
+ord2701,p024,9,2025-02-21,delhi,debit_card,delivered
+ord1728,p011,7,2024-12-27,ahmedabad,cash_on_delivery,returned
+ord1112,p024,9,2024-12-14,pune,credit_card,delivered
+ord1248,p018,6,2025-01-27,bangalore,cash_on_delivery,delivered
+ord1958,p002,9,2025-08-01,kolkata,credit_card,delivered
+ord1152,p014,9,2024-11-12,bangalore,debit_card,delivered
+ord2294,p036,4,2025-02-14,pune,upi,delivered
+ord1696,p031,9,2025-12-01,mumbai,credit_card,delivered
+ord2015,p007,10,2025-01-19,pune,cash_on_delivery,returned
+ord1061,p023,9,2024-12-31,bangalore,debit_card,delivered
+ord2866,p040,1,2025-02-27,pune,net banking,delivered
+ord1234,p011,3,2025-10-01,chennai,upi,delivered
+ord1736,p006,1,2024-12-25,pune,net banking,returned
+ord2140,p013,10,2024-07-12,pune,debit_card,returned
+ord2279,p020,5,2025-01-29,pune,credit_card,delivered
+ord2077,p038,10,2025-01-08,ahmedabad,cash_on_delivery,delivered
+ord2413,p009,6,2025-02-10,ahmedabad,credit_card,delivered
+ord2577,p011,8,2025-02-24,mumbai,net_banking,returned
+ord1801,p013,0,2025-01-21,hyderabad,debit_card,delivered
+ord2673,p040,7,2024-12-28,bangalore,credit_card,cancelled
+ord1227,p002,9,2024-08-12,hyderabad,net banking,delivered
+ord1034,p027,1,2025-01-19,ahmedabad,cash_on_delivery,delivered
+ord1158,p032,3,2024-08-12,kolkata,cash_on_delivery,delivered
+ord1609,p039,6,2025-02-21,chennai,upi,delivered
+ord2875,p034,5,2025-01-17,kolkata,credit_card,cancelled
+ord2657,p015,8,2024-12-18,ahmedabad,debit_card,returned
+ord2156,p026,1,2025-01-07,bangalore,net banking,delivered
+ord2520,p100,4,2024-04-12,delhi,net banking,delivered
+ord1711,p038,3,2025-01-10,mumbai,credit_card,returned
+ord2629,p099,0,2024-12-25,delhi,credit_card,returned
+ord1712,p034,4,2024-12-17,ahmedabad,net banking,delivered
+ord2930,p001,9,2025-02-14,pune,debit_card,delivered
+ord2614,p038,10,2024-12-06,delhi,cash_on_delivery,delivered
+ord1172,p031,7,2025-01-27,ahmedabad,credit_card,delivered
+ord1295,p039,10,2025-02-09,bangalore,upi,delivered
+ord1131,p016,2,2025-09-02,chennai,net banking,cancelled
+ord1426,p031,1,2024-12-03,ahmedabad,credit_card,cancelled
+ord2386,p015,1,2025-01-15,pune,credit_card,delivered
+ord2354,p015,4,2025-01-04,pune,credit_card,delivered
+ord2950,p003,2,2025-02-15,kolkata,debit_card,returned
+ord1430,p040,9,2024-12-31,ahmedabad,cash_on_delivery,delivered
+ord2183,p036,6,2025-02-04,bangalore,net banking,cancelled
+ord1909,p013,7,2025-01-02,delhi,cash_on_delivery,delivered
+ord1481,p021,4,2024-12-26,mumbai,cash_on_delivery,delivered
+ord2162,p013,3,2025-02-11,delhi,debit_card,delivered
+ord1582,p017,8,2025-11-01,pune,net banking,cancelled
+ord2269,p025,9,2024-08-12,hyderabad,net banking,delivered
+ord1982,p013,7,2025-02-02,mumbai,net banking,returned
+ord2534,p039,2,2025-01-13,hyderabad,debit_card,delivered
+ord1642,p010,7,2024-12-13,bangalore,cash_on_delivery,delivered
+ord2484,p040,1,2024-12-14,kolkata,debit_card,cancelled
+ord1429,p002,2,2025-01-19,hyderabad,debit_card,cancelled
+ord2953,p003,0,2024-12-22,hyderabad,credit_card,delivered
+ord1483,p011,8,2025-01-19,ahmedabad,upi,delivered
+ord2721,p028,2,2025-02-12,pune,net banking,delivered
+ord2803,p002,4,2025-01-01,ahmedabad,debit_card,cancelled
+ord1304,p016,9,2024-12-06,mumbai,debit_card,delivered
+ord2388,p020,4,2025-01-29,kolkata,credit_card,delivered
+ord2258,p002,7,2025-02-16,kolkata,debit_card,returned
+ord2359,p015,1,2025-02-23,ahmedabad,credit_card,delivered
+ord2638,p100,10,2025-01-09,chennai,cash_on_delivery,delivered
+ord1277,p037,10,2025-02-25,delhi,cash_on_delivery,delivered
+ord2631,p022,1,2025-11-01,bangalore,net banking,delivered
+ord1826,p003,1,2024-12-14,kolkata,upi,delivered
+ord1782,p038,5,2025-02-09,chennai,credit_card,delivered
+ord1049,p029,5,2025-01-12,pune,cash_on_delivery,delivered
+ord2325,p039,3,2025-02-22,pune,net banking,cancelled
+ord2981,p020,9,2024-12-24,bangalore,net banking,returned
+ord2844,p002,5,2025-01-26,delhi,upi,returned
+ord1855,p013,7,2025-02-03,mumbai,net banking,delivered
+ord1045,p018,7,2025-01-25,pune,cash_on_delivery,cancelled
+ord2848,p025,4,2025-01-01,mumbai,net banking,delivered
+ord2452,p013,4,2024-12-29,kolkata,debit_card,delivered
+ord2382,p023,0,2025-02-12,chennai,credit_card,delivered
+ord1229,p011,8,2024-12-18,bangalore,cash_on_delivery,cancelled
+ord2059,p037,10,2025-03-01,ahmedabad,credit_card,delivered
+ord1481,p036,3,2025-01-20,hyderabad,credit_card,cancelled
+ord2998,p022,5,2024-05-12,ahmedabad,upi,delivered
+ord2137,p037,2,2025-02-21,chennai,debit_card,delivered
+ord2238,p004,7,2025-01-21,chennai,upi,delivered
+ord2099,p003,4,2024-12-12,pune,credit_card,delivered
+ord2703,p016,4,2025-02-03,mumbai,credit_card,returned
+ord1386,p022,6,2025-02-10,bangalore,cash_on_delivery,cancelled
+ord1942,p022,6,2025-02-19,kolkata,debit_card,cancelled
+ord1936,p028,6,2025-01-14,bangalore,cash_on_delivery,returned
+ord2250,p002,9,2025-02-23,chennai,upi,returned
+ord2031,p002,2,2025-02-01,delhi,cash_on_delivery,delivered
+ord1474,p006,9,2025-02-07,mumbai,upi,returned
+ord2453,p006,7,2025-02-15,mumbai,upi,cancelled
+ord1312,p020,10,2024-12-30,ahmedabad,cash_on_delivery,delivered
+ord2119,p039,4,2024-12-14,hyderabad,debit_card,delivered
+ord1645,p005,1,2025-01-08,pune,net banking,delivered
+ord1966,p002,5,2024-02-12,bangalore,debit_card,returned
+ord1314,p035,7,2025-01-24,pune,net banking,delivered
+ord1651,p022,10,2025-02-01,delhi,net_banking,delivered
+ord1196,p030,9,2024-12-12,ahmedabad,debit_card,returned
+ord1305,p024,4,2024-12-10,chennai,cash_on_delivery,returned
+ord1265,p038,2,2025-01-12,hyderabad,upi,delivered
+ord1770,p013,8,2025-02-19,mumbai,credit_card,delivered
+ord1176,p038,8,2025-02-19,ahmedabad,net banking,cancelled
+ord3000,p038,6,2025-02-27,hyderabad,debit_card,returned
+ord2469,p023,2,2024-12-27,pune,cash_on_delivery,returned
+ord2810,p016,2,2024-12-28,chennai,debit_card,returned
+ord1726,p013,2,2024-12-28,mumbai,debit_card,delivered
+ord2335,p021,3,2024-12-24,hyderabad,cash_on_delivery,cancelled
+ord1941,p033,1,2024-12-19,mumbai,debit_card,delivered
+ord1778,p001,7,2024-12-08,mumbai,credit_card,delivered
+ord2503,p011,1,2025-11-02,bangalore,upi,delivered
+ord1974,p013,2,2025-01-09,hyderabad,cash_on_delivery,delivered
+ord2785,p002,4,2024-07-12,kolkata,debit_card,delivered
+ord1481,p037,8,2025-01-19,ahmedabad,debit_card,returned
+ord1924,p039,7,2025-01-24,hyderabad,debit_card,delivered
+ord2449,p022,6,2024-06-12,kolkata,cash_on_delivery,delivered
+ord2456,p002,1,2025-01-13,mumbai,net banking,returned
+ord2161,p036,6,2024-12-18,kolkata,upi,delivered
+ord1183,p031,0,2025-02-05,ahmedabad,debit_card,delivered
+ord1072,p036,10,2024-12-30,pune,credit_card,cancelled
+ord1710,p039,1,2025-01-25,pune,net banking,delivered
+ord1916,p005,7,2024-12-19,hyderabad,upi,cancelled
+ord2708,p032,9,2024-12-13,bangalore,net banking,cancelled
+ord2204,p030,10,2025-01-23,mumbai,debit_card,returned
+ord1082,p020,9,2024-12-09,ahmedabad,cash_on_delivery,cancelled
+ord1951,p001,10,2025-01-19,chennai,upi,returned
+ord1355,p004,7,2025-02-20,pune,cash_on_delivery,cancelled
+ord2598,p009,7,2024-12-28,ahmedabad,upi,delivered
+ord2219,p021,4,2025-01-26,delhi,credit_card,delivered
+ord2146,p025,1,2025-01-13,bangalore,debit_card,delivered
+ord1422,p002,4,2025-02-18,delhi,upi,returned
+ord2876,p014,2,2024-12-02,mumbai,cash_on_delivery,delivered
+ord1979,p015,4,2025-10-02,ahmedabad,debit_card,cancelled
+ord2316,p020,8,2025-01-12,pune,upi,delivered
+ord1479,p022,10,2025-01-04,kolkata,debit_card,delivered
+ord1949,p026,6,2024-12-18,pune,credit_card,delivered
+ord1575,p012,0,2025-02-13,pune,net banking,delivered
+ord2299,p024,10,2025-02-01,delhi,debit_card,delivered
+ord1188,p014,3,2024-12-24,ahmedabad,net banking,cancelled
+ord1318,p037,10,2025-02-05,chennai,credit_card,delivered
+ord1811,p099,4,2025-02-20,delhi,net banking,returned
+ord2968,p006,8,2025-02-03,bangalore,credit_card,cancelled
+ord2560,p036,4,2024-03-12,hyderabad,upi,delivered
+ord2922,p011,3,2025-11-01,delhi,net_banking,delivered
+ord2661,p036,2,2025-01-21,mumbai,credit_card,delivered
+ord2065,p100,3,2025-02-16,mumbai,upi,returned
+ord1343,p026,3,2024-12-05,pune,upi,returned
+ord1807,p018,10,2024-12-04,pune,credit_card,delivered
+ord2407,p024,8,2025-02-08,ahmedabad,upi,returned
+ord2962,p022,1,2025-01-17,ahmedabad,credit_card,returned
+ord2090,p030,6,2025-02-19,pune,debit_card,returned
+ord2125,p006,4,2025-02-28,mumbai,cash_on_delivery,returned
+ord2475,p003,7,2025-02-27,pune,net_banking,cancelled
+ord2784,p010,7,2025-02-12,mumbai,cash_on_delivery,cancelled
+ord1455,p039,1,2025-03-01,bangalore,credit_card,delivered
+ord1197,p099,8,2025-02-01,pune,upi,delivered
+ord2343,p015,1,2025-01-20,hyderabad,upi,cancelled
+ord2677,p037,7,2024-12-21,mumbai,upi,delivered
+ord1217,p008,2,2024-12-26,bangalore,net banking,delivered
+ord2597,p031,1,2025-01-31,delhi,debit_card,cancelled
+ord2704,p032,9,2025-02-08,ahmedabad,upi,cancelled
+ord1080,p031,9,2025-01-01,bangalore,net banking,delivered
+ord1128,p014,3,2025-02-17,kolkata,credit_card,returned
+ord2057,p015,4,2024-12-28,pune,debit_card,delivered
+ord1331,p016,9,2025-01-12,chennai,debit_card,delivered
+ord2745,p036,6,2025-01-01,chennai,net banking,delivered
+ord1381,p003,8,2025-01-11,bangalore,upi,delivered
+ord2851,p031,3,2024-12-21,ahmedabad,cash_on_delivery,delivered
+ord1647,p039,3,2025-02-16,hyderabad,net banking,delivered
+ord2997,p004,4,2025-01-05,bangalore,net banking,cancelled
+ord2492,p006,4,2024-12-20,mumbai,upi,delivered
+ord2906,p007,6,2024-12-13,bangalore,net banking,delivered
+ord2323,p023,7,2024-12-30,delhi,upi,delivered
+ord1608,p014,10,2025-02-21,mumbai,credit_card,returned
+ord1166,p015,4,2024-12-23,delhi,upi,delivered
+ord2055,p034,7,2025-01-22,ahmedabad,cash_on_delivery,delivered
+ord1349,p013,9,2025-01-29,chennai,net banking,returned
+ord1600,p006,2,2024-03-12,delhi,credit_card,delivered
+ord2538,p007,3,2024-12-18,hyderabad,cash_on_delivery,returned
+ord2482,p026,9,2025-02-23,mumbai,net banking,delivered
+ord1203,p034,9,2025-02-23,chennai,credit_card,delivered
+ord1481,p018,3,2025-01-29,chennai,cash_on_delivery,delivered
+ord2758,p006,4,2025-12-02,mumbai,upi,delivered
+ord1590,p021,6,2024-12-05,bangalore,credit_card,returned
+ord2026,p028,7,2025-01-17,kolkata,net banking,cancelled
+ord1852,p007,4,2024-12-23,chennai,debit_card,delivered
+ord2626,p003,6,2025-01-28,kolkata,credit_card,delivered
+ord1862,p015,4,2025-01-05,pune,cash_on_delivery,cancelled
+ord2814,p008,2,2024-12-18,kolkata,credit_card,delivered
+ord1579,p033,10,2025-02-23,bangalore,net banking,returned
+ord2646,p015,8,2024-12-26,mumbai,credit_card,cancelled
+ord1722,p009,3,2025-01-18,chennai,upi,delivered
+ord1233,p036,2,2025-02-02,kolkata,debit_card,delivered
+ord1244,p010,6,2024-12-19,kolkata,upi,delivered
+ord1130,p001,6,2024-12-14,kolkata,credit_card,returned
+ord1362,p039,7,2025-02-15,delhi,credit_card,delivered
+ord1739,p024,1,2024-12-27,delhi,upi,returned
+ord2899,p015,7,2025-01-31,mumbai,debit_card,delivered
+ord1563,p010,10,2025-03-02,ahmedabad,credit_card,delivered
+ord1159,p007,2,2025-01-04,kolkata,net_banking,cancelled
+ord2565,p023,10,2025-01-15,hyderabad,net banking,delivered
+ord2148,p002,1,2025-02-27,pune,upi,delivered
+ord2637,p024,10,2024-12-06,bangalore,debit_card,returned
+ord1048,p008,2,2025-01-30,ahmedabad,cash_on_delivery,cancelled
+ord1134,p022,10,2025-02-27,mumbai,net banking,delivered
+ord1586,p007,5,2025-01-12,chennai,debit_card,cancelled
+ord2552,p019,1,2025-01-30,mumbai,cash_on_delivery,returned
+ord2504,p023,0,2024-12-26,pune,credit_card,delivered
+ord1133,p023,2,2025-08-01,pune,net banking,returned
+ord1633,p022,8,2024-12-14,kolkata,upi,delivered
+ord1029,p013,2,2025-01-10,kolkata,net banking,returned
+ord1136,p036,6,2024-12-08,bangalore,net banking,delivered
+ord1686,p027,3,2024-12-10,mumbai,credit_card,cancelled
+ord1495,p004,10,2025-02-03,delhi,net_banking,cancelled
+ord1481,p038,10,2024-12-18,kolkata,cash_on_delivery,cancelled
+ord2486,p038,7,2025-01-14,hyderabad,net banking,returned
+ord2440,p011,1,2025-01-26,kolkata,cash_on_delivery,delivered
+ord1509,p019,9,2025-01-13,ahmedabad,credit_card,delivered
+ord2037,p026,6,2024-12-09,delhi,upi,delivered
+ord1580,p026,10,2025-01-10,kolkata,credit_card,returned
+ord1110,p020,1,2025-02-19,hyderabad,credit_card,delivered
+ord2078,p017,7,2024-12-20,delhi,net banking,delivered
+ord2799,p039,6,2025-01-24,kolkata,cash_on_delivery,delivered
+ord1374,p039,4,2025-01-08,ahmedabad,debit_card,delivered
+ord1098,p002,9,2025-01-06,delhi,upi,cancelled
+ord2081,p003,2,2024-12-02,bangalore,net banking,delivered
+ord1472,p011,2,2024-02-12,delhi,upi,returned
+ord2699,p010,4,2025-02-12,kolkata,credit_card,delivered
+ord2794,p031,7,2025-01-15,mumbai,credit_card,delivered
+ord1103,p005,9,2024-10-12,chennai,upi,delivered
+ord1721,p002,3,2025-01-03,delhi,net banking,delivered
+ord2548,p009,4,2025-02-22,ahmedabad,net banking,returned
+ord2582,p013,2,2024-12-28,pune,debit_card,delivered
+ord1545,p035,3,2024-12-16,hyderabad,cash_on_delivery,delivered
+ord1680,p004,7,2025-06-02,bangalore,upi,cancelled
+ord1760,p021,10,2025-02-27,pune,upi,delivered
+ord1275,p100,4,2025-01-16,ahmedabad,upi,delivered
+ord1078,p006,5,2025-01-23,delhi,cash_on_delivery,cancelled
+ord1995,p031,7,2025-01-18,bangalore,cash_on_delivery,delivered
+ord2129,p007,3,2024-12-20,kolkata,upi,delivered
+ord2732,p009,9,2025-09-02,kolkata,cash_on_delivery,delivered
+ord2533,p029,5,2024-12-07,chennai,upi,delivered
+ord2777,p021,2,2025-01-27,delhi,credit_card,delivered
+ord1913,p031,3,2025-12-01,mumbai,cash_on_delivery,delivered
+ord1688,p032,8,2025-02-22,hyderabad,cash_on_delivery,delivered
+ord1532,p021,8,2024-12-20,delhi,upi,returned
+ord1181,p024,7,2024-12-06,kolkata,debit_card,returned
+ord1101,p014,3,2025-01-02,bangalore,debit_card,delivered
+ord1873,p024,10,2025-01-23,kolkata,credit_card,cancelled
+ord2283,p013,7,2024-12-02,mumbai,upi,cancelled
+ord2891,p034,7,2024-12-31,delhi,cash_on_delivery,returned
+ord1443,p036,9,2025-02-12,hyderabad,upi,delivered
+ord1488,p008,7,2025-01-03,mumbai,debit_card,returned
+ord1291,p025,7,2024-12-28,kolkata,upi,delivered
+ord2011,p008,10,2025-02-01,mumbai,debit_card,cancelled
+ord2281,p004,9,2024-12-25,bangalore,cash_on_delivery,delivered
+ord1481,p039,9,2025-05-01,pune,net banking,delivered
+ord2222,p025,7,2025-01-15,bangalore,credit_card,cancelled
+ord1387,p002,5,2025-01-30,bangalore,upi,cancelled
+ord1599,p002,8,2025-02-01,delhi,credit_card,delivered
+ord2363,p033,9,2025-02-19,pune,credit_card,returned
+ord1986,p012,2,2025-02-04,delhi,upi,returned
+ord2068,p099,3,2025-02-14,bangalore,debit_card,delivered
+ord2691,p001,10,2025-01-01,kolkata,credit_card,delivered
+ord2213,p029,3,2025-01-16,chennai,cash_on_delivery,delivered
+ord2994,p009,6,2024-12-03,ahmedabad,cash_on_delivery,delivered
+ord1350,p014,10,2024-12-24,mumbai,net banking,returned
+ord2753,p034,2,2024-01-12,delhi,debit_card,delivered
+ord1518,p013,9,2024-12-24,kolkata,cash_on_delivery,delivered
+ord1917,p025,0,2025-02-05,chennai,credit_card,delivered
+ord1831,p036,7,2025-02-13,chennai,debit_card,cancelled
+ord1351,p006,2,2025-01-06,pune,cash_on_delivery,cancelled
+ord1729,p023,9,2024-12-09,ahmedabad,credit_card,returned
+ord2892,p001,2,2024-12-17,delhi,debit_card,cancelled
+ord2948,p032,3,2025-02-22,kolkata,debit_card,delivered
+ord1481,p016,7,2024-12-26,chennai,cash_on_delivery,delivered
+ord2878,p008,4,2024-12-13,bangalore,credit_card,delivered
+ord2767,p007,2,2024-12-10,hyderabad,net banking,cancelled
+ord1832,p009,7,2024-12-14,bangalore,net banking,delivered
+ord1552,p011,9,2025-01-02,delhi,upi,returned
+ord1114,p007,6,2025-01-15,mumbai,debit_card,delivered
+ord2757,p011,1,2025-01-28,delhi,net banking,delivered
+ord1282,p039,5,2025-02-26,chennai,credit_card,returned
+ord2021,p021,1,2025-01-25,ahmedabad,credit_card,cancelled
+ord1565,p025,7,2025-02-22,mumbai,debit_card,delivered
+ord2496,p033,5,2024-09-12,ahmedabad,upi,delivered
+ord1137,p030,4,2025-02-26,chennai,net banking,delivered
+ord1557,p022,4,2025-02-26,kolkata,debit_card,returned
+ord1751,p036,6,2025-01-27,bangalore,debit_card,returned
+ord2687,p012,5,2025-01-10,ahmedabad,net banking,delivered
+ord1740,p020,9,2025-01-10,chennai,cash_on_delivery,cancelled
+ord2727,p003,7,2024-12-27,ahmedabad,cash_on_delivery,delivered
+ord1169,p021,5,2025-04-01,mumbai,upi,cancelled
+ord2809,p037,3,2024-12-15,bangalore,upi,returned
+ord2121,p032,10,2025-02-14,hyderabad,cash_on_delivery,cancelled
+ord1481,p003,1,2025-02-14,hyderabad,cash_on_delivery,returned
+ord1044,p023,10,2024-12-14,chennai,net banking,returned
+ord1308,p006,1,2024-12-24,kolkata,net banking,returned
+ord1163,p038,8,2025-01-13,chennai,cash_on_delivery,returned
+ord1694,p019,5,2025-03-01,hyderabad,cash_on_delivery,returned
+ord1640,p002,10,2024-12-31,kolkata,cash_on_delivery,delivered
+ord1999,p021,7,2025-01-30,delhi,upi,delivered
+ord2857,p021,2,2025-02-01,pune,cash_on_delivery,returned
+ord1367,p017,9,2024-12-19,mumbai,cash_on_delivery,delivered
+ord1085,p027,7,2024-12-28,kolkata,cash_on_delivery,returned
+ord1161,p020,8,2025-01-15,chennai,debit_card,delivered
+ord2159,p033,8,2025-04-02,bangalore,cash_on_delivery,delivered
+ord2925,p032,3,2025-01-09,bangalore,debit_card,cancelled
+ord2524,p002,5,2024-12-14,chennai,net banking,delivered
+ord2764,p014,2,2024-12-11,pune,cash_on_delivery,delivered
+ord2205,p019,10,2025-02-24,chennai,net banking,cancelled
+ord2755,p040,5,2025-02-20,bangalore,cash_on_delivery,returned
+ord1375,p008,8,2024-12-04,pune,upi,cancelled
+ord1399,p011,6,2025-01-01,bangalore,upi,delivered
+ord1018,p011,4,2025-02-28,ahmedabad,credit_card,delivered
+ord1875,p027,4,2024-12-31,bangalore,cash_on_delivery,returned
+ord1236,p024,2,2025-01-08,hyderabad,upi,delivered
+ord2977,p029,4,2025-02-17,mumbai,credit_card,delivered
+ord2608,p036,1,2024-12-27,hyderabad,cash_on_delivery,delivered
+ord2308,p002,6,2025-01-14,mumbai,upi,delivered
+ord1481,p008,3,2025-01-06,bangalore,cash_on_delivery,returned
+ord2487,p003,0,2024-12-22,hyderabad,upi,cancelled
+ord1356,p038,7,2025-01-10,pune,debit_card,delivered
+ord2165,p019,2,2025-01-09,hyderabad,credit_card,returned
+ord2821,p013,1,2024-12-07,hyderabad,upi,cancelled
+ord1323,p001,6,2025-03-01,hyderabad,debit_card,delivered
+ord2973,p031,0,2025-01-08,ahmedabad,debit_card,delivered
+ord2696,p035,10,2024-12-30,delhi,debit_card,returned
+ord1416,p035,10,2024-02-12,delhi,net banking,delivered
+ord2245,p026,2,2025-02-12,mumbai,debit_card,delivered
+ord2266,p004,7,2024-12-29,pune,net banking,delivered
+ord1327,p006,1,2024-12-16,ahmedabad,debit_card,cancelled
+ord2311,p021,4,2025-01-29,kolkata,net banking,delivered
+ord2075,p008,8,2024-12-22,ahmedabad,upi,delivered
+ord1967,p008,8,2025-02-19,hyderabad,debit_card,cancelled
+ord1481,p037,5,2024-12-15,kolkata,cash_on_delivery,delivered
+ord2871,p013,3,2024-04-12,chennai,credit_card,delivered
+ord1850,p019,7,2025-01-23,kolkata,debit_card,returned
+ord2214,p014,9,2025-02-23,hyderabad,upi,delivered
+ord1668,p012,2,2025-01-06,ahmedabad,debit_card,returned
+ord2545,p012,8,2024-12-15,bangalore,net banking,cancelled
+ord1071,p022,7,2025-02-28,chennai,upi,returned
+ord1985,p035,6,2025-01-24,kolkata,debit_card,delivered
+ord1154,p036,1,2024-12-31,hyderabad,upi,delivered
+ord1511,p007,5,2024-12-07,hyderabad,credit_card,delivered
+ord2444,p101,4,2025-01-02,pune,net banking,delivered
+ord1346,p001,1,2025-01-05,delhi,cash_on_delivery,cancelled
+ord2233,p002,4,2024-12-16,pune,net banking,delivered
+ord1469,p029,2,2024-12-15,kolkata,cash_on_delivery,returned
+ord1087,p015,10,2025-02-24,kolkata,upi,returned
+ord1370,p013,9,2025-01-15,pune,debit_card,delivered
+ord2243,p002,5,2025-01-04,kolkata,cash_on_delivery,delivered
+ord1813,p017,5,2024-12-13,hyderabad,upi,returned
+ord2115,p013,5,2025-02-24,hyderabad,cash_on_delivery,delivered
+ord1915,p036,6,2025-01-02,bangalore,debit_card,cancelled
+ord2086,p004,5,2025-01-27,bangalore,credit_card,cancelled
+ord2483,p004,0,2025-03-01,hyderabad,debit_card,delivered
+ord2874,p026,2,2025-01-23,bangalore,cash_on_delivery,delivered
+ord2789,p004,10,2025-07-02,pune,debit_card,delivered
+ord2812,p011,4,2025-02-22,mumbai,cash_on_delivery,delivered
+ord1062,p027,8,2025-04-02,chennai,cash_on_delivery,returned
+ord2349,p007,2,2024-12-22,kolkata,credit_card,delivered
+ord2780,p036,6,2025-01-12,hyderabad,debit_card,delivered
+ord2265,p026,1,2025-02-15,mumbai,net banking,delivered
+ord1620,p001,5,2024-09-12,kolkata,net banking,delivered
+ord2990,p036,9,2025-01-26,hyderabad,debit_card,cancelled
+ord2241,p016,1,2025-03-01,kolkata,net banking,delivered
+ord1508,p013,10,2025-02-16,mumbai,upi,delivered
+ord1664,p028,2,2025-01-25,ahmedabad,debit_card,delivered
+ord1014,p002,8,2025-01-12,delhi,net banking,delivered
+ord2085,p024,5,2025-01-21,kolkata,credit_card,cancelled
+ord2216,p032,9,2025-02-23,delhi,debit_card,delivered
+ord1637,p007,10,2025-02-09,kolkata,upi,delivered
+ord1717,p017,4,2025-02-21,kolkata,upi,returned
+ord2305,p001,7,2025-12-02,mumbai,upi,delivered
+ord1342,p039,1,2025-01-06,chennai,credit_card,cancelled
+ord1525,p003,2,2025-01-29,bangalore,cash_on_delivery,delivered
+ord1021,p023,9,2025-11-02,delhi,upi,delivered
+ord2800,p033,7,2025-02-21,pune,cash_on_delivery,delivered
+ord2345,p022,1,2024-12-21,hyderabad,upi,returned
+ord2837,p006,7,2024-02-12,mumbai,net banking,delivered
+ord2954,p023,1,2025-01-24,bangalore,credit_card,delivered
+ord1698,p019,2,2025-01-10,kolkata,debit_card,returned
+ord1981,p003,2,2024-12-18,chennai,cash_on_delivery,returned
+ord2089,p001,6,2024-12-22,chennai,cash_on_delivery,delivered
+ord1481,p024,10,2024-12-28,pune,credit_card,cancelled
+ord2951,p003,2,2025-01-09,ahmedabad,cash_on_delivery,delivered
+ord2999,p017,10,2025-02-02,delhi,debit_card,returned
+ord2401,p034,10,2024-12-07,bangalore,credit_card,returned
+ord1543,p015,3,2025-01-22,delhi,upi,delivered
+ord1784,p016,5,2024-12-15,mumbai,cash_on_delivery,returned
+ord2540,p026,2,2024-12-19,delhi,debit_card,delivered
+ord1100,p020,7,2024-12-21,pune,debit_card,returned
+ord2686,p039,2,2025-02-18,ahmedabad,credit_card,delivered
+ord1497,p004,5,2025-02-08,kolkata,cash_on_delivery,cancelled
+ord1704,p011,1,2024-12-11,kolkata,net banking,delivered
+ord2036,p006,7,2024-12-17,mumbai,cash_on_delivery,delivered
+ord1280,p008,3,2024-12-27,chennai,debit_card,returned
+ord1186,p013,8,2024-12-26,ahmedabad,upi,delivered
+ord1626,p024,1,2024-12-01,pune,upi,cancelled
+ord2489,p039,8,2024-12-19,bangalore,debit_card,delivered
+ord2551,p038,9,2025-01-03,hyderabad,debit_card,delivered
+ord1803,p022,3,2025-01-17,ahmedabad,cash_on_delivery,delivered
+ord1481,p021,0,2025-01-28,kolkata,debit_card,cancelled
+ord2601,p008,1,2025-01-22,kolkata,upi,delivered
+ord2671,p018,8,2024-10-12,bangalore,net banking,delivered
+ord1391,p027,0,2025-02-17,mumbai,credit_card,delivered
+ord2531,p039,1,2024-12-11,delhi,debit_card,delivered
+ord1817,p030,9,2024-12-09,mumbai,net banking,delivered
+ord1005,p013,3,2024-12-27,chennai,upi,cancelled
+ord2819,p023,9,2025-02-08,mumbai,credit_card,returned
+ord1530,p006,2,2024-12-21,ahmedabad,upi,cancelled
+ord2425,p029,3,2025-02-15,kolkata,credit_card,delivered
+ord2707,p017,2,2024-11-12,bangalore,credit_card,delivered
+ord1481,p022,10,2024-12-04,delhi,credit_card,returned
+ord2715,p020,8,2024-10-12,mumbai,net banking,cancelled
+ord1047,p006,10,2024-12-28,pune,debit_card,delivered
+ord2464,p036,2,2025-02-26,pune,credit_card,delivered
+ord2370,p023,3,2025-02-09,hyderabad,net banking,cancelled
+ord1517,p032,6,2025-01-09,bangalore,debit_card,cancelled
+ord1471,p030,7,2024-12-15,delhi,upi,cancelled
+ord2208,p023,5,2025-01-24,bangalore,upi,delivered
+ord1442,p026,8,2024-12-08,chennai,credit_card,delivered
+ord1294,p002,9,2024-12-21,hyderabad,credit_card,cancelled
+ord1107,p006,6,2025-01-25,delhi,credit_card,returned
+ord1496,p034,2,2025-01-19,hyderabad,cash_on_delivery,delivered
+ord1395,p002,8,2024-12-26,delhi,cash_on_delivery,delivered
+ord2893,p100,8,2025-02-22,pune,upi,delivered
+ord1336,p011,3,2025-02-19,bangalore,credit_card,delivered
+ord1481,p022,5,2025-01-12,kolkata,debit_card,returned
+ord1589,p005,6,2024-12-17,chennai,upi,delivered
+ord2989,p015,9,2025-02-27,mumbai,upi,returned
+ord2669,p023,8,2025-02-14,bangalore,debit_card,delivered
+ord1834,p015,2,2025-01-30,pune,debit_card,delivered
+ord2411,p026,2,2025-02-27,kolkata,net banking,delivered
+ord1384,p017,1,2025-01-22,ahmedabad,upi,cancelled
+ord1354,p038,9,2025-02-05,delhi,upi,cancelled
+ord1860,p018,2,2025-01-16,mumbai,net banking,cancelled
+ord2223,p011,10,2025-01-19,delhi,net banking,returned
+ord2135,p034,1,2024-12-04,mumbai,upi,cancelled
+ord1267,p028,3,2024-12-13,mumbai,upi,returned
+ord2522,p014,7,2024-01-12,kolkata,cash_on_delivery,cancelled
+ord1733,p022,10,2024-12-31,mumbai,debit_card,delivered
+ord2988,p010,4,2024-12-17,chennai,net banking,cancelled
+ord1897,p038,10,2025-02-23,kolkata,cash_on_delivery,delivered
+ord1113,p002,4,2025-01-28,mumbai,debit_card,delivered
+ord2684,p021,7,2025-07-01,delhi,cash_on_delivery,delivered
+ord1143,p021,9,2024-12-14,pune,debit_card,delivered
+ord2979,p013,1,2024-12-12,kolkata,cash_on_delivery,delivered
+ord1377,p012,1,2025-01-28,hyderabad,cash_on_delivery,delivered
+ord2207,p022,2,2024-12-30,delhi,credit_card,delivered
+ord2834,p031,3,2024-12-03,mumbai,net banking,cancelled
+ord2654,p015,3,2024-12-31,kolkata,upi,delivered
+ord1457,p039,5,2025-02-08,pune,debit_card,delivered
+ord1771,p028,2,2025-01-25,hyderabad,upi,delivered
+ord2603,p031,9,2025-02-17,mumbai,net banking,delivered
+ord1833,p007,10,2024-12-01,hyderabad,credit_card,delivered
+ord2297,p030,6,2025-01-30,mumbai,net banking,cancelled
+ord2167,p038,10,2024-12-30,hyderabad,debit_card,cancelled
+ord1481,p012,1,2025-02-27,bangalore,debit_card,delivered
+ord1084,p023,9,2025-02-13,pune,cash_on_delivery,returned
+ord2867,p015,5,2024-12-22,mumbai,upi,delivered
+ord2702,p013,10,2025-01-13,chennai,cash_on_delivery,cancelled
+ord2526,p001,2,2025-01-21,chennai,debit_card,cancelled
+ord1900,p006,0,2025-01-29,hyderabad,cash_on_delivery,delivered
+ord2790,p002,6,2024-12-28,hyderabad,credit_card,cancelled
+ord1903,p030,3,2025-01-25,chennai,cash_on_delivery,delivered
+ord1907,p005,4,2025-01-18,mumbai,cash_on_delivery,returned
+ord1070,p006,7,2025-01-26,pune,net banking,delivered
+ord1976,p015,4,2024-12-26,bangalore,cash_on_delivery,delivered
+ord2123,p028,4,2024-12-14,ahmedabad,credit_card,delivered
+ord1840,p002,1,2024-12-13,chennai,credit_card,cancelled
+ord1271,p025,4,2025-01-13,delhi,cash_on_delivery,cancelled
+ord2064,p005,4,2024-07-12,ahmedabad,credit_card,returned
+ord1448,p003,6,2025-12-01,mumbai,net banking,returned
+ord1139,p003,9,2025-01-26,chennai,cash_on_delivery,delivered
+ord1836,p036,9,2025-01-29,pune,cash_on_delivery,delivered
+ord1373,p036,9,2024-12-19,bangalore,debit_card,delivered
+ord2898,p015,2,2024-12-13,chennai,credit_card,cancelled
+ord2961,p030,5,2024-08-12,hyderabad,net banking,delivered
+ord1777,p023,1,2024-12-11,ahmedabad,credit_card,delivered
+ord1889,p035,10,2024-12-15,ahmedabad,credit_card,delivered
+ord2628,p031,9,2024-02-12,chennai,upi,delivered
+ord1854,p012,2,2025-01-06,kolkata,net banking,delivered
+ord1481,p023,2,2025-02-28,delhi,upi,returned
+ord2083,p031,5,2025-01-20,ahmedabad,upi,delivered
+ord1779,p021,6,2024-12-15,ahmedabad,upi,returned
+ord1529,p017,6,2025-01-07,kolkata,cash_on_delivery,returned
+ord2040,p035,4,2024-12-28,hyderabad,cash_on_delivery,delivered
+ord2929,p009,6,2025-01-24,kolkata,debit_card,delivered
+ord2959,p012,2,2025-02-18,mumbai,net banking,delivered
+ord2319,p016,1,2025-01-19,mumbai,credit_card,delivered
+ord1417,p035,3,2025-01-13,delhi,credit_card,delivered
+ord1051,p005,8,2025-02-01,delhi,upi,delivered
+ord1481,p003,8,2025-02-18,mumbai,net banking,delivered
+ord1692,p001,3,2025-01-23,bangalore,credit_card,delivered
+ord2039,p026,2,2024-12-02,pune,upi,delivered
+ord1607,p028,2,2025-03-02,mumbai,credit_card,delivered
+ord1431,p031,9,2024-12-06,kolkata,upi,delivered
+ord2181,p028,3,2025-02-02,bangalore,credit_card,delivered
+ord1481,p011,3,2024-12-04,bangalore,debit_card,delivered
+ord2735,p026,9,2025-01-17,mumbai,upi,delivered
+ord1481,p019,10,2024-12-16,delhi,cash_on_delivery,cancelled
+ord1934,p036,6,2024-12-28,bangalore,upi,cancelled
+ord2158,p015,8,2025-02-16,delhi,upi,delivered
+ord2049,p009,5,2025-01-18,kolkata,upi,delivered
+ord1307,p017,7,2025-01-31,ahmedabad,credit_card,delivered
+ord1945,p002,6,2025-01-14,ahmedabad,credit_card,delivered
+ord1700,p006,0,2025-02-03,pune,cash_on_delivery,cancelled
+ord1857,p013,3,2024-12-13,kolkata,upi,delivered
+ord1720,p004,5,2024-12-17,delhi,net banking,cancelled
+ord1481,p022,8,2025-01-09,hyderabad,net_banking,cancelled
+ord2811,p011,1,2025-02-02,ahmedabad,net banking,returned
+ord1921,p016,3,2024-12-15,delhi,net banking,cancelled
+ord1629,p027,4,2024-12-21,pune,cash_on_delivery,cancelled
+ord2396,p034,10,2024-12-01,kolkata,upi,returned
+ord1481,p001,2,2024-12-08,kolkata,net banking,delivered
+ord2180,p011,1,2024-12-06,delhi,cash_on_delivery,delivered
+ord1992,p101,8,2024-12-08,kolkata,upi,cancelled
+ord1105,p039,10,2025-01-30,hyderabad,debit_card,cancelled
+ord1221,p033,8,2024-12-12,pune,upi,delivered
+ord1216,p003,3,2025-02-11,mumbai,cash_on_delivery,cancelled
+ord2993,p006,2,2025-02-03,pune,upi,delivered
+ord1847,p008,3,2025-01-03,mumbai,upi,delivered
+ord1978,p023,3,2025-01-10,ahmedabad,cash_on_delivery,delivered
+ord1613,p015,9,2024-12-11,chennai,net_banking,delivered
+ord2188,p035,10,2024-12-05,hyderabad,net banking,delivered
+ord1738,p020,6,2024-12-31,ahmedabad,cash_on_delivery,returned
+ord2196,p006,6,2024-12-11,pune,credit_card,delivered
+ord1481,p004,6,2025-01-09,kolkata,upi,delivered
+ord2688,p100,1,2024-12-23,chennai,cash_on_delivery,delivered
+ord2791,p020,3,2024-12-29,mumbai,debit_card,delivered
+ord1991,p019,6,2025-01-06,hyderabad,cash_on_delivery,delivered
+ord1333,p023,2,2025-01-13,kolkata,net_banking,delivered
+ord1593,p040,7,2024-12-17,kolkata,cash_on_delivery,cancelled
+ord2964,p033,2,2025-07-01,mumbai,cash_on_delivery,delivered
+ord1041,p030,2,2025-01-18,chennai,cash_on_delivery,delivered
+ord2836,p008,10,2024-12-07,delhi,debit_card,delivered
+ord1706,p037,2,2025-01-20,kolkata,credit_card,delivered
+ord1190,p011,8,2025-05-01,hyderabad,net banking,delivered
+ord2109,p006,0,2025-10-02,hyderabad,upi,delivered
+ord1240,p011,9,2025-01-20,mumbai,net banking,delivered
+ord1481,p017,2,2025-02-28,delhi,cash_on_delivery,delivered
+ord1899,p020,2,2025-01-07,mumbai,credit_card,cancelled
+ord2404,p023,1,2025-01-14,pune,credit_card,returned
+ord2202,p011,7,2024-12-12,mumbai,debit_card,delivered
+ord1089,p030,3,2025-01-13,pune,upi,delivered
+ord2093,p008,2,2025-10-01,hyderabad,cash_on_delivery,delivered
+ord1576,p026,2,2025-01-29,hyderabad,credit_card,delivered
+ord2112,p018,5,2024-12-15,kolkata,net banking,delivered
+ord2980,p019,7,2025-05-02,kolkata,net banking,cancelled
+ord1001,p023,2,2024-04-12,chennai,credit_card,delivered
+ord1239,p025,1,2025-02-08,kolkata,net banking,delivered
+ord2946,p011,2,2025-01-26,pune,credit_card,delivered
+ord2711,p015,9,2025-01-11,ahmedabad,net banking,cancelled
+ord2024,p037,3,2025-02-19,bangalore,net banking,delivered
+ord2720,p020,8,2025-02-13,kolkata,cash_on_delivery,delivered
+ord2712,p008,6,2024-12-13,bangalore,credit_card,delivered
+ord1861,p001,6,2025-11-01,chennai,upi,delivered
+ord2189,p019,8,2025-02-19,delhi,upi,delivered
+ord1481,p024,3,2024-12-11,mumbai,upi,returned
+ord1363,p030,8,2024-12-17,bangalore,cash_on_delivery,delivered
+ord1463,p018,8,2025-01-08,chennai,cash_on_delivery,delivered
+ord1467,p036,2,2025-02-26,chennai,debit_card,cancelled
+ord2571,p028,5,2025-02-21,hyderabad,upi,delivered
+ord2880,p005,0,2025-01-16,pune,cash_on_delivery,delivered
+ord1968,p002,1,2025-02-26,delhi,cash_on_delivery,delivered
+ord2937,p035,3,2024-12-31,pune,cash_on_delivery,delivered
+ord1164,p023,1,2024-12-08,mumbai,upi,returned
+ord1478,p004,6,2024-12-22,delhi,debit_card,returned
+ord1481,p004,2,2025-02-09,mumbai,upi,delivered
+ord1932,p022,10,2025-02-24,kolkata,upi,cancelled
+ord2203,p029,9,2024-01-12,chennai,debit_card,delivered
+ord2344,p023,3,2024-12-29,bangalore,upi,cancelled
+ord1665,p026,2,2025-02-24,kolkata,credit_card,delivered
+ord1636,p014,6,2025-02-23,bangalore,upi,delivered
+ord1460,p036,7,2025-01-16,kolkata,credit_card,cancelled
+ord2698,p010,9,2025-02-26,bangalore,credit_card,delivered
+ord1795,p027,3,2024-12-28,kolkata,net banking,delivered
+ord1020,p024,6,2025-02-11,pune,debit_card,delivered
+ord1125,p024,1,2025-02-16,pune,net banking,delivered
+ord1893,p030,6,2024-12-22,bangalore,net_banking,cancelled
+ord2367,p024,8,2024-12-28,hyderabad,credit_card,delivered
+ord2985,p037,2,2025-01-24,ahmedabad,debit_card,cancelled
+ord1937,p023,4,2025-01-10,ahmedabad,credit_card,cancelled
+ord1481,p023,9,2025-02-06,ahmedabad,credit_card,cancelled
+ord1929,p036,2,2025-02-27,ahmedabad,debit_card,delivered
+ord2142,p020,5,2025-10-02,mumbai,debit_card,cancelled
+ord1237,p022,5,2024-12-26,delhi,upi,delivered
+ord1531,p033,2,2025-03-02,mumbai,upi,delivered
+ord2602,p016,2,2024-12-28,mumbai,cash_on_delivery,delivered
+ord1789,p001,8,2025-01-09,pune,debit_card,returned
+ord1918,p007,4,2024-12-24,mumbai,credit_card,cancelled
+ord1490,p019,9,2025-02-24,bangalore,upi,cancelled
+ord1428,p012,2,2025-08-01,kolkata,upi,cancelled
+ord1657,p016,3,2024-12-22,hyderabad,credit_card,delivered
+ord2210,p006,2,2025-01-17,chennai,credit_card,returned
+ord2138,p006,0,2025-01-06,mumbai,debit_card,delivered
+ord2293,p037,1,2025-02-22,hyderabad,upi,delivered
+ord2300,p001,6,2024-12-12,bangalore,cash_on_delivery,returned
+ord2473,p011,1,2024-12-16,hyderabad,cash_on_delivery,delivered
+ord2108,p003,2,2025-12-01,chennai,upi,delivered
+ord1519,p003,8,2025-01-29,kolkata,upi,returned
+ord1804,p020,6,2025-02-04,kolkata,debit_card,delivered
+ord1191,p013,7,2024-12-06,ahmedabad,net banking,delivered
+ord1676,p012,2,2025-01-03,chennai,credit_card,delivered
+ord1010,p036,2,2025-08-01,hyderabad,credit_card,delivered
+ord2722,p001,2,2024-12-21,bangalore,upi,delivered
+ord1481,p022,5,2025-01-12,hyderabad,credit_card,returned
+ord1266,p036,5,2025-02-21,hyderabad,cash_on_delivery,returned
+ord1151,p038,3,2024-12-05,chennai,cash_on_delivery,delivered
+ord1622,p003,2,2024-11-12,kolkata,upi,delivered
+ord2616,p029,9,2024-12-04,mumbai,cash_on_delivery,delivered
+ord1117,p023,10,2025-01-16,bangalore,upi,delivered
+ord1926,p039,7,2025-01-01,kolkata,credit_card,cancelled
+ord2025,p004,1,2025-02-03,mumbai,net banking,delivered
+ord1842,p026,9,2025-01-22,bangalore,upi,delivered
+ord1067,p023,5,2025-02-01,mumbai,net banking,delivered
+ord2466,p023,9,2025-02-12,pune,net banking,delivered
+ord1055,p016,10,2025-02-26,hyderabad,debit_card,cancelled
+ord2797,p011,2,2025-01-14,hyderabad,credit_card,cancelled
+ord2417,p016,3,2025-02-02,ahmedabad,debit_card,cancelled
+ord2963,p040,2,2025-07-01,kolkata,upi,delivered
+ord2515,p039,4,2025-01-22,chennai,credit_card,returned
+ord1930,p039,5,2025-01-23,mumbai,upi,returned
+ord2235,p100,2,2024-12-29,chennai,upi,delivered
+ord1695,p033,7,2025-02-10,delhi,cash_on_delivery,delivered
+ord1452,p018,0,2024-12-27,mumbai,debit_card,delivered
+ord1025,p005,4,2025-01-09,pune,upi,returned
+ord2883,p033,7,2025-01-27,hyderabad,credit_card,delivered
+ord2160,p101,9,2024-12-06,delhi,credit_card,delivered
+ord1988,p003,4,2024-12-12,delhi,upi,delivered
+ord2194,p010,5,2025-08-02,bangalore,debit_card,returned
+ord2822,p009,2,2024-12-12,mumbai,credit_card,returned
+ord2773,p002,1,2025-07-01,chennai,upi,returned
+ord1753,p099,5,2024-12-21,chennai,cash_on_delivery,delivered
+ord1677,p006,5,2024-03-12,delhi,cash_on_delivery,returned
+ord2485,p016,5,2025-01-15,hyderabad,credit_card,delivered
+ord1178,p008,10,2025-01-18,chennai,cash_on_delivery,delivered
+ord1388,p040,6,2025-01-31,chennai,cash_on_delivery,cancelled
+ord1501,p028,2,2025-09-02,pune,cash_on_delivery,cancelled
+ord1309,p006,3,2025-01-22,bangalore,net banking,returned
+ord2748,p037,6,2025-01-20,kolkata,debit_card,cancelled
+ord2829,p033,1,2024-12-01,ahmedabad,credit_card,returned
+ord1624,p013,7,2025-01-13,pune,credit_card,returned
+ord1167,p008,2,2025-02-28,hyderabad,debit_card,cancelled
+ord1334,p016,1,2025-01-16,ahmedabad,cash_on_delivery,delivered
+ord1054,p003,0,2024-12-31,bangalore,net banking,delivered
+ord1251,p025,9,2025-02-18,kolkata,net banking,delivered
+ord1707,p039,10,2024-12-19,hyderabad,debit_card,delivered
+ord2446,p002,7,2024-12-28,mumbai,debit_card,cancelled
+ord2778,p012,9,2025-01-26,bangalore,credit_card,cancelled
+ord1481,p001,10,2025-02-24,chennai,credit_card,cancelled
+ord2516,p026,2,2024-12-14,delhi,cash_on_delivery,returned
+ord2604,p021,10,2024-12-27,chennai,credit_card,cancelled
+ord1520,p003,2,2024-12-06,delhi,net banking,delivered
+ord2676,p002,7,2025-02-02,chennai,upi,cancelled
+ord1481,p011,4,2024-12-19,hyderabad,credit_card,returned
+ord1984,p039,7,2025-02-18,mumbai,net banking,delivered
+ord1173,p010,2,2025-01-18,bangalore,cash_on_delivery,delivered
+ord1669,p035,10,2025-01-12,pune,debit_card,cancelled
+ord1491,p033,8,2025-01-25,mumbai,net banking,delivered
+ord1919,p015,8,2024-12-28,ahmedabad,net banking,delivered
+ord1837,p007,6,2025-02-14,chennai,debit_card,delivered
+ord1481,p027,7,2025-02-26,chennai,debit_card,delivered
+ord2730,p036,3,2025-02-20,pune,debit_card,delivered
+ord2309,p015,0,2024-12-06,pune,credit_card,returned
+ord2273,p015,7,2025-01-01,pune,debit_card,cancelled
+ord2398,p099,2,2024-12-24,chennai,cash_on_delivery,delivered
+ord1394,p029,2,2025-01-03,pune,upi,delivered
+ord1611,p021,8,2024-12-27,hyderabad,net banking,delivered
+ord2032,p017,8,2025-01-11,chennai,net banking,cancelled
+ord2547,p013,1,2025-01-05,kolkata,cash_on_delivery,delivered
+ord2117,p016,2,2025-02-27,chennai,cash_on_delivery,returned
+ord2863,p037,5,2025-02-04,hyderabad,debit_card,delivered
+ord1408,p021,4,2025-01-15,delhi,debit_card,returned
+ord1475,p014,6,2024-12-28,hyderabad,cash_on_delivery,delivered
+ord2236,p031,6,2025-02-18,delhi,debit_card,delivered
+ord2826,p015,8,2024-12-19,delhi,cash_on_delivery,returned
+ord2615,p019,9,2024-12-09,ahmedabad,credit_card,delivered
+ord2054,p008,5,2025-02-17,bangalore,credit_card,returned
+ord1566,p015,6,2025-01-27,pune,upi,delivered
+ord1752,p034,6,2024-12-16,kolkata,cash_on_delivery,delivered
+ord1933,p036,8,2025-01-23,kolkata,upi,delivered
+ord2045,p034,8,2025-02-14,bangalore,cash_on_delivery,delivered
+ord2760,p027,0,2024-10-12,kolkata,cash_on_delivery,cancelled
+ord1481,p023,3,2025-01-08,kolkata,credit_card,cancelled
+ord2774,p016,7,2024-12-14,mumbai,upi,returned
+ord2171,p022,3,2025-01-09,chennai,upi,returned
+ord1868,p009,6,2024-12-05,delhi,cash_on_delivery,delivered
+ord1232,p028,4,2025-01-12,ahmedabad,upi,delivered
+ord2772,p035,7,2024-12-24,ahmedabad,upi,delivered
+ord1288,p012,2,2025-01-16,chennai,credit_card,returned
+ord1008,p002,7,2024-12-15,bangalore,credit_card,cancelled
+ord2872,p026,4,2025-02-06,pune,cash_on_delivery,delivered
+ord1352,p003,10,2025-12-02,kolkata,cash_on_delivery,delivered
+ord1699,p022,8,2024-12-05,chennai,credit_card,delivered
+ord1284,p001,8,2025-01-02,hyderabad,net banking,returned
+ord2493,p001,1,2025-01-29,ahmedabad,net banking,delivered
+ord1481,p020,3,2025-02-19,delhi,net banking,cancelled
+ord2306,p034,9,2025-01-30,bangalore,net banking,delivered
+ord1510,p015,3,2025-01-03,chennai,net banking,delivered
+ord2226,p006,8,2024-12-27,bangalore,upi,returned
+ord1138,p011,9,2025-01-14,chennai,debit_card,delivered
+ord1506,p008,3,2025-01-06,hyderabad,cash_on_delivery,delivered
+ord1681,p006,2,2025-02-19,mumbai,upi,returned
+ord1242,p014,1,2025-01-20,pune,debit_card,delivered
+ord1359,p009,4,2025-01-08,delhi,net banking,delivered
+ord1568,p008,4,2025-01-13,mumbai,debit_card,delivered
+ord1947,p025,6,2025-10-01,mumbai,net banking,delivered
+ord2793,p014,3,2024-12-27,ahmedabad,upi,delivered
+ord1952,p003,3,2025-02-26,bangalore,net banking,delivered
+ord1802,p036,8,2025-02-19,ahmedabad,cash_on_delivery,delivered
+ord2187,p039,5,2025-02-15,mumbai,net banking,delivered
+ord1292,p006,5,2025-01-02,delhi,net banking,returned
+ord2116,p011,5,2025-01-22,delhi,debit_card,delivered
+ord1814,p015,4,2024-12-17,ahmedabad,cash_on_delivery,cancelled
+ord2804,p015,3,2025-02-15,kolkata,cash_on_delivery,cancelled
+ord2958,p036,6,2025-01-23,pune,net banking,returned
+ord2176,p037,9,2024-12-21,delhi,debit_card,delivered
+ord2145,p003,7,2024-06-12,kolkata,debit_card,returned
+ord1766,p007,3,2025-01-03,kolkata,net banking,delivered
+ord2511,p019,4,2025-02-12,chennai,credit_card,returned
+ord1142,p002,1,2024-12-23,kolkata,credit_card,returned
+ord2672,p037,2,2025-01-11,kolkata,net banking,cancelled
+ord1253,p025,7,2024-04-12,ahmedabad,debit_card,delivered
+ord1109,p009,4,2024-12-20,kolkata,upi,cancelled
+ord2399,p033,6,2024-12-04,mumbai,net banking,cancelled
+ord1923,p032,3,2025-01-16,hyderabad,net banking,delivered
+ord2221,p009,8,2025-02-09,ahmedabad,net banking,returned
+ord2445,p021,2,2025-02-18,ahmedabad,debit_card,returned
+ord1235,p017,7,2024-12-04,kolkata,credit_card,cancelled
+ord2771,p008,6,2024-12-08,mumbai,debit_card,delivered
+ord1481,p026,4,2024-12-29,delhi,credit_card,delivered
+ord1268,p015,8,2025-01-28,chennai,cash_on_delivery,cancelled
+ord1481,p021,7,2024-05-12,pune,credit_card,returned
+ord1470,p020,2,2025-01-13,bangalore,debit_card,delivered
+ord1032,p031,4,2025-02-16,pune,cash_on_delivery,delivered
+ord2322,p002,8,2025-01-06,mumbai,cash_on_delivery,delivered
+ord2865,p036,7,2025-07-01,hyderabad,credit_card,cancelled
+ord2454,p023,5,2025-02-20,ahmedabad,cash_on_delivery,delivered
+ord2474,p036,2,2025-01-08,hyderabad,cash_on_delivery,delivered
+ord1481,p028,7,2025-02-05,delhi,upi,cancelled
+ord1068,p011,5,2024-04-12,mumbai,debit_card,cancelled
+ord2166,p038,7,2025-01-22,mumbai,net_banking,delivered
+ord1513,p022,2,2024-12-01,bangalore,cash_on_delivery,returned
+ord2567,p006,4,2024-10-12,pune,debit_card,returned
+ord1042,p029,4,2025-01-01,hyderabad,upi,cancelled
+ord2397,p003,5,2024-12-29,pune,upi,returned
+ord2248,p039,2,2025-02-24,chennai,net banking,delivered
+ord2841,p005,3,2024-12-01,mumbai,upi,cancelled
+ord2542,p002,7,2024-04-12,mumbai,debit_card,returned
+ord2403,p009,0,2025-01-29,ahmedabad,upi,cancelled
+ord2471,p003,1,2025-02-23,pune,net banking,delivered
+ord1662,p002,5,2025-02-24,hyderabad,cash_on_delivery,returned
+ord2934,p003,3,2025-02-01,chennai,debit_card,delivered
+ord1822,p019,0,2025-01-18,mumbai,cash_on_delivery,cancelled
+ord1171,p027,4,2025-02-03,pune,upi,delivered
+ord2256,p002,0,2025-01-15,hyderabad,upi,delivered
+ord2206,p039,0,2024-12-16,delhi,cash_on_delivery,returned
+ord1224,p012,4,2025-04-01,bangalore,upi,delivered
+ord1612,p007,3,2025-01-31,delhi,debit_card,delivered
+ord1957,p011,4,2025-02-26,mumbai,net banking,returned
+ord1880,p018,8,2025-01-01,chennai,debit_card,delivered
+ord2260,p039,9,2024-12-29,chennai,net banking,delivered
+ord1526,p011,7,2025-01-20,mumbai,debit_card,delivered
+ord2972,p036,9,2025-02-21,mumbai,credit_card,returned
+ord1673,p016,7,2025-02-04,kolkata,net banking,cancelled
+ord2341,p039,1,2025-01-16,hyderabad,upi,cancelled
+ord1610,p022,1,2025-01-18,pune,credit_card,delivered
+ord1793,p034,5,2025-02-26,kolkata,upi,cancelled
+ord1332,p024,9,2024-12-23,chennai,debit_card,delivered
+ord2375,p008,6,2025-02-10,chennai,upi,cancelled
+ord1464,p036,4,2025-01-23,bangalore,cash_on_delivery,returned
+ord1092,p040,4,2024-12-08,mumbai,credit_card,delivered
+ord1456,p013,9,2025-01-17,ahmedabad,net banking,returned
+ord2904,p023,3,2025-02-18,mumbai,debit_card,delivered
+ord2776,p011,3,2025-07-02,chennai,cash_on_delivery,delivered
+ord2027,p026,8,2024-12-25,mumbai,net banking,cancelled
+ord1211,p006,7,2024-12-05,kolkata,credit_card,delivered
+ord1614,p027,9,2024-12-26,bangalore,credit_card,delivered
+ord2346,p003,9,2024-12-26,delhi,cash_on_delivery,delivered
+ord1481,p014,7,2025-01-12,bangalore,net banking,delivered
+ord2779,p039,0,2025-10-02,mumbai,net_banking,cancelled
+ord2622,p026,0,2025-01-24,chennai,net banking,cancelled
+ord2058,p026,6,2025-01-27,mumbai,cash_on_delivery,delivered
+ord2073,p028,0,2025-02-20,chennai,credit_card,delivered
+ord2118,p040,6,2025-02-09,bangalore,upi,delivered
+ord1578,p009,2,2024-12-26,mumbai,credit_card,returned
+ord2945,p033,7,2024-12-04,hyderabad,cash_on_delivery,delivered
+ord1302,p019,4,2024-12-12,kolkata,debit_card,delivered
+ord2022,p021,10,2024-12-19,pune,debit_card,delivered
+ord1193,p002,6,2025-01-14,chennai,net banking,delivered
+ord1380,p003,9,2025-02-03,delhi,credit_card,cancelled
+ord1853,p013,7,2025-01-30,kolkata,credit_card,returned
+ord2304,p037,1,2024-12-14,pune,debit_card,delivered
+ord1135,p033,2,2025-01-01,mumbai,net banking,returned
+ord2412,p013,6,2025-02-14,chennai,debit_card,delivered
+ord2619,p023,8,2024-12-24,chennai,debit_card,returned
+ord2340,p005,5,2024-12-20,mumbai,debit_card,delivered
+ord1863,p006,2,2025-02-20,delhi,cash_on_delivery,delivered
+ord2611,p039,5,2025-01-04,hyderabad,net banking,returned
+ord1006,p034,7,2024-12-08,hyderabad,upi,returned
+ord1765,p001,6,2025-08-01,mumbai,net banking,delivered
+ord2828,p008,1,2025-10-01,delhi,debit_card,returned
+ord2517,p036,1,2024-08-12,ahmedabad,net banking,delivered
+ord2675,p032,0,2025-01-12,pune,credit_card,cancelled
+ord1773,p014,0,2024-12-10,delhi,credit_card,cancelled
+ord2975,p018,10,2025-02-04,ahmedabad,cash_on_delivery,delivered
+ord2589,p007,3,2025-01-24,delhi,cash_on_delivery,returned
+ord2766,p035,2,2025-01-08,pune,credit_card,returned
+ord2114,p007,6,2024-12-19,bangalore,upi,returned
+ord1223,p014,9,2025-01-23,hyderabad,net banking,delivered
+ord1892,p031,6,2024-12-30,hyderabad,debit_card,delivered
+ord1990,p036,2,2025-02-12,hyderabad,upi,cancelled
+ord2879,p011,4,2024-12-20,mumbai,credit_card,delivered
+ord2355,p039,3,2024-12-09,kolkata,credit_card,returned
+ord1864,p036,5,2025-01-25,delhi,credit_card,delivered
+ord1022,p011,2,2025-02-22,mumbai,net banking,delivered
+ord2908,p026,7,2024-12-15,hyderabad,upi,delivered
+ord2500,p020,2,2024-12-15,kolkata,upi,delivered
+ord1095,p014,3,2025-09-01,pune,credit_card,delivered
+ord1989,p022,2,2024-12-24,ahmedabad,debit_card,cancelled
+ord1960,p036,6,2024-12-15,chennai,upi,returned
+ord1597,p010,4,2025-02-19,chennai,upi,cancelled
+ord1809,p006,9,2025-01-12,chennai,cash_on_delivery,cancelled
+ord2593,p021,3,2024-12-23,chennai,credit_card,delivered
+ord1987,p001,8,2025-01-13,delhi,credit_card,delivered
+ord2041,p006,2,2024-09-12,ahmedabad,net banking,returned
+ord2978,p009,2,2024-12-22,chennai,debit_card,delivered
+ord1401,p003,8,2025-02-28,ahmedabad,upi,delivered
+ord1024,p006,0,2025-01-26,kolkata,net banking,delivered
+ord1798,p024,4,2025-02-16,hyderabad,cash_on_delivery,cancelled
+ord1425,p023,7,2024-12-23,ahmedabad,upi,delivered
+ord2110,p028,9,2025-02-26,hyderabad,cash_on_delivery,delivered
+ord1347,p003,3,2025-02-18,pune,upi,delivered
+ord1908,p019,2,2025-02-13,delhi,credit_card,cancelled
+ord1379,p002,5,2025-07-01,ahmedabad,cash_on_delivery,returned
+ord2693,p022,3,2025-02-15,ahmedabad,net banking,returned
+ord1123,p023,1,2024-12-24,bangalore,cash_on_delivery,delivered
+ord1547,p033,2,2025-02-01,mumbai,upi,delivered
+ord1663,p019,1,2025-01-19,bangalore,upi,returned
+ord1498,p002,7,2025-02-23,mumbai,credit_card,delivered
+ord1407,p025,10,2025-01-25,pune,upi,delivered
+ord1500,p002,6,2024-12-11,ahmedabad,cash_on_delivery,cancelled
+ord2070,p033,0,2025-02-09,ahmedabad,upi,returned
+ord2356,p023,7,2025-01-09,delhi,debit_card,delivered
+ord1535,p029,9,2025-01-16,hyderabad,credit_card,cancelled
+ord2832,p034,10,2025-02-27,ahmedabad,cash_on_delivery,delivered
+ord1058,p024,8,2025-05-01,bangalore,net banking,delivered
+ord1340,p014,9,2025-01-03,delhi,cash_on_delivery,cancelled
+ord1276,p018,4,2025-01-22,delhi,debit_card,cancelled
+ord2374,p031,2,2025-01-31,hyderabad,upi,returned
+ord2682,p028,9,2024-12-21,bangalore,credit_card,returned
+ord1533,p033,4,2024-12-06,delhi,credit_card,cancelled
+ord1481,p002,9,2025-02-20,ahmedabad,cash_on_delivery,delivered
+ord2018,p023,2,2025-02-26,mumbai,cash_on_delivery,delivered
+ord1573,p011,10,2025-02-08,bangalore,credit_card,delivered
+ord2759,p008,4,2025-02-24,kolkata,cash_on_delivery,cancelled
+ord2100,p006,9,2025-01-13,bangalore,net banking,returned
+ord1205,p017,5,2024-12-10,mumbai,net banking,delivered
+ord2881,p003,0,2025-03-01,hyderabad,debit_card,delivered
+ord1617,p006,10,2025-02-16,ahmedabad,credit_card,delivered
+ord2051,p004,2,2025-07-02,chennai,credit_card,cancelled
+ord2751,p020,10,2025-07-01,ahmedabad,net banking,cancelled
+ord2480,p099,4,2025-02-24,mumbai,credit_card,delivered
+ord1481,p002,2,2024-12-25,chennai,cash_on_delivery,delivered
+ord2942,p025,4,2024-12-12,ahmedabad,upi,delivered
+ord2970,p013,1,2024-12-17,bangalore,net_banking,cancelled
+ord2414,p024,4,2024-12-25,hyderabad,upi,cancelled
+ord1206,p026,2,2024-12-11,bangalore,debit_card,delivered
+ord2106,p036,5,2025-02-06,delhi,debit_card,delivered
+ord2318,p036,2,2024-12-13,delhi,upi,delivered
+ord2328,p011,7,2025-02-13,pune,credit_card,delivered
+ord1119,p019,8,2025-10-02,delhi,debit_card,cancelled
+ord1423,p024,8,2024-12-24,delhi,credit_card,delivered
+ord2890,p013,4,2024-12-31,bangalore,upi,cancelled
+ord1296,p024,10,2025-02-04,bangalore,credit_card,delivered
+ord1693,p004,9,2024-12-08,mumbai,net banking,cancelled
+ord2408,p006,9,2025-03-01,mumbai,cash_on_delivery,delivered
+ord1481,p034,4,2024-12-03,delhi,upi,cancelled
+ord2047,p036,6,2024-12-18,chennai,credit_card,cancelled
+ord1385,p013,5,2024-12-19,mumbai,net banking,returned
+ord1922,p033,4,2025-02-04,hyderabad,credit_card,returned
+ord1783,p037,0,2025-05-02,hyderabad,debit_card,cancelled
+ord2842,p001,8,2025-01-13,chennai,credit_card,returned
+ord2843,p012,4,2025-01-23,hyderabad,cash_on_delivery,delivered
+ord2770,p011,10,2024-12-09,ahmedabad,net banking,delivered
+ord2426,p002,4,2025-01-06,bangalore,net banking,delivered
+ord2566,p015,1,2025-02-02,pune,cash_on_delivery,returned
+ord2364,p017,3,2025-02-26,bangalore,credit_card,delivered
+ord2091,p028,9,2025-02-03,chennai,net banking,delivered
+ord2409,p002,10,2024-12-20,pune,net banking,delivered
+ord2583,p032,5,2025-02-20,kolkata,credit_card,cancelled
+ord2633,p038,7,2024-12-14,chennai,net banking,returned
+ord1200,p003,6,2025-01-19,delhi,upi,delivered
+ord2067,p040,0,2025-01-08,delhi,net banking,returned
+ord2887,p006,1,2025-10-01,kolkata,cash_on_delivery,cancelled
+ord1157,p038,7,2025-02-24,kolkata,net banking,delivered
+ord1587,p011,1,2025-01-14,kolkata,cash_on_delivery,returned
+ord1574,p021,4,2024-12-07,kolkata,debit_card,delivered
+ord1650,p012,2,2025-04-01,bangalore,credit_card,delivered
+ord2678,p038,6,2024-12-10,chennai,net banking,delivered
+ord2406,p033,3,2024-12-03,delhi,cash_on_delivery,cancelled
+ord1768,p022,3,2025-02-13,kolkata,upi,delivered
+ord1371,p008,7,2025-01-13,kolkata,credit_card,delivered
+ord2846,p014,2,2025-02-07,mumbai,net_banking,cancelled
+ord2434,p019,10,2024-12-29,pune,credit_card,delivered
+ord1763,p035,1,2025-02-17,delhi,cash_on_delivery,delivered
+ord2731,p008,6,2025-09-02,pune,upi,returned
+ord1559,p024,10,2025-01-11,pune,credit_card,delivered
+ord2710,p021,9,2024-12-30,hyderabad,debit_card,returned
+ord2289,p002,3,2024-12-12,kolkata,debit_card,delivered
+ord2738,p006,3,2024-12-26,mumbai,cash_on_delivery,delivered
+ord1925,p003,10,2025-01-03,chennai,credit_card,returned
+ord1653,p039,8,2025-03-01,hyderabad,net banking,delivered
+ord2554,p012,6,2025-01-27,kolkata,debit_card,cancelled
+ord2915,p030,5,2025-02-18,mumbai,net banking,delivered
+ord1808,p016,3,2025-01-25,ahmedabad,debit_card,delivered
+ord1627,p015,4,2025-01-30,delhi,cash_on_delivery,delivered
+ord2268,p005,8,2024-12-18,bangalore,upi,returned
+ord2763,p009,2,2024-12-20,mumbai,credit_card,delivered
+ord1683,p015,7,2024-12-01,hyderabad,upi,delivered
+ord1301,p036,9,2025-02-09,chennai,net banking,returned
+ord2651,p005,2,2025-02-20,hyderabad,upi,delivered
+ord2808,p006,1,2025-02-12,chennai,debit_card,returned
+ord2120,p039,9,2024-12-01,bangalore,upi,delivered
+ord2315,p040,3,2025-01-08,hyderabad,net banking,delivered
+ord2618,p008,3,2024-12-16,ahmedabad,upi,cancelled
+ord2853,p033,10,2025-02-11,delhi,credit_card,delivered
+ord2200,p013,8,2025-01-20,chennai,upi,delivered
+ord1222,p008,3,2024-12-24,chennai,debit_card,delivered
+ord1170,p027,4,2025-01-20,delhi,debit_card,delivered
+ord1774,p009,3,2025-03-01,pune,upi,returned
+ord2649,p015,7,2024-12-24,delhi,upi,delivered
+ord1326,p040,10,2025-04-02,chennai,cash_on_delivery,delivered
+ord1661,p101,0,2025-02-23,ahmedabad,credit_card,delivered
+ord2740,p022,7,2024-12-19,mumbai,upi,returned
+ord2347,p036,2,2025-01-19,hyderabad,cash_on_delivery,returned
+ord2284,p008,0,2025-02-08,bangalore,debit_card,cancelled
+ord1541,p029,1,2024-12-16,ahmedabad,debit_card,delivered
+ord1341,p007,0,2024-12-09,bangalore,credit_card,delivered
+ord2644,p028,9,2024-12-06,hyderabad,net banking,delivered
+ord2632,p026,3,2025-01-07,mumbai,debit_card,cancelled
+ord2798,p016,2,2025-01-06,hyderabad,cash_on_delivery,delivered
+ord1264,p011,5,2024-12-14,ahmedabad,credit_card,cancelled
+ord2377,p002,10,2024-12-12,kolkata,debit_card,delivered
+ord1259,p013,1,2024-12-02,pune,net_banking,delivered
+ord2882,p022,7,2025-01-31,delhi,upi,delivered
+ord1182,p014,8,2025-02-25,bangalore,debit_card,returned
+ord1213,p023,4,2025-01-29,pune,net_banking,returned
+ord2195,p006,5,2025-01-01,bangalore,net_banking,cancelled
+ord1879,p029,6,2025-02-13,delhi,credit_card,delivered
+ord1481,p005,1,2025-01-03,ahmedabad,upi,delivered
+ord2072,p036,9,2025-02-01,kolkata,net banking,delivered
+ord2564,p013,1,2024-07-12,chennai,net banking,returned
+ord2038,p024,2,2025-01-27,pune,net banking,delivered
+ord1290,p013,4,2025-02-04,ahmedabad,cash_on_delivery,delivered
+ord1140,p020,2,2025-02-20,hyderabad,upi,delivered
+ord2639,p040,10,2024-12-01,ahmedabad,cash_on_delivery,delivered
+ord2595,p014,5,2024-12-18,kolkata,net banking,delivered
+ord2450,p031,10,2024-12-17,delhi,debit_card,returned
+ord1542,p008,7,2025-08-01,chennai,net banking,cancelled
+ord2211,p005,10,2025-02-16,bangalore,upi,cancelled
+ord2659,p020,7,2025-01-06,chennai,debit_card,delivered
+ord1965,p026,8,2024-09-12,hyderabad,cash_on_delivery,cancelled
+ord2494,p016,0,2024-12-25,mumbai,cash_on_delivery,delivered
+ord1486,p020,7,2024-12-05,ahmedabad,cash_on_delivery,delivered
+ord1851,p039,1,2024-12-18,bangalore,debit_card,cancelled
+ord2371,p009,5,2025-01-21,ahmedabad,credit_card,delivered
+ord1372,p036,3,2025-01-12,ahmedabad,net banking,delivered
+ord1702,p003,5,2025-01-10,bangalore,debit_card,delivered
+ord2741,p040,1,2024-12-30,bangalore,credit_card,cancelled
+ord1357,p039,5,2025-01-27,kolkata,upi,cancelled
+ord2052,p011,0,2024-12-31,hyderabad,credit_card,cancelled
+ord1052,p003,10,2025-02-19,mumbai,credit_card,delivered
+ord2928,p034,9,2025-02-12,pune,credit_card,returned
+ord1799,p022,7,2025-06-01,pune,debit_card,delivered
+ord1315,p022,2,2025-03-01,kolkata,credit_card,returned
+ord2667,p023,6,2025-02-11,bangalore,credit_card,delivered
+ord2149,p009,3,2025-01-10,delhi,cash_on_delivery,cancelled
+ord2884,p022,6,2025-01-01,kolkata,net banking,returned
+ord2728,p010,10,2025-01-21,delhi,debit_card,delivered
+ord1895,p039,1,2025-01-15,bangalore,cash_on_delivery,cancelled
+ord2288,p022,6,2025-02-14,bangalore,net banking,delivered
+ord2586,p001,2,2024-12-30,delhi,upi,cancelled
+ord1746,p028,2,2025-02-27,hyderabad,credit_card,delivered
+ord2648,p039,3,2024-12-29,delhi,upi,delivered
+ord1468,p015,4,2024-12-21,delhi,credit_card,delivered
+ord2477,p013,7,2024-12-15,delhi,cash_on_delivery,delivered
+ord2861,p036,10,2025-02-27,delhi,debit_card,delivered
+ord1935,p013,6,2025-01-01,chennai,cash_on_delivery,cancelled
+ord1106,p005,9,2025-02-01,mumbai,cash_on_delivery,returned
+ord2361,p032,8,2025-01-03,chennai,cash_on_delivery,delivered
+ord1023,p012,2,2025-02-26,chennai,net banking,delivered
+ord2368,p026,7,2024-12-29,pune,credit_card,delivered
+ord2750,p038,5,2024-12-26,hyderabad,debit_card,delivered
+ord2573,p014,8,2025-02-15,chennai,upi,delivered
+ord2858,p023,3,2024-09-12,kolkata,upi,delivered
+ord1402,p024,8,2025-01-11,ahmedabad,cash_on_delivery,delivered
+ord1046,p028,2,2025-04-01,pune,credit_card,returned
+ord2066,p039,7,2025-02-05,pune,net banking,delivered
+ord1549,p014,2,2025-02-08,mumbai,cash_on_delivery,cancelled
+ord2423,p009,0,2025-02-07,mumbai,cash_on_delivery,delivered
+ord1129,p018,4,2024-12-12,kolkata,net_banking,delivered
+ord2838,p037,9,2024-12-27,hyderabad,debit_card,delivered
+ord2575,p026,4,2025-02-18,kolkata,upi,delivered
+ord1905,p024,3,2025-02-12,pune,net_banking,delivered
+ord1848,p013,6,2024-02-12,bangalore,cash_on_delivery,delivered
+ord2163,p023,7,2025-02-19,kolkata,net banking,delivered
+ord2490,p007,5,2024-12-23,pune,upi,returned
+ord2581,p020,8,2024-12-25,bangalore,debit_card,cancelled
+ord2459,p008,9,2025-02-21,bangalore,cash_on_delivery,returned
+ord1983,p002,7,2024-12-31,chennai,debit_card,delivered
+ord2894,p013,10,2025-01-16,kolkata,net banking,delivered
+ord1461,p036,7,2025-01-23,ahmedabad,debit_card,delivered
+ord2378,p022,0,2024-12-28,pune,cash_on_delivery,delivered
+ord2743,p028,6,2025-01-02,pune,cash_on_delivery,cancelled
+ord1830,p020,10,2025-12-01,delhi,upi,cancelled
+ord2900,p039,8,2024-12-01,mumbai,debit_card,delivered
+ord1465,p100,10,2025-02-19,ahmedabad,upi,delivered
+ord2259,p016,3,2024-12-20,pune,upi,delivered
+ord2825,p013,4,2025-01-11,ahmedabad,credit_card,delivered
+ord2301,p021,8,2024-01-12,pune,credit_card,returned
+ord2009,p007,1,2024-12-21,delhi,debit_card,delivered
+ord1338,p013,2,2025-01-03,bangalore,debit_card,delivered
+ord1635,p039,4,2024-12-08,pune,credit_card,returned
+ord2756,p032,10,2025-02-19,chennai,upi,delivered
+ord1959,p002,4,2024-12-28,delhi,cash_on_delivery,returned
+ord2237,p016,2,2024-12-01,delhi,upi,delivered
+ord1097,p022,2,2025-02-26,pune,debit_card,delivered
+ord1389,p018,1,2024-12-24,hyderabad,debit_card,returned
+ord1558,p034,9,2025-02-10,chennai,cash_on_delivery,delivered
+ord1153,p015,3,2025-01-18,hyderabad,credit_card,delivered
+ord1015,p003,8,2025-02-23,kolkata,debit_card,delivered
+ord2254,p034,5,2024-12-24,hyderabad,cash_on_delivery,delivered
+ord1398,p101,2,2024-12-16,chennai,credit_card,delivered
+ord2543,p014,4,2025-01-16,kolkata,debit_card,delivered
+ord1219,p011,9,2024-12-23,mumbai,cash_on_delivery,returned
+ord2680,p011,7,2025-02-28,hyderabad,credit_card,returned
+ord1708,p039,3,2025-02-26,kolkata,debit_card,delivered
+ord2641,p019,2,2025-01-14,pune,net banking,cancelled
+ord1473,p039,0,2025-01-14,pune,credit_card,returned
+ord2987,p013,7,2025-02-03,bangalore,upi,returned
+ord1175,p021,5,2025-01-01,bangalore,cash_on_delivery,delivered
+ord2596,p022,5,2024-12-30,pune,debit_card,delivered
+ord1554,p022,7,2024-12-31,ahmedabad,net banking,cancelled
+ord1440,p008,6,2025-01-26,pune,cash_on_delivery,delivered
+ord2103,p015,2,2024-12-01,pune,cash_on_delivery,delivered
+ord2094,p016,2,2025-01-20,mumbai,cash_on_delivery,delivered
+ord1273,p016,2,2025-02-12,ahmedabad,upi,returned
+ord1263,p007,2,2025-02-26,mumbai,debit_card,delivered
+ord1931,p003,4,2024-12-13,ahmedabad,credit_card,delivered
+ord2902,p025,0,2025-02-13,delhi,upi,delivered
+ord1094,p004,10,2024-12-03,pune,credit_card,returned
+ord1835,p036,7,2024-12-28,bangalore,debit_card,cancelled
+ord2218,p021,8,2025-01-03,chennai,net banking,returned
+ord2080,p039,4,2025-02-14,hyderabad,cash_on_delivery,delivered
+ord2441,p011,10,2025-01-05,delhi,net banking,delivered
+ord1730,p006,2,2025-01-11,kolkata,credit_card,delivered
+ord2630,p006,4,2025-02-17,delhi,debit_card,cancelled
+ord2380,p024,8,2025-01-21,mumbai,net banking,returned
+ord2801,p021,8,2025-01-26,mumbai,cash_on_delivery,cancelled
+ord1754,p001,9,2025-01-02,bangalore,debit_card,returned
+ord1492,p023,5,2025-01-22,chennai,debit_card,cancelled
+ord1997,p006,2,2025-02-24,mumbai,debit_card,returned
+ord1878,p033,1,2024-12-08,chennai,cash_on_delivery,returned
+ord2907,p008,4,2025-02-10,delhi,upi,delivered
+ord1406,p008,8,2024-12-18,mumbai,credit_card,cancelled
+ord1723,p009,6,2024-12-24,delhi,upi,delivered
+ord1512,p018,2,2025-02-02,delhi,credit_card,delivered
+ord2387,p023,7,2025-02-22,pune,credit_card,delivered
+ord1823,p021,2,2025-02-21,chennai,debit_card,delivered
+ord1481,p006,2,2025-02-24,bangalore,debit_card,returned
+ord1869,p023,1,2024-12-22,pune,net banking,delivered
+ord2199,p036,10,2025-04-02,delhi,upi,returned
+ord2621,p100,8,2025-01-03,mumbai,credit_card,cancelled
+ord2579,p018,4,2025-01-25,ahmedabad,cash_on_delivery,returned
+ord2126,p013,1,2025-01-15,ahmedabad,net banking,cancelled
+ord2362,p036,3,2024-12-19,hyderabad,cash_on_delivery,delivered
+ord1485,p003,4,2025-01-14,pune,cash_on_delivery,delivered
+ord2599,p017,2,2025-02-25,kolkata,credit_card,delivered
+ord2660,p015,7,2024-12-02,hyderabad,cash_on_delivery,delivered
+ord2185,p030,3,2025-01-18,bangalore,upi,cancelled
+ord1748,p008,2,2025-03-02,bangalore,credit_card,cancelled
+ord2635,p017,5,2025-02-22,chennai,upi,delivered
+ord1481,p031,7,2025-02-15,mumbai,credit_card,delivered
+ord1225,p039,1,2024-12-13,hyderabad,credit_card,delivered
+ord1320,p013,8,2025-01-05,hyderabad,net_banking,returned
+ord2442,p007,10,2025-02-13,delhi,cash_on_delivery,delivered
+ord2852,p023,9,2024-12-11,kolkata,debit_card,delivered
+ord1815,p011,1,2025-01-20,ahmedabad,cash_on_delivery,delivered
+ord2393,p002,5,2025-01-11,chennai,net banking,delivered
+ord1643,p001,10,2025-02-10,ahmedabad,upi,delivered
+ord1641,p033,2,2025-01-18,chennai,cash_on_delivery,delivered
+ord2084,p031,5,2025-04-02,delhi,cash_on_delivery,cancelled
+ord1365,p040,4,2025-01-26,bangalore,cash_on_delivery,delivered
+ord2224,p036,10,2024-12-03,bangalore,net banking,delivered
+ord2436,p030,7,2025-02-18,bangalore,cash_on_delivery,cancelled
+ord1886,p003,4,2024-12-08,ahmedabad,net banking,delivered
+ord2113,p040,4,2024-12-06,delhi,cash_on_delivery,delivered
+ord2960,p004,9,2025-01-28,pune,net banking,delivered
+ord1069,p036,3,2025-02-18,hyderabad,cash_on_delivery,returned
+ord2177,p011,2,2024-12-22,hyderabad,debit_card,returned
+ord1553,p039,2,2024-12-24,mumbai,upi,delivered
+ord2324,p001,7,2025-01-14,bangalore,upi,returned
+ord2620,p036,2,2024-12-28,kolkata,net banking,delivered
+ord2174,p039,6,2025-02-21,kolkata,credit_card,delivered
+ord2940,p018,4,2025-01-14,kolkata,cash_on_delivery,delivered
+ord1785,p014,0,2025-01-26,mumbai,credit_card,delivered
+ord1073,p011,3,2025-01-26,mumbai,net banking,delivered
+ord1898,p005,3,2024-12-10,pune,cash_on_delivery,returned
+ord1215,p006,9,2025-01-05,delhi,upi,returned
+ord2553,p031,1,2024-12-31,chennai,upi,delivered
+ord1081,p006,0,2024-12-17,chennai,credit_card,delivered
+ord2734,p022,1,2025-01-10,hyderabad,upi,delivered
+ord2350,p021,9,2025-01-11,chennai,credit_card,delivered
+ord1064,p012,4,2025-08-02,kolkata,cash_on_delivery,returned
+ord2389,p023,4,2025-01-14,chennai,cash_on_delivery,cancelled
+ord2262,p040,2,2025-02-20,bangalore,credit_card,cancelled
+ord1713,p039,1,2025-02-12,mumbai,debit_card,returned
+ord1943,p026,2,2025-01-11,hyderabad,net banking,delivered
+ord1160,p036,8,2024-12-28,hyderabad,upi,cancelled
+ord1040,p023,1,2024-04-12,kolkata,net_banking,delivered
+ord1207,p023,2,2025-01-09,kolkata,credit_card,delivered
+ord1796,p023,10,2025-01-23,delhi,net_banking,cancelled
+ord2689,p002,6,2024-12-10,kolkata,cash_on_delivery,delivered
+ord2247,p014,1,2024-12-13,bangalore,credit_card,delivered
+ord1392,p036,7,2025-02-07,pune,cash_on_delivery,cancelled
+ord1053,p020,7,2025-01-27,ahmedabad,debit_card,returned
+ord1946,p030,5,2024-12-18,kolkata,credit_card,cancelled
+ord1252,p002,5,2025-01-05,pune,debit_card,delivered
+ord1076,p004,9,2024-12-30,ahmedabad,upi,cancelled
+ord2570,p029,2,2025-01-01,hyderabad,credit_card,delivered
+ord2463,p039,10,2025-01-13,mumbai,net banking,delivered
+ord1581,p035,8,2025-02-13,ahmedabad,credit_card,cancelled
+ord2923,p010,3,2025-02-12,bangalore,upi,cancelled
+ord2023,p015,3,2025-01-25,delhi,net_banking,delivered
+ord1444,p009,10,2025-01-25,hyderabad,net banking,returned
+ord2460,p007,2,2025-06-01,kolkata,credit_card,delivered
+ord2062,p038,4,2024-12-22,hyderabad,upi,returned
+ord1086,p025,2,2025-01-30,delhi,upi,returned
+ord1697,p010,2,2025-11-02,mumbai,net banking,returned
+ord2172,p040,2,2024-12-15,kolkata,net banking,delivered
+ord1655,p028,7,2025-02-09,ahmedabad,upi,returned
+ord2462,p014,5,2024-12-21,kolkata,net banking,returned
+ord2139,p013,5,2025-01-13,delhi,debit_card,cancelled
+ord1255,p037,4,2025-02-26,pune,upi,delivered
+ord1596,p035,7,2025-01-23,hyderabad,credit_card,returned
+ord1503,p022,6,2025-01-11,chennai,credit_card,delivered
+ord2421,p035,4,2024-12-06,chennai,net banking,delivered
+ord2681,p027,2,2025-02-13,delhi,upi,delivered
+ord2652,p018,3,2025-01-19,kolkata,credit_card,returned
+ord2658,p021,4,2025-02-16,chennai,debit_card,returned
+ord2476,p036,5,2025-01-25,delhi,debit_card,cancelled
+ord2002,p031,1,2025-01-05,bangalore,debit_card,returned
+ord2209,p026,8,2024-12-29,kolkata,cash_on_delivery,returned
+ord2372,p027,3,2024-12-03,delhi,net banking,delivered
+ord2010,p100,7,2024-12-18,pune,debit_card,delivered
+ord2495,p014,5,2024-12-19,bangalore,upi,delivered
+ord1522,p037,2,2024-12-24,hyderabad,credit_card,delivered
+ord2468,p037,4,2025-01-03,pune,upi,cancelled
+ord2298,p021,1,2025-01-21,bangalore,cash_on_delivery,cancelled
+ord1911,p019,4,2024-12-18,ahmedabad,upi,delivered
+ord2215,p031,3,2024-12-28,bangalore,upi,delivered
+ord1481,p028,9,2025-01-08,mumbai,credit_card,delivered
+ord1821,p001,10,2025-01-05,ahmedabad,credit_card,delivered
+ord1516,p006,3,2025-01-21,delhi,upi,returned
+ord1209,p004,2,2024-12-04,pune,cash_on_delivery,delivered
+ord1953,p038,3,2024-12-16,chennai,debit_card,delivered
+ord1481,p015,10,2024-12-27,kolkata,cash_on_delivery,returned
+ord1616,p018,7,2025-02-27,pune,upi,cancelled
+ord1004,p023,4,2025-01-16,hyderabad,upi,delivered
+ord1910,p024,1,2024-12-30,delhi,cash_on_delivery,returned
+ord1619,p037,6,2024-12-12,delhi,net banking,cancelled
+ord2307,p033,4,2024-12-24,bangalore,debit_card,cancelled
+ord2971,p018,2,2024-12-17,chennai,credit_card,delivered
+ord2612,p027,1,2024-12-15,kolkata,cash_on_delivery,delivered
+ord2342,p027,2,2025-02-02,pune,credit_card,cancelled
+ord2508,p008,10,2025-02-26,ahmedabad,credit_card,returned
+ord2519,p015,1,2025-11-01,hyderabad,debit_card,delivered
+ord1438,p023,3,2024-12-27,chennai,upi,delivered
+ord1489,p032,2,2025-01-30,kolkata,credit_card,delivered
+ord1344,p001,1,2025-01-01,kolkata,cash_on_delivery,delivered
+ord1841,p001,1,2025-02-24,kolkata,cash_on_delivery,returned
+ord1397,p017,5,2024-06-12,delhi,net_banking,cancelled
+ord2591,p016,8,2025-01-29,ahmedabad,cash_on_delivery,delivered
+ord1241,p007,7,2024-12-25,bangalore,upi,delivered
+ord2312,p003,5,2025-02-18,bangalore,cash_on_delivery,delivered
+ord2287,p025,2,2025-02-24,pune,credit_card,cancelled
+ord1538,p020,9,2024-12-19,kolkata,cash_on_delivery,cancelled
+ord2862,p007,4,2025-02-21,chennai,debit_card,returned
+ord2584,p006,10,2024-12-21,hyderabad,debit_card,delivered
+ord2088,p006,6,2025-02-02,ahmedabad,cash_on_delivery,cancelled
+ord2864,p034,9,2024-12-28,kolkata,cash_on_delivery,returned
+ord2839,p033,7,2025-01-19,hyderabad,net banking,returned
+ord2613,p035,5,2024-12-07,delhi,cash_on_delivery,cancelled
+ord1319,p040,4,2025-01-21,pune,cash_on_delivery,delivered
+ord1091,p018,9,2025-01-26,kolkata,debit_card,delivered
+ord1825,p001,9,2025-02-27,hyderabad,net banking,cancelled
+ord1838,p026,1,2025-01-02,chennai,upi,returned
+ord2339,p036,8,2025-02-23,delhi,net banking,delivered
+ord1201,p001,4,2025-02-22,bangalore,cash_on_delivery,delivered
+ord2028,p039,2,2024-12-25,mumbai,upi,delivered
+ord2901,p006,0,2024-12-19,delhi,credit_card,delivered
+ord1742,p024,9,2025-01-27,pune,debit_card,delivered
+ord2000,p031,4,2025-02-10,pune,net banking,cancelled
+ord2706,p022,9,2025-01-17,kolkata,credit_card,delivered
+ord1618,p022,7,2024-11-12,hyderabad,cash_on_delivery,delivered
+ord2225,p023,8,2024-12-26,mumbai,net banking,delivered
+ord2530,p008,1,2024-12-19,delhi,net banking,delivered
+ord1996,p010,5,2024-12-26,mumbai,cash_on_delivery,delivered
+ord1705,p014,8,2025-02-11,kolkata,upi,delivered
+ord2714,p017,6,2024-12-07,delhi,credit_card,returned
+ord2983,p028,3,2025-12-02,pune,net banking,delivered
+ord2610,p039,2,2025-01-27,mumbai,cash_on_delivery,delivered
+ord2193,p008,6,2024-12-07,chennai,upi,cancelled
+ord2536,p025,0,2025-02-14,kolkata,debit_card,delivered
+ord2381,p016,10,2025-01-19,mumbai,cash_on_delivery,returned
+ord2588,p037,0,2025-01-23,mumbai,cash_on_delivery,returned
+ord2709,p033,10,2024-01-12,kolkata,cash_on_delivery,cancelled
+ord1037,p003,9,2025-01-06,hyderabad,debit_card,delivered
+ord2132,p039,10,2024-12-15,ahmedabad,cash_on_delivery,returned
+ord1716,p016,4,2025-02-13,mumbai,debit_card,returned
+ord1764,p011,7,2024-12-13,ahmedabad,debit_card,cancelled

@@ -1,0 +1,1960 @@
+order_id,product_id,quantity,order_date,customer_city,payment_mode,order_status,product_name,category,unit_price
+ord2263,p009,1,2025-10-02,delhi,cash_on_delivery,delivered,amul cheese slices 200g,dairy,135
+ord1298,p003,10,2024-12-25,pune,cash_on_delivery,delivered,fortune sunflower oil 1l,staples,135
+ord1060,p002,8,2025-02-05,pune,net banking,cancelled,aashirvaad atta 5kg,staples,275
+ord2697,p002,9,2024-12-13,ahmedabad,cash_on_delivery,delivered,aashirvaad atta 5kg,staples,275
+ord1744,p008,2,2024-12-07,mumbai,net banking,delivered,mother dairy curd 400g,dairy,48
+ord2544,p033,3,2025-05-01,ahmedabad,cash_on_delivery,delivered,colgate strong teeth 300g,personal care,129
+ord1977,p002,1,2024-12-13,delhi,upi,delivered,aashirvaad atta 5kg,staples,275
+ord1353,p034,7,2025-01-29,mumbai,debit_card,delivered,dettol handwash 250ml,personal care,89
+ord2432,p033,2,2025-01-22,delhi,net banking,delivered,colgate strong teeth 300g,personal care,129
+ord2402,p007,1,2024-12-18,bangalore,net banking,cancelled,amul butter 500g,dairy,285
+ord1690,p035,9,2024-12-18,chennai,cash_on_delivery,delivered,himalaya face wash 100ml,personal care,105
+ord1944,p013,1,2025-02-28,hyderabad,cash_on_delivery,delivered,britannia good day 120g,snacks,30
+ord2729,p011,4,2025-01-18,mumbai,upi,delivered,lay's classic salted 26g,snacks,20
+ord2996,p022,2,2024-12-09,ahmedabad,cash_on_delivery,delivered,onion 1kg,vegetables,28
+ord2182,p037,8,2025-01-23,bangalore,net banking,delivered,mtr upma mix 200g,ready to cook,55
+ord1856,p006,8,2024-12-20,chennai,debit_card,delivered,amul full cream milk 1l,dairy,68
+ord1088,p013,10,2025-05-01,hyderabad,cash_on_delivery,returned,britannia good day 120g,snacks,30
+ord2625,p018,5,2025-02-24,bangalore,credit_card,cancelled,red bull 250ml,beverages,125
+ord2762,p021,4,2024-12-05,delhi,net_banking,cancelled,tomato 1kg,vegetables,35
+ord2692,p012,2,2024-12-07,hyderabad,upi,returned,bingo mad angles 90g,snacks,35
+ord1036,p015,8,2025-02-09,ahmedabad,credit_card,cancelled,parle-g biscuits 800g,snacks,65
+ord2385,p021,2,2025-02-14,ahmedabad,debit_card,returned,tomato 1kg,vegetables,35
+ord2523,p023,5,2025-01-26,kolkata,net banking,delivered,potato 1kg,vegetables,25
+ord2151,p029,2,2025-02-03,ahmedabad,debit_card,returned,colin glass cleaner 500ml,household,95
+ord2400,p003,2,2025-02-23,ahmedabad,cash_on_delivery,returned,fortune sunflower oil 1l,staples,135
+ord1732,p036,4,2025-01-23,kolkata,debit_card,returned,maggi noodles 70g,ready to cook,14
+ord1481,p023,2,2024-12-18,mumbai,upi,cancelled,potato 1kg,vegetables,25
+ord1066,p006,5,2025-02-22,bangalore,upi,delivered,amul full cream milk 1l,dairy,68
+ord1938,p001,9,2024-12-25,chennai,net banking,cancelled,tata salt 1kg,staples,22
+ord1035,p002,8,2025-01-01,delhi,cash_on_delivery,delivered,aashirvaad atta 5kg,staples,275
+ord2886,p040,9,2024-01-12,bangalore,cash_on_delivery,cancelled,haldiram dal makhani 300g,ready to cook,85
+ord2005,p006,8,2025-01-26,pune,upi,returned,amul full cream milk 1l,dairy,68
+ord1451,p016,8,2025-01-17,delhi,credit_card,returned,coca-cola 750ml,beverages,40
+ord1126,p018,7,2025-02-19,chennai,debit_card,delivered,red bull 250ml,beverages,125
+ord1745,p036,4,2025-01-04,ahmedabad,credit_card,delivered,maggi noodles 70g,ready to cook,14
+ord2634,p013,6,2025-02-07,bangalore,upi,delivered,britannia good day 120g,snacks,30
+ord1963,p018,5,2024-12-24,pune,credit_card,returned,red bull 250ml,beverages,125
+ord1458,p026,2,2025-01-31,mumbai,credit_card,cancelled,surf excel 1kg,household,195
+ord2742,p029,2,2025-01-02,chennai,credit_card,delivered,colin glass cleaner 500ml,household,95
+ord2338,p026,10,2024-12-28,delhi,net banking,returned,surf excel 1kg,household,195
+ord2590,p032,5,2025-03-01,chennai,upi,returned,head & shoulders 340ml,personal care,299
+ord2358,p039,3,2025-02-22,hyderabad,credit_card,cancelled,sunfeast yippee noodles,ready to cook,14
+ord2249,p039,9,2024-12-18,mumbai,credit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord1481,p015,0,2024-12-27,delhi,net banking,delivered,parle-g biscuits 800g,snacks,65
+ord2431,p016,9,2025-01-25,hyderabad,credit_card,delivered,coca-cola 750ml,beverages,40
+ord2889,p016,2,2024-10-12,mumbai,debit_card,delivered,coca-cola 750ml,beverages,40
+ord1279,p039,10,2025-01-07,ahmedabad,credit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord1567,p007,2,2025-01-12,chennai,upi,cancelled,amul butter 500g,dairy,285
+ord1481,p011,3,2025-02-23,chennai,upi,returned,lay's classic salted 26g,snacks,20
+ord1896,p012,8,2025-02-10,hyderabad,credit_card,cancelled,bingo mad angles 90g,snacks,35
+ord2257,p011,6,2025-02-27,hyderabad,debit_card,cancelled,lay's classic salted 26g,snacks,20
+ord2966,p022,10,2024-12-19,kolkata,net banking,returned,onion 1kg,vegetables,28
+ord2914,p021,4,2025-01-10,hyderabad,upi,delivered,tomato 1kg,vegetables,35
+ord1481,p009,8,2025-02-16,hyderabad,upi,delivered,amul cheese slices 200g,dairy,135
+ord1828,p036,4,2025-11-02,bangalore,credit_card,delivered,maggi noodles 70g,ready to cook,14
+ord1727,p017,4,2025-02-02,kolkata,net banking,returned,tropicana orange 1l,beverages,120
+ord1737,p014,2,2025-02-28,bangalore,credit_card,delivered,haldiram bhujia 200g,snacks,80
+ord2855,p012,3,2025-02-09,hyderabad,net banking,delivered,bingo mad angles 90g,snacks,35
+ord1003,p004,10,2025-01-18,delhi,debit_card,returned,india gate basmati 1kg,staples,110
+ord2277,p006,1,2025-02-15,pune,cash_on_delivery,returned,amul full cream milk 1l,dairy,68
+ord1747,p009,8,2024-12-10,bangalore,upi,delivered,amul cheese slices 200g,dairy,135
+ord2739,p001,2,2025-11-01,bangalore,credit_card,delivered,tata salt 1kg,staples,22
+ord1127,p035,6,2025-10-01,pune,cash_on_delivery,delivered,himalaya face wash 100ml,personal care,105
+ord2034,p011,7,2024-12-21,mumbai,debit_card,cancelled,lay's classic salted 26g,snacks,20
+ord1561,p014,4,2025-02-28,mumbai,upi,delivered,haldiram bhujia 200g,snacks,80
+ord2877,p028,6,2024-12-08,chennai,debit_card,delivered,harpic power plus 500ml,household,115
+ord2527,p009,6,2025-02-24,kolkata,credit_card,delivered,amul cheese slices 200g,dairy,135
+ord2332,p036,10,2025-01-12,ahmedabad,debit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord1890,p019,4,2025-02-21,chennai,debit_card,returned,tata tea premium 500g,beverages,220
+ord1564,p008,1,2025-02-05,chennai,credit_card,returned,mother dairy curd 400g,dairy,48
+ord2943,p005,1,2025-01-01,kolkata,cash_on_delivery,delivered,toor dal 500g,staples,68
+ord1678,p035,7,2025-01-20,bangalore,cash_on_delivery,delivered,himalaya face wash 100ml,personal care,105
+ord1204,p018,1,2025-02-15,delhi,net banking,returned,red bull 250ml,beverages,125
+ord2019,p002,7,2025-02-27,bangalore,credit_card,delivered,aashirvaad atta 5kg,staples,275
+ord1481,p020,5,2024-12-16,pune,debit_card,returned,nescafe classic 50g,beverages,185
+ord2046,p008,5,2025-01-11,hyderabad,net banking,delivered,mother dairy curd 400g,dairy,48
+ord2220,p012,2,2025-02-13,hyderabad,credit_card,delivered,bingo mad angles 90g,snacks,35
+ord1499,p001,4,2025-01-20,chennai,debit_card,delivered,tata salt 1kg,staples,22
+ord1325,p003,9,2025-02-23,ahmedabad,net banking,delivered,fortune sunflower oil 1l,staples,135
+ord1118,p022,2,2025-02-25,ahmedabad,debit_card,delivered,onion 1kg,vegetables,28
+ord2063,p030,4,2024-12-23,bangalore,net banking,returned,lizol disinfectant 1l,household,175
+ord1361,p036,9,2024-12-30,mumbai,cash_on_delivery,delivered,maggi noodles 70g,ready to cook,14
+ord2670,p008,1,2024-12-24,mumbai,net banking,delivered,mother dairy curd 400g,dairy,48
+ord2074,p015,10,2024-12-25,kolkata,credit_card,delivered,parle-g biscuits 800g,snacks,65
+ord2719,p034,4,2025-01-12,pune,debit_card,cancelled,dettol handwash 250ml,personal care,89
+ord1687,p027,3,2024-12-19,delhi,debit_card,returned,vim dishwash bar 200g,household,35
+ord2079,p030,3,2024-12-08,kolkata,cash_on_delivery,returned,lizol disinfectant 1l,household,175
+ord2043,p015,5,2025-02-20,bangalore,credit_card,delivered,parle-g biscuits 800g,snacks,65
+ord1939,p036,9,2025-01-21,chennai,credit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord2427,p004,7,2025-01-30,ahmedabad,credit_card,returned,india gate basmati 1kg,staples,110
+ord2820,p002,4,2025-01-21,kolkata,net banking,delivered,aashirvaad atta 5kg,staples,275
+ord1993,p002,8,2025-03-01,pune,cash_on_delivery,delivered,aashirvaad atta 5kg,staples,275
+ord2016,p023,1,2024-01-12,mumbai,net banking,delivered,potato 1kg,vegetables,25
+ord2827,p036,9,2024-12-01,hyderabad,upi,delivered,maggi noodles 70g,ready to cook,14
+ord2134,p034,10,2024-12-18,hyderabad,upi,delivered,dettol handwash 250ml,personal care,89
+ord2627,p031,9,2025-02-09,hyderabad,credit_card,delivered,dove soap 100g,personal care,55
+ord2792,p039,2,2025-02-15,bangalore,credit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord1316,p023,1,2025-02-26,mumbai,credit_card,delivered,potato 1kg,vegetables,25
+ord2320,p006,0,2024-12-01,delhi,credit_card,delivered,amul full cream milk 1l,dairy,68
+ord1797,p032,2,2025-01-16,hyderabad,cash_on_delivery,delivered,head & shoulders 340ml,personal care,299
+ord2244,p005,5,2025-01-02,mumbai,upi,cancelled,toor dal 500g,staples,68
+ord1141,p024,5,2025-01-30,ahmedabad,credit_card,cancelled,spinach 250g,vegetables,20
+ord1299,p031,3,2025-02-21,kolkata,debit_card,returned,dove soap 100g,personal care,55
+ord1583,p035,7,2025-01-20,hyderabad,debit_card,delivered,himalaya face wash 100ml,personal care,105
+ord2101,p032,8,2025-01-21,hyderabad,credit_card,delivered,head & shoulders 340ml,personal care,299
+ord1396,p036,8,2025-02-05,bangalore,credit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord1537,p037,7,2024-12-20,mumbai,net_banking,returned,mtr upma mix 200g,ready to cook,55
+ord1735,p011,10,2025-01-28,ahmedabad,upi,returned,lay's classic salted 26g,snacks,20
+ord1885,p023,1,2024-12-02,hyderabad,credit_card,delivered,potato 1kg,vegetables,25
+ord1634,p024,9,2025-02-28,mumbai,net_banking,delivered,spinach 250g,vegetables,20
+ord2786,p037,9,2025-01-23,delhi,debit_card,delivered,mtr upma mix 200g,ready to cook,55
+ord1874,p009,1,2025-02-11,ahmedabad,upi,returned,amul cheese slices 200g,dairy,135
+ord2572,p036,4,2025-02-15,bangalore,upi,delivered,maggi noodles 70g,ready to cook,14
+ord2384,p023,1,2025-01-06,ahmedabad,upi,cancelled,potato 1kg,vegetables,25
+ord2921,p040,6,2024-02-12,chennai,upi,delivered,haldiram dal makhani 300g,ready to cook,85
+ord1515,p023,1,2025-01-27,pune,net banking,delivered,potato 1kg,vegetables,25
+ord2606,p025,3,2025-01-26,mumbai,cash_on_delivery,delivered,capsicum 500g,vegetables,45
+ord1121,p019,8,2024-12-16,hyderabad,credit_card,delivered,tata tea premium 500g,beverages,220
+ord2796,p025,6,2025-02-28,ahmedabad,upi,delivered,capsicum 500g,vegetables,45
+ord1551,p027,10,2025-02-13,ahmedabad,upi,returned,vim dishwash bar 200g,household,35
+ord1787,p021,10,2025-02-25,chennai,net banking,delivered,tomato 1kg,vegetables,35
+ord2746,p039,2,2025-01-21,pune,debit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord2932,p035,10,2025-02-13,mumbai,upi,returned,himalaya face wash 100ml,personal care,105
+ord2549,p036,6,2025-07-01,delhi,debit_card,delivered,maggi noodles 70g,ready to cook,14
+ord1887,p039,2,2025-01-04,chennai,upi,cancelled,sunfeast yippee noodles,ready to cook,14
+ord1437,p003,4,2025-01-08,pune,cash_on_delivery,delivered,fortune sunflower oil 1l,staples,135
+ord2592,p023,8,2024-12-06,chennai,cash_on_delivery,returned,potato 1kg,vegetables,25
+ord1749,p016,10,2025-01-15,chennai,debit_card,returned,coca-cola 750ml,beverages,40
+ord2136,p007,1,2024-12-13,ahmedabad,net banking,cancelled,amul butter 500g,dairy,285
+ord1293,p023,9,2025-02-13,mumbai,upi,delivered,potato 1kg,vegetables,25
+ord2499,p037,10,2025-01-30,kolkata,upi,cancelled,mtr upma mix 200g,ready to cook,55
+ord1544,p022,8,2025-02-20,kolkata,cash_on_delivery,cancelled,onion 1kg,vegetables,28
+ord1174,p021,9,2025-01-22,delhi,upi,delivered,tomato 1kg,vegetables,35
+ord2924,p021,10,2024-12-30,hyderabad,net banking,delivered,tomato 1kg,vegetables,35
+ord1177,p015,4,2025-02-22,bangalore,debit_card,delivered,parle-g biscuits 800g,snacks,65
+ord2447,p009,5,2025-02-11,hyderabad,cash_on_delivery,returned,amul cheese slices 200g,dairy,135
+ord1998,p001,10,2025-01-09,bangalore,debit_card,cancelled,tata salt 1kg,staples,22
+ord2557,p018,3,2025-02-16,delhi,cash_on_delivery,delivered,red bull 250ml,beverages,125
+ord1724,p025,3,2025-01-18,pune,cash_on_delivery,returned,capsicum 500g,vegetables,45
+ord2585,p002,6,2025-01-22,kolkata,upi,delivered,aashirvaad atta 5kg,staples,275
+ord2685,p039,6,2025-02-15,chennai,cash_on_delivery,delivered,sunfeast yippee noodles,ready to cook,14
+ord2563,p004,8,2025-02-16,hyderabad,net banking,delivered,india gate basmati 1kg,staples,110
+ord1393,p025,1,2025-01-15,delhi,credit_card,delivered,capsicum 500g,vegetables,45
+ord1792,p040,1,2025-02-01,mumbai,debit_card,delivered,haldiram dal makhani 300g,ready to cook,85
+ord1481,p015,2,2025-02-03,mumbai,cash_on_delivery,delivered,parle-g biscuits 800g,snacks,65
+ord1685,p020,5,2025-02-15,bangalore,cash_on_delivery,delivered,nescafe classic 50g,beverages,185
+ord1481,p013,7,2024-12-18,delhi,credit_card,delivered,britannia good day 120g,snacks,30
+ord2419,p022,8,2025-10-01,kolkata,credit_card,delivered,onion 1kg,vegetables,28
+ord1481,p019,1,2025-02-13,pune,upi,delivered,tata tea premium 500g,beverages,220
+ord2069,p015,2,2024-12-07,hyderabad,credit_card,returned,parle-g biscuits 800g,snacks,65
+ord1667,p002,6,2025-01-24,mumbai,debit_card,delivered,aashirvaad atta 5kg,staples,275
+ord1065,p033,3,2025-01-19,bangalore,cash_on_delivery,returned,colgate strong teeth 300g,personal care,129
+ord1703,p016,6,2024-12-18,delhi,net banking,delivered,coca-cola 750ml,beverages,40
+ord2239,p036,4,2024-12-14,pune,upi,delivered,maggi noodles 70g,ready to cook,14
+ord2227,p015,1,2024-12-17,bangalore,upi,delivered,parle-g biscuits 800g,snacks,65
+ord2334,p019,1,2024-12-10,chennai,cash_on_delivery,returned,tata tea premium 500g,beverages,220
+ord1658,p034,5,2024-12-16,chennai,debit_card,delivered,dettol handwash 250ml,personal care,89
+ord2514,p039,6,2024-12-20,kolkata,credit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord2705,p011,1,2024-12-26,delhi,net banking,delivered,lay's classic salted 26g,snacks,20
+ord1858,p015,8,2025-02-20,delhi,net banking,returned,parle-g biscuits 800g,snacks,65
+ord1975,p021,8,2024-12-21,kolkata,net banking,delivered,tomato 1kg,vegetables,35
+ord1592,p006,5,2024-12-09,kolkata,debit_card,delivered,amul full cream milk 1l,dairy,68
+ord1902,p002,9,2024-12-10,delhi,net banking,cancelled,aashirvaad atta 5kg,staples,275
+ord1595,p021,2,2025-01-02,ahmedabad,cash_on_delivery,delivered,tomato 1kg,vegetables,35
+ord2014,p025,4,2025-02-14,chennai,debit_card,delivered,capsicum 500g,vegetables,45
+ord1654,p037,7,2024-12-30,chennai,upi,returned,mtr upma mix 200g,ready to cook,55
+ord2546,p013,10,2024-12-20,kolkata,upi,cancelled,britannia good day 120g,snacks,30
+ord2769,p006,6,2024-12-09,kolkata,net banking,delivered,amul full cream milk 1l,dairy,68
+ord2909,p015,0,2024-12-16,hyderabad,upi,delivered,parle-g biscuits 800g,snacks,65
+ord1920,p018,6,2025-02-09,ahmedabad,upi,cancelled,red bull 250ml,beverages,125
+ord2817,p011,6,2025-01-25,bangalore,upi,delivered,lay's classic salted 26g,snacks,20
+ord2351,p028,2,2025-01-22,bangalore,credit_card,cancelled,harpic power plus 500ml,household,115
+ord2071,p010,8,2024-12-04,hyderabad,net banking,delivered,nandini paneer 200g,dairy,90
+ord1476,p018,5,2025-01-19,chennai,cash_on_delivery,cancelled,red bull 250ml,beverages,125
+ord2448,p006,4,2025-02-21,mumbai,upi,delivered,amul full cream milk 1l,dairy,68
+ord2271,p037,0,2025-01-18,chennai,net_banking,cancelled,mtr upma mix 200g,ready to cook,55
+ord1418,p028,2,2025-01-14,mumbai,debit_card,cancelled,harpic power plus 500ml,household,115
+ord2029,p015,4,2025-02-28,chennai,debit_card,delivered,parle-g biscuits 800g,snacks,65
+ord1502,p003,3,2024-12-21,hyderabad,net banking,cancelled,fortune sunflower oil 1l,staples,135
+ord1772,p025,10,2025-02-21,ahmedabad,credit_card,returned,capsicum 500g,vegetables,45
+ord2913,p038,1,2025-03-01,bangalore,credit_card,delivered,knorr soup tomato 44g,ready to cook,40
+ord2650,p017,6,2024-12-01,ahmedabad,cash_on_delivery,returned,tropicana orange 1l,beverages,120
+ord1569,p037,1,2025-01-18,pune,upi,cancelled,mtr upma mix 200g,ready to cook,55
+ord1405,p022,7,2025-01-11,delhi,cash_on_delivery,delivered,onion 1kg,vegetables,28
+ord2936,p036,9,2024-12-23,kolkata,upi,delivered,maggi noodles 70g,ready to cook,14
+ord2920,p008,7,2025-01-17,mumbai,net_banking,delivered,mother dairy curd 400g,dairy,48
+ord2272,p036,1,2025-02-01,ahmedabad,debit_card,delivered,maggi noodles 70g,ready to cook,14
+ord1865,p015,1,2025-02-27,bangalore,debit_card,delivered,parle-g biscuits 800g,snacks,65
+ord1719,p039,10,2024-12-25,kolkata,upi,returned,sunfeast yippee noodles,ready to cook,14
+ord1364,p012,7,2025-12-02,delhi,upi,cancelled,bingo mad angles 90g,snacks,35
+ord2926,p025,8,2025-07-02,hyderabad,credit_card,delivered,capsicum 500g,vegetables,45
+ord2947,p027,6,2025-12-02,chennai,upi,cancelled,vim dishwash bar 200g,household,35
+ord2807,p033,6,2025-01-01,ahmedabad,debit_card,cancelled,colgate strong teeth 300g,personal care,129
+ord1615,p023,2,2025-02-14,delhi,cash_on_delivery,returned,potato 1kg,vegetables,25
+ord1891,p012,2,2025-02-04,ahmedabad,cash_on_delivery,delivered,bingo mad angles 90g,snacks,35
+ord1238,p014,1,2025-01-17,kolkata,debit_card,delivered,haldiram bhujia 200g,snacks,80
+ord1972,p040,7,2024-12-17,pune,credit_card,returned,haldiram dal makhani 300g,ready to cook,85
+ord1481,p017,3,2024-03-12,pune,cash_on_delivery,delivered,tropicana orange 1l,beverages,120
+ord1839,p021,3,2024-12-14,mumbai,debit_card,delivered,tomato 1kg,vegetables,35
+ord2655,p001,3,2024-12-28,mumbai,net banking,delivered,tata salt 1kg,staples,22
+ord2317,p007,6,2024-12-24,mumbai,net banking,delivered,amul butter 500g,dairy,285
+ord1210,p013,2,2025-01-02,delhi,net banking,cancelled,britannia good day 120g,snacks,30
+ord2683,p016,9,2025-02-03,ahmedabad,upi,returned,coca-cola 750ml,beverages,40
+ord1767,p037,10,2024-09-12,ahmedabad,cash_on_delivery,returned,mtr upma mix 200g,ready to cook,55
+ord1769,p028,7,2024-12-31,delhi,credit_card,cancelled,harpic power plus 500ml,household,115
+ord1780,p036,4,2025-07-02,mumbai,upi,returned,maggi noodles 70g,ready to cook,14
+ord2056,p020,7,2025-01-11,mumbai,cash_on_delivery,delivered,nescafe classic 50g,beverages,185
+ord1994,p013,7,2025-01-29,ahmedabad,debit_card,returned,britannia good day 120g,snacks,30
+ord2726,p005,1,2025-10-01,kolkata,credit_card,delivered,toor dal 500g,staples,68
+ord1871,p008,2,2025-02-15,chennai,debit_card,cancelled,mother dairy curd 400g,dairy,48
+ord1881,p008,3,2025-01-17,pune,debit_card,delivered,mother dairy curd 400g,dairy,48
+ord1093,p027,1,2025-02-03,pune,upi,delivered,vim dishwash bar 200g,household,35
+ord2656,p007,10,2025-01-28,pune,net banking,delivered,amul butter 500g,dairy,285
+ord1027,p036,8,2025-01-30,hyderabad,credit_card,returned,maggi noodles 70g,ready to cook,14
+ord1623,p022,1,2024-12-06,delhi,credit_card,delivered,onion 1kg,vegetables,28
+ord1120,p036,2,2025-01-26,delhi,debit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord2410,p009,2,2025-01-01,hyderabad,cash_on_delivery,delivered,amul cheese slices 200g,dairy,135
+ord2416,p036,3,2024-12-25,ahmedabad,cash_on_delivery,delivered,maggi noodles 70g,ready to cook,14
+ord1096,p033,3,2024-12-31,delhi,credit_card,delivered,colgate strong teeth 300g,personal care,129
+ord1226,p008,6,2025-01-10,pune,net banking,delivered,mother dairy curd 400g,dairy,48
+ord2310,p025,2,2024-01-12,ahmedabad,debit_card,returned,capsicum 500g,vegetables,45
+ord1805,p022,3,2025-02-17,pune,upi,delivered,onion 1kg,vegetables,28
+ord1481,p030,10,2025-01-26,kolkata,net banking,delivered,lizol disinfectant 1l,household,175
+ord2919,p003,3,2025-02-08,delhi,debit_card,delivered,fortune sunflower oil 1l,staples,135
+ord1033,p012,3,2024-12-31,chennai,credit_card,returned,bingo mad angles 90g,snacks,35
+ord2518,p027,7,2024-12-23,hyderabad,credit_card,delivered,vim dishwash bar 200g,household,35
+ord1481,p021,5,2025-02-22,kolkata,credit_card,delivered,tomato 1kg,vegetables,35
+ord1272,p006,8,2025-01-30,ahmedabad,credit_card,delivered,amul full cream milk 1l,dairy,68
+ord1278,p019,10,2024-12-23,bangalore,credit_card,delivered,tata tea premium 500g,beverages,220
+ord1759,p005,9,2025-02-24,mumbai,cash_on_delivery,returned,toor dal 500g,staples,68
+ord2253,p016,0,2025-02-03,pune,cash_on_delivery,returned,coca-cola 750ml,beverages,40
+ord2636,p035,8,2024-12-13,mumbai,upi,delivered,himalaya face wash 100ml,personal care,105
+ord2242,p033,7,2025-01-26,chennai,cash_on_delivery,returned,colgate strong teeth 300g,personal care,129
+ord1287,p021,3,2025-01-15,delhi,debit_card,delivered,tomato 1kg,vegetables,35
+ord2927,p031,9,2025-01-16,chennai,credit_card,delivered,dove soap 100g,personal care,55
+ord2700,p006,2,2025-01-23,ahmedabad,debit_card,returned,amul full cream milk 1l,dairy,68
+ord2422,p003,2,2025-01-07,delhi,debit_card,delivered,fortune sunflower oil 1l,staples,135
+ord1481,p023,10,2024-12-02,ahmedabad,debit_card,returned,potato 1kg,vegetables,25
+ord2840,p026,9,2025-02-23,kolkata,cash_on_delivery,delivered,surf excel 1kg,household,195
+ord2539,p034,8,2025-01-03,kolkata,cash_on_delivery,delivered,dettol handwash 250ml,personal care,89
+ord2624,p005,8,2025-01-24,mumbai,cash_on_delivery,delivered,toor dal 500g,staples,68
+ord1409,p017,2,2024-12-25,kolkata,debit_card,returned,tropicana orange 1l,beverages,120
+ord2663,p022,7,2025-01-09,ahmedabad,net banking,delivered,onion 1kg,vegetables,28
+ord1818,p015,1,2025-09-02,hyderabad,upi,delivered,parle-g biscuits 800g,snacks,65
+ord1487,p018,6,2025-02-27,hyderabad,debit_card,delivered,red bull 250ml,beverages,125
+ord2255,p031,3,2025-02-15,kolkata,net banking,returned,dove soap 100g,personal care,55
+ord2179,p014,9,2024-12-25,hyderabad,cash_on_delivery,delivered,haldiram bhujia 200g,snacks,80
+ord1132,p019,6,2025-02-03,mumbai,upi,delivered,tata tea premium 500g,beverages,220
+ord2095,p030,4,2025-01-09,mumbai,cash_on_delivery,returned,lizol disinfectant 1l,household,175
+ord2184,p027,1,2025-01-24,kolkata,upi,delivered,vim dishwash bar 200g,household,35
+ord1283,p028,5,2025-02-10,kolkata,credit_card,delivered,harpic power plus 500ml,household,115
+ord2559,p039,5,2025-02-09,mumbai,upi,returned,sunfeast yippee noodles,ready to cook,14
+ord2718,p013,3,2025-01-03,bangalore,net banking,returned,britannia good day 120g,snacks,30
+ord2251,p040,2,2025-02-13,ahmedabad,credit_card,returned,haldiram dal makhani 300g,ready to cook,85
+ord1212,p032,5,2024-06-12,kolkata,upi,returned,head & shoulders 340ml,personal care,299
+ord1481,p036,3,2024-12-25,mumbai,cash_on_delivery,delivered,maggi noodles 70g,ready to cook,14
+ord2574,p013,5,2025-01-21,bangalore,cash_on_delivery,returned,britannia good day 120g,snacks,30
+ord2240,p036,7,2025-01-16,chennai,cash_on_delivery,delivered,maggi noodles 70g,ready to cook,14
+ord1369,p036,8,2025-02-07,delhi,credit_card,delivered,maggi noodles 70g,ready to cook,14
+ord1330,p035,9,2025-05-02,pune,cash_on_delivery,delivered,himalaya face wash 100ml,personal care,105
+ord1116,p022,1,2025-01-24,bangalore,cash_on_delivery,delivered,onion 1kg,vegetables,28
+ord2957,p011,2,2025-02-02,ahmedabad,debit_card,delivered,lay's classic salted 26g,snacks,20
+ord1439,p007,8,2025-01-02,pune,net banking,returned,amul butter 500g,dairy,285
+ord2076,p036,10,2025-01-12,pune,net_banking,delivered,maggi noodles 70g,ready to cook,14
+ord2781,p015,0,2025-01-28,chennai,credit_card,delivered,parle-g biscuits 800g,snacks,65
+ord2478,p035,6,2025-02-08,kolkata,cash_on_delivery,delivered,himalaya face wash 100ml,personal care,105
+ord1016,p009,5,2024-12-25,ahmedabad,credit_card,delivered,amul cheese slices 200g,dairy,135
+ord1412,p002,2,2025-01-31,pune,upi,delivered,aashirvaad atta 5kg,staples,275
+ord1031,p011,7,2024-12-17,hyderabad,cash_on_delivery,cancelled,lay's classic salted 26g,snacks,20
+ord2505,p020,1,2025-01-10,chennai,cash_on_delivery,delivered,nescafe classic 50g,beverages,185
+ord1378,p036,1,2024-12-05,delhi,cash_on_delivery,delivered,maggi noodles 70g,ready to cook,14
+ord2048,p023,8,2024-12-27,pune,credit_card,returned,potato 1kg,vegetables,25
+ord1317,p002,5,2025-01-19,kolkata,net banking,cancelled,aashirvaad atta 5kg,staples,275
+ord2104,p023,7,2024-05-12,pune,credit_card,delivered,potato 1kg,vegetables,25
+ord2327,p014,4,2025-01-26,ahmedabad,debit_card,delivered,haldiram bhujia 200g,snacks,80
+ord1954,p037,9,2025-02-09,kolkata,cash_on_delivery,returned,mtr upma mix 200g,ready to cook,55
+ord2607,p007,2,2025-02-13,bangalore,net_banking,returned,amul butter 500g,dairy,285
+ord1507,p001,7,2024-12-18,pune,cash_on_delivery,cancelled,tata salt 1kg,staples,22
+ord2501,p036,7,2025-02-28,chennai,net banking,returned,maggi noodles 70g,ready to cook,14
+ord2133,p019,2,2025-02-16,delhi,credit_card,delivered,tata tea premium 500g,beverages,220
+ord1709,p036,7,2024-12-24,mumbai,upi,returned,maggi noodles 70g,ready to cook,14
+ord1606,p012,2,2025-02-19,kolkata,credit_card,delivered,bingo mad angles 90g,snacks,35
+ord1481,p009,2,2025-02-07,mumbai,net banking,returned,amul cheese slices 200g,dairy,135
+ord1404,p033,6,2025-02-14,kolkata,cash_on_delivery,delivered,colgate strong teeth 300g,personal care,129
+ord1122,p015,2,2025-01-31,kolkata,cash_on_delivery,returned,parle-g biscuits 800g,snacks,65
+ord2860,p036,10,2025-02-22,kolkata,credit_card,delivered,maggi noodles 70g,ready to cook,14
+ord2488,p034,5,2025-01-04,delhi,net_banking,delivered,dettol handwash 250ml,personal care,89
+ord2197,p008,6,2025-02-27,hyderabad,debit_card,delivered,mother dairy curd 400g,dairy,48
+ord2955,p007,9,2025-02-14,delhi,debit_card,delivered,amul butter 500g,dairy,285
+ord2337,p021,2,2025-01-29,ahmedabad,credit_card,cancelled,tomato 1kg,vegetables,35
+ord2643,p020,9,2024-12-03,hyderabad,net banking,returned,nescafe classic 50g,beverages,185
+ord1588,p008,2,2025-02-14,ahmedabad,cash_on_delivery,delivered,mother dairy curd 400g,dairy,48
+ord1674,p016,0,2025-01-03,chennai,debit_card,returned,coca-cola 750ml,beverages,40
+ord2348,p024,2,2025-01-26,kolkata,cash_on_delivery,returned,spinach 250g,vegetables,20
+ord1360,p003,10,2025-02-21,chennai,upi,cancelled,fortune sunflower oil 1l,staples,135
+ord1788,p032,5,2025-01-05,delhi,credit_card,cancelled,head & shoulders 340ml,personal care,299
+ord2818,p036,1,2025-02-11,hyderabad,debit_card,delivered,maggi noodles 70g,ready to cook,14
+ord2331,p008,1,2025-02-20,kolkata,net banking,delivered,mother dairy curd 400g,dairy,48
+ord1013,p016,2,2025-02-05,ahmedabad,upi,delivered,coca-cola 750ml,beverages,40
+ord2982,p019,7,2025-01-24,chennai,cash_on_delivery,delivered,tata tea premium 500g,beverages,220
+ord2141,p023,0,2025-01-28,pune,upi,cancelled,potato 1kg,vegetables,25
+ord1849,p023,4,2025-02-14,kolkata,cash_on_delivery,delivered,potato 1kg,vegetables,25
+ord1192,p003,10,2024-12-16,hyderabad,credit_card,returned,fortune sunflower oil 1l,staples,135
+ord1570,p035,4,2025-01-21,delhi,net banking,cancelled,himalaya face wash 100ml,personal care,105
+ord2467,p024,9,2025-02-23,delhi,credit_card,delivered,spinach 250g,vegetables,20
+ord1074,p019,8,2025-01-04,bangalore,debit_card,returned,tata tea premium 500g,beverages,220
+ord2991,p009,7,2024-12-20,kolkata,upi,cancelled,amul cheese slices 200g,dairy,135
+ord1684,p006,5,2024-12-15,hyderabad,upi,returned,amul full cream milk 1l,dairy,68
+ord1079,p036,4,2025-02-21,pune,upi,delivered,maggi noodles 70g,ready to cook,14
+ord1481,p030,2,2025-01-31,kolkata,cash_on_delivery,returned,lizol disinfectant 1l,household,175
+ord2198,p018,10,2025-03-01,kolkata,net banking,delivered,red bull 250ml,beverages,125
+ord1955,p037,6,2025-01-31,delhi,net_banking,delivered,mtr upma mix 200g,ready to cook,55
+ord2050,p039,7,2025-02-19,ahmedabad,net banking,delivered,sunfeast yippee noodles,ready to cook,14
+ord2144,p028,7,2025-01-22,chennai,credit_card,delivered,harpic power plus 500ml,household,115
+ord2749,p036,7,2025-01-01,bangalore,debit_card,delivered,maggi noodles 70g,ready to cook,14
+ord1450,p013,6,2025-01-04,kolkata,debit_card,delivered,britannia good day 120g,snacks,30
+ord1481,p011,9,2024-12-19,hyderabad,credit_card,delivered,lay's classic salted 26g,snacks,20
+ord1603,p003,9,2025-02-24,bangalore,credit_card,delivered,fortune sunflower oil 1l,staples,135
+ord2303,p005,8,2025-04-01,bangalore,credit_card,delivered,toor dal 500g,staples,68
+ord1453,p008,6,2025-02-05,pune,cash_on_delivery,delivered,mother dairy curd 400g,dairy,48
+ord1254,p020,3,2025-01-30,pune,net banking,delivered,nescafe classic 50g,beverages,185
+ord1194,p029,3,2025-01-22,mumbai,debit_card,returned,colin glass cleaner 500ml,household,95
+ord1494,p031,2,2024-12-08,delhi,debit_card,cancelled,dove soap 100g,personal care,55
+ord1791,p023,0,2024-12-07,hyderabad,upi,cancelled,potato 1kg,vegetables,25
+ord2845,p002,10,2025-02-08,bangalore,net banking,cancelled,aashirvaad atta 5kg,staples,275
+ord1481,p019,10,2025-01-06,kolkata,upi,delivered,tata tea premium 500g,beverages,220
+ord2992,p012,2,2024-12-27,kolkata,debit_card,cancelled,bingo mad angles 90g,snacks,35
+ord1245,p010,8,2025-02-01,delhi,credit_card,delivered,nandini paneer 200g,dairy,90
+ord2725,p002,4,2025-02-21,kolkata,credit_card,delivered,aashirvaad atta 5kg,staples,275
+ord2424,p037,6,2025-02-02,ahmedabad,net_banking,delivered,mtr upma mix 200g,ready to cook,55
+ord2006,p021,7,2025-01-17,bangalore,debit_card,returned,tomato 1kg,vegetables,35
+ord2949,p030,10,2024-12-05,chennai,cash_on_delivery,delivered,lizol disinfectant 1l,household,175
+ord1220,p008,2,2024-12-26,kolkata,debit_card,cancelled,mother dairy curd 400g,dairy,48
+ord2472,p029,10,2024-12-16,delhi,net banking,delivered,colin glass cleaner 500ml,household,95
+ord2178,p025,4,2024-12-11,bangalore,upi,delivered,capsicum 500g,vegetables,45
+ord2302,p005,2,2025-01-07,kolkata,net banking,delivered,toor dal 500g,staples,68
+ord2903,p030,8,2025-01-21,mumbai,cash_on_delivery,delivered,lizol disinfectant 1l,household,175
+ord1718,p036,6,2024-12-05,mumbai,upi,delivered,maggi noodles 70g,ready to cook,14
+ord2461,p017,2,2025-02-04,mumbai,upi,delivered,tropicana orange 1l,beverages,120
+ord2278,p003,5,2024-12-15,bangalore,upi,delivered,fortune sunflower oil 1l,staples,135
+ord1424,p012,7,2024-12-21,delhi,debit_card,cancelled,bingo mad angles 90g,snacks,35
+ord2695,p008,9,2025-02-01,mumbai,debit_card,delivered,mother dairy curd 400g,dairy,48
+ord2555,p027,2,2025-01-14,chennai,credit_card,delivered,vim dishwash bar 200g,household,35
+ord1536,p025,9,2024-12-04,ahmedabad,credit_card,cancelled,capsicum 500g,vegetables,45
+ord2395,p013,8,2024-12-18,delhi,credit_card,cancelled,britannia good day 120g,snacks,30
+ord1258,p030,2,2025-02-12,bangalore,cash_on_delivery,cancelled,lizol disinfectant 1l,household,175
+ord1539,p011,3,2024-05-12,pune,cash_on_delivery,cancelled,lay's classic salted 26g,snacks,20
+ord1691,p006,2,2024-04-12,kolkata,debit_card,delivered,amul full cream milk 1l,dairy,68
+ord2044,p023,6,2025-01-17,chennai,cash_on_delivery,delivered,potato 1kg,vegetables,25
+ord2457,p013,5,2024-12-19,chennai,cash_on_delivery,returned,britannia good day 120g,snacks,30
+ord2668,p025,3,2024-12-27,kolkata,debit_card,delivered,capsicum 500g,vegetables,45
+ord1666,p015,10,2025-05-01,hyderabad,credit_card,delivered,parle-g biscuits 800g,snacks,65
+ord1481,p008,7,2024-12-14,pune,debit_card,delivered,mother dairy curd 400g,dairy,48
+ord1462,p040,5,2024-09-12,kolkata,upi,delivered,haldiram dal makhani 300g,ready to cook,85
+ord2510,p009,2,2024-12-16,delhi,credit_card,returned,amul cheese slices 200g,dairy,135
+ord1521,p024,7,2024-12-23,bangalore,cash_on_delivery,delivered,spinach 250g,vegetables,20
+ord2438,p006,4,2025-01-15,delhi,credit_card,delivered,amul full cream milk 1l,dairy,68
+ord2383,p023,3,2024-12-24,hyderabad,upi,delivered,potato 1kg,vegetables,25
+ord2130,p040,10,2025-01-27,bangalore,net banking,delivered,haldiram dal makhani 300g,ready to cook,85
+ord2212,p021,8,2025-01-14,mumbai,net_banking,delivered,tomato 1kg,vegetables,35
+ord2813,p023,5,2024-12-20,mumbai,net banking,cancelled,potato 1kg,vegetables,25
+ord2905,p021,8,2025-02-07,delhi,upi,delivered,tomato 1kg,vegetables,35
+ord2420,p002,10,2025-01-18,delhi,debit_card,cancelled,aashirvaad atta 5kg,staples,275
+ord2192,p005,2,2025-02-05,hyderabad,cash_on_delivery,returned,toor dal 500g,staples,68
+ord2835,p016,10,2024-12-26,bangalore,credit_card,returned,coca-cola 750ml,beverages,40
+ord1679,p038,3,2024-12-24,chennai,upi,delivered,knorr soup tomato 44g,ready to cook,40
+ord2537,p036,0,2024-12-24,chennai,net banking,delivered,maggi noodles 70g,ready to cook,14
+ord1415,p022,10,2025-12-02,mumbai,debit_card,returned,onion 1kg,vegetables,28
+ord2744,p006,3,2025-02-13,kolkata,cash_on_delivery,delivered,amul full cream milk 1l,dairy,68
+ord2724,p022,4,2024-12-17,kolkata,debit_card,cancelled,onion 1kg,vegetables,28
+ord1449,p021,2,2024-12-27,bangalore,debit_card,delivered,tomato 1kg,vegetables,35
+ord1761,p036,1,2025-02-20,bangalore,debit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord1757,p031,6,2025-01-25,delhi,credit_card,delivered,dove soap 100g,personal care,55
+ord1289,p023,6,2025-02-18,hyderabad,upi,cancelled,potato 1kg,vegetables,25
+ord2353,p003,5,2025-01-16,ahmedabad,cash_on_delivery,delivered,fortune sunflower oil 1l,staples,135
+ord1247,p034,6,2024-12-08,hyderabad,upi,delivered,dettol handwash 250ml,personal care,89
+ord1199,p027,10,2024-12-01,hyderabad,cash_on_delivery,delivered,vim dishwash bar 200g,household,35
+ord2664,p022,2,2025-01-10,ahmedabad,upi,delivered,onion 1kg,vegetables,28
+ord2329,p001,3,2025-02-02,hyderabad,cash_on_delivery,delivered,tata salt 1kg,staples,22
+ord1906,p003,3,2025-10-01,hyderabad,credit_card,delivered,fortune sunflower oil 1l,staples,135
+ord2576,p002,4,2024-12-22,delhi,upi,delivered,aashirvaad atta 5kg,staples,275
+ord1281,p021,7,2025-02-13,kolkata,net banking,delivered,tomato 1kg,vegetables,35
+ord1876,p008,10,2024-12-23,ahmedabad,net banking,cancelled,mother dairy curd 400g,dairy,48
+ord1146,p013,3,2024-12-31,mumbai,upi,delivered,britannia good day 120g,snacks,30
+ord2831,p036,5,2024-12-19,delhi,upi,returned,maggi noodles 70g,ready to cook,14
+ord1819,p030,7,2025-01-01,mumbai,debit_card,cancelled,lizol disinfectant 1l,household,175
+ord2020,p039,5,2025-01-05,chennai,cash_on_delivery,delivered,sunfeast yippee noodles,ready to cook,14
+ord1481,p039,10,2025-01-25,ahmedabad,net banking,delivered,sunfeast yippee noodles,ready to cook,14
+ord2131,p028,9,2024-12-03,hyderabad,cash_on_delivery,delivered,harpic power plus 500ml,household,115
+ord2870,p005,8,2025-01-29,chennai,credit_card,returned,toor dal 500g,staples,68
+ord2782,p037,10,2025-02-21,mumbai,credit_card,delivered,mtr upma mix 200g,ready to cook,55
+ord1300,p022,2,2025-01-05,bangalore,net banking,delivered,onion 1kg,vegetables,28
+ord2984,p022,8,2024-12-21,ahmedabad,debit_card,delivered,onion 1kg,vegetables,28
+ord1390,p012,5,2025-02-10,hyderabad,upi,cancelled,bingo mad angles 90g,snacks,35
+ord2173,p002,10,2025-02-21,chennai,upi,delivered,aashirvaad atta 5kg,staples,275
+ord1928,p016,6,2024-12-16,ahmedabad,credit_card,delivered,coca-cola 750ml,beverages,40
+ord1940,p003,3,2024-12-29,ahmedabad,upi,delivered,fortune sunflower oil 1l,staples,135
+ord2594,p015,10,2025-01-12,hyderabad,net banking,returned,parle-g biscuits 800g,snacks,65
+ord2030,p012,7,2024-12-04,chennai,cash_on_delivery,returned,bingo mad angles 90g,snacks,35
+ord2918,p024,4,2025-01-04,delhi,net banking,delivered,spinach 250g,vegetables,20
+ord1601,p008,9,2024-12-05,hyderabad,cash_on_delivery,cancelled,mother dairy curd 400g,dairy,48
+ord2833,p013,7,2025-02-17,kolkata,debit_card,cancelled,britannia good day 120g,snacks,30
+ord1400,p006,6,2025-02-15,ahmedabad,net banking,delivered,amul full cream milk 1l,dairy,68
+ord2897,p024,2,2025-01-06,kolkata,upi,delivered,spinach 250g,vegetables,20
+ord1436,p011,5,2025-02-27,ahmedabad,credit_card,delivered,lay's classic salted 26g,snacks,20
+ord1682,p006,9,2025-12-01,ahmedabad,credit_card,delivered,amul full cream milk 1l,dairy,68
+ord1115,p037,2,2025-05-02,chennai,upi,cancelled,mtr upma mix 200g,ready to cook,55
+ord1775,p021,1,2024-12-15,ahmedabad,debit_card,cancelled,tomato 1kg,vegetables,35
+ord1631,p035,2,2024-12-30,hyderabad,debit_card,delivered,himalaya face wash 100ml,personal care,105
+ord1758,p002,5,2025-01-23,delhi,credit_card,cancelled,aashirvaad atta 5kg,staples,275
+ord1741,p007,10,2025-01-05,kolkata,credit_card,cancelled,amul butter 500g,dairy,285
+ord1466,p013,9,2025-02-20,pune,upi,delivered,britannia good day 120g,snacks,30
+ord1108,p037,5,2025-02-22,pune,credit_card,delivered,mtr upma mix 200g,ready to cook,55
+ord2528,p022,0,2025-01-23,mumbai,cash_on_delivery,delivered,onion 1kg,vegetables,28
+ord2532,p033,2,2025-02-22,kolkata,upi,cancelled,colgate strong teeth 300g,personal care,129
+ord2292,p036,9,2025-02-04,ahmedabad,cash_on_delivery,delivered,maggi noodles 70g,ready to cook,14
+ord1731,p017,5,2025-01-11,hyderabad,net banking,delivered,tropicana orange 1l,beverages,120
+ord1230,p033,1,2025-01-18,chennai,debit_card,delivered,colgate strong teeth 300g,personal care,129
+ord1149,p035,8,2025-01-26,delhi,credit_card,cancelled,himalaya face wash 100ml,personal care,105
+ord1659,p038,10,2025-02-18,ahmedabad,upi,delivered,knorr soup tomato 44g,ready to cook,40
+ord1345,p012,5,2025-02-19,mumbai,net banking,delivered,bingo mad angles 90g,snacks,35
+ord2647,p019,1,2025-02-16,ahmedabad,upi,delivered,tata tea premium 500g,beverages,220
+ord1648,p009,5,2025-01-24,bangalore,net banking,delivered,amul cheese slices 200g,dairy,135
+ord2082,p039,3,2025-01-16,pune,net banking,delivered,sunfeast yippee noodles,ready to cook,14
+ord2001,p033,2,2025-02-01,ahmedabad,upi,delivered,colgate strong teeth 300g,personal care,129
+ord1540,p002,5,2025-02-08,chennai,credit_card,returned,aashirvaad atta 5kg,staples,275
+ord1914,p008,8,2025-01-23,delhi,upi,returned,mother dairy curd 400g,dairy,48
+ord2280,p013,7,2025-01-04,mumbai,upi,cancelled,britannia good day 120g,snacks,30
+ord1250,p022,5,2024-12-02,hyderabad,debit_card,cancelled,onion 1kg,vegetables,28
+ord2290,p006,3,2024-12-15,ahmedabad,upi,delivered,amul full cream milk 1l,dairy,68
+ord2944,p030,5,2025-01-17,chennai,debit_card,cancelled,lizol disinfectant 1l,household,175
+ord2267,p022,7,2025-02-28,ahmedabad,debit_card,returned,onion 1kg,vegetables,28
+ord1007,p023,9,2024-12-19,chennai,credit_card,delivered,potato 1kg,vegetables,25
+ord1630,p032,10,2025-01-12,hyderabad,net banking,cancelled,head & shoulders 340ml,personal care,299
+ord2186,p031,7,2025-02-08,ahmedabad,upi,cancelled,dove soap 100g,personal care,55
+ord1144,p016,5,2025-01-02,bangalore,upi,cancelled,coca-cola 750ml,beverages,40
+ord1246,p028,3,2025-02-05,pune,upi,delivered,harpic power plus 500ml,household,115
+ord2965,p030,7,2025-01-10,ahmedabad,cash_on_delivery,cancelled,lizol disinfectant 1l,household,175
+ord1083,p023,7,2024-12-04,mumbai,cash_on_delivery,returned,potato 1kg,vegetables,25
+ord2152,p033,2,2024-12-04,delhi,debit_card,cancelled,colgate strong teeth 300g,personal care,129
+ord1888,p020,2,2024-07-12,pune,upi,delivered,nescafe classic 50g,beverages,185
+ord2491,p004,0,2025-02-18,mumbai,upi,delivered,india gate basmati 1kg,staples,110
+ord2830,p037,6,2024-12-15,delhi,net banking,delivered,mtr upma mix 200g,ready to cook,55
+ord2418,p005,3,2025-02-22,pune,net banking,cancelled,toor dal 500g,staples,68
+ord2201,p017,8,2025-02-06,delhi,credit_card,cancelled,tropicana orange 1l,beverages,120
+ord1628,p011,2,2025-02-25,ahmedabad,credit_card,returned,lay's classic salted 26g,snacks,20
+ord1303,p021,8,2024-12-19,ahmedabad,debit_card,delivered,tomato 1kg,vegetables,35
+ord1339,p001,1,2025-01-25,chennai,net banking,delivered,tata salt 1kg,staples,22
+ord1019,p020,2,2024-12-08,delhi,credit_card,delivered,nescafe classic 50g,beverages,185
+ord1859,p020,10,2025-01-19,delhi,credit_card,delivered,nescafe classic 50g,beverages,185
+ord1180,p022,6,2025-07-02,kolkata,net banking,delivered,onion 1kg,vegetables,28
+ord2275,p017,6,2025-02-23,ahmedabad,debit_card,delivered,tropicana orange 1l,beverages,120
+ord1306,p016,4,2024-12-30,delhi,net banking,cancelled,coca-cola 750ml,beverages,40
+ord2314,p033,7,2025-01-13,bangalore,cash_on_delivery,delivered,colgate strong teeth 300g,personal care,129
+ord2379,p001,2,2025-02-18,ahmedabad,upi,delivered,tata salt 1kg,staples,22
+ord1877,p025,7,2025-02-05,ahmedabad,cash_on_delivery,delivered,capsicum 500g,vegetables,45
+ord1419,p014,1,2025-01-03,bangalore,net banking,returned,haldiram bhujia 200g,snacks,80
+ord2154,p011,10,2024-12-10,delhi,net banking,cancelled,lay's classic salted 26g,snacks,20
+ord1514,p013,8,2024-12-14,pune,credit_card,delivered,britannia good day 120g,snacks,30
+ord2087,p025,0,2025-02-14,chennai,credit_card,returned,capsicum 500g,vegetables,45
+ord2556,p015,3,2024-12-17,ahmedabad,credit_card,delivered,parle-g biscuits 800g,snacks,65
+ord2502,p040,1,2024-12-02,chennai,debit_card,delivered,haldiram dal makhani 300g,ready to cook,85
+ord1824,p020,0,2025-02-11,hyderabad,upi,cancelled,nescafe classic 50g,beverages,185
+ord1243,p039,5,2024-12-13,delhi,net banking,cancelled,sunfeast yippee noodles,ready to cook,14
+ord1571,p012,10,2025-02-25,mumbai,cash_on_delivery,delivered,bingo mad angles 90g,snacks,35
+ord2974,p027,5,2025-02-03,pune,cash_on_delivery,delivered,vim dishwash bar 200g,household,35
+ord1484,p022,1,2025-01-18,pune,debit_card,delivered,onion 1kg,vegetables,28
+ord2716,p013,8,2025-02-04,chennai,debit_card,delivered,britannia good day 120g,snacks,30
+ord1555,p036,3,2025-04-01,delhi,credit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord1562,p023,1,2024-12-29,hyderabad,cash_on_delivery,returned,potato 1kg,vegetables,25
+ord1155,p035,4,2024-08-12,bangalore,net banking,returned,himalaya face wash 100ml,personal care,105
+ord1198,p011,6,2025-01-05,delhi,debit_card,delivered,lay's classic salted 26g,snacks,20
+ord1059,p011,5,2025-01-21,mumbai,cash_on_delivery,delivered,lay's classic salted 26g,snacks,20
+ord2097,p006,5,2025-01-24,hyderabad,credit_card,delivered,amul full cream milk 1l,dairy,68
+ord2060,p027,1,2024-12-21,delhi,net banking,cancelled,vim dishwash bar 200g,household,35
+ord1459,p020,8,2025-01-05,hyderabad,upi,delivered,nescafe classic 50g,beverages,185
+ord1481,p003,8,2025-02-05,ahmedabad,cash_on_delivery,delivered,fortune sunflower oil 1l,staples,135
+ord1671,p005,6,2025-01-23,chennai,net banking,returned,toor dal 500g,staples,68
+ord2217,p007,8,2025-02-10,chennai,debit_card,delivered,amul butter 500g,dairy,285
+ord1883,p023,9,2024-12-22,pune,credit_card,delivered,potato 1kg,vegetables,25
+ord1970,p023,4,2025-06-01,kolkata,cash_on_delivery,returned,potato 1kg,vegetables,25
+ord2286,p009,9,2025-01-24,mumbai,net banking,delivered,amul cheese slices 200g,dairy,135
+ord1286,p034,3,2024-12-01,pune,cash_on_delivery,cancelled,dettol handwash 250ml,personal care,89
+ord1257,p015,3,2025-02-11,ahmedabad,credit_card,delivered,parle-g biscuits 800g,snacks,65
+ord1269,p004,3,2025-02-14,ahmedabad,net banking,cancelled,india gate basmati 1kg,staples,110
+ord2850,p017,2,2024-12-17,hyderabad,cash_on_delivery,returned,tropicana orange 1l,beverages,120
+ord2150,p039,3,2024-12-31,delhi,credit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord2153,p026,7,2025-03-01,chennai,net banking,delivered,surf excel 1kg,household,195
+ord1846,p006,5,2025-02-11,hyderabad,cash_on_delivery,delivered,amul full cream milk 1l,dairy,68
+ord2513,p005,9,2025-02-21,mumbai,credit_card,cancelled,toor dal 500g,staples,68
+ord1111,p019,2,2025-02-03,mumbai,cash_on_delivery,returned,tata tea premium 500g,beverages,220
+ord2124,p036,2,2024-12-12,pune,credit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord1026,p008,6,2024-12-21,bangalore,cash_on_delivery,delivered,mother dairy curd 400g,dairy,48
+ord1435,p037,2,2024-12-06,bangalore,upi,cancelled,mtr upma mix 200g,ready to cook,55
+ord2747,p037,6,2025-01-23,chennai,upi,delivered,mtr upma mix 200g,ready to cook,55
+ord1376,p007,7,2024-12-05,kolkata,upi,returned,amul butter 500g,dairy,285
+ord1644,p022,6,2024-12-24,mumbai,net banking,delivered,onion 1kg,vegetables,28
+ord2481,p025,4,2025-01-28,delhi,net banking,cancelled,capsicum 500g,vegetables,45
+ord2737,p030,1,2024-12-07,kolkata,net banking,cancelled,lizol disinfectant 1l,household,175
+ord2986,p030,2,2025-02-21,kolkata,debit_card,returned,lizol disinfectant 1l,household,175
+ord1591,p020,8,2024-12-25,ahmedabad,upi,delivered,nescafe classic 50g,beverages,185
+ord1621,p021,3,2024-12-28,bangalore,credit_card,delivered,tomato 1kg,vegetables,35
+ord2910,p017,6,2024-12-21,pune,debit_card,delivered,tropicana orange 1l,beverages,120
+ord2935,p036,7,2025-01-05,pune,upi,cancelled,maggi noodles 70g,ready to cook,14
+ord2869,p013,1,2025-01-15,mumbai,credit_card,cancelled,britannia good day 120g,snacks,30
+ord1961,p023,5,2025-01-03,kolkata,net banking,cancelled,potato 1kg,vegetables,25
+ord2802,p003,9,2024-12-18,kolkata,net banking,cancelled,fortune sunflower oil 1l,staples,135
+ord1433,p033,4,2024-12-15,ahmedabad,net banking,cancelled,colgate strong teeth 300g,personal care,129
+ord2313,p030,2,2025-02-23,kolkata,credit_card,cancelled,lizol disinfectant 1l,household,175
+ord1195,p022,2,2025-01-04,kolkata,cash_on_delivery,delivered,onion 1kg,vegetables,28
+ord2465,p019,10,2025-02-05,chennai,net banking,cancelled,tata tea premium 500g,beverages,220
+ord1781,p040,2,2024-12-17,kolkata,cash_on_delivery,cancelled,haldiram dal makhani 300g,ready to cook,85
+ord2246,p033,4,2025-01-20,ahmedabad,credit_card,cancelled,colgate strong teeth 300g,personal care,129
+ord2291,p007,1,2024-12-19,delhi,upi,returned,amul butter 500g,dairy,285
+ord1368,p002,1,2025-02-23,chennai,debit_card,returned,aashirvaad atta 5kg,staples,275
+ord1481,p023,1,2025-01-24,pune,upi,delivered,potato 1kg,vegetables,25
+ord2873,p032,2,2025-02-19,delhi,net banking,delivered,head & shoulders 340ml,personal care,299
+ord2788,p036,1,2024-12-23,hyderabad,debit_card,delivered,maggi noodles 70g,ready to cook,14
+ord1625,p034,9,2024-12-18,mumbai,net banking,delivered,dettol handwash 250ml,personal care,89
+ord1806,p037,9,2025-02-24,chennai,credit_card,delivered,mtr upma mix 200g,ready to cook,55
+ord1297,p021,5,2025-02-21,delhi,debit_card,cancelled,tomato 1kg,vegetables,35
+ord1043,p039,1,2024-12-15,bangalore,debit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord1321,p004,10,2025-04-02,chennai,net banking,returned,india gate basmati 1kg,staples,110
+ord1870,p035,2,2024-12-13,kolkata,credit_card,delivered,himalaya face wash 100ml,personal care,105
+ord1447,p023,6,2025-03-01,mumbai,upi,delivered,potato 1kg,vegetables,25
+ord2717,p011,3,2024-12-03,delhi,cash_on_delivery,delivered,lay's classic salted 26g,snacks,20
+ord2366,p030,10,2024-12-23,mumbai,net banking,cancelled,lizol disinfectant 1l,household,175
+ord1556,p031,1,2025-02-07,kolkata,net banking,delivered,dove soap 100g,personal care,55
+ord1324,p037,4,2024-12-25,ahmedabad,credit_card,delivered,mtr upma mix 200g,ready to cook,55
+ord2806,p015,4,2025-07-01,bangalore,cash_on_delivery,delivered,parle-g biscuits 800g,snacks,65
+ord1560,p015,2,2025-02-28,ahmedabad,cash_on_delivery,delivered,parle-g biscuits 800g,snacks,65
+ord2823,p013,2,2025-01-19,kolkata,net banking,returned,britannia good day 120g,snacks,30
+ord1077,p005,4,2024-12-05,chennai,cash_on_delivery,delivered,toor dal 500g,staples,68
+ord2617,p020,0,2025-01-24,delhi,net banking,returned,nescafe classic 50g,beverages,185
+ord2252,p033,3,2024-12-10,kolkata,debit_card,delivered,colgate strong teeth 300g,personal care,129
+ord1124,p036,9,2024-12-11,chennai,credit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord1441,p017,10,2025-01-02,mumbai,cash_on_delivery,delivered,tropicana orange 1l,beverages,120
+ord2847,p016,6,2025-02-28,chennai,cash_on_delivery,returned,coca-cola 750ml,beverages,40
+ord2933,p038,6,2025-01-27,delhi,debit_card,delivered,knorr soup tomato 44g,ready to cook,40
+ord1420,p013,2,2025-01-25,chennai,debit_card,delivered,britannia good day 120g,snacks,30
+ord1285,p027,2,2024-12-25,chennai,cash_on_delivery,delivered,vim dishwash bar 200g,household,35
+ord2147,p019,9,2024-03-12,hyderabad,upi,delivered,tata tea premium 500g,beverages,220
+ord1528,p024,4,2025-01-27,kolkata,upi,delivered,spinach 250g,vegetables,20
+ord2433,p015,4,2025-09-01,delhi,upi,returned,parle-g biscuits 800g,snacks,65
+ord2578,p005,6,2024-12-12,hyderabad,debit_card,cancelled,toor dal 500g,staples,68
+ord1481,p028,5,2025-02-25,bangalore,credit_card,delivered,harpic power plus 500ml,household,115
+ord2816,p001,8,2025-02-04,bangalore,net banking,cancelled,tata salt 1kg,staples,22
+ord2373,p006,0,2025-01-15,kolkata,upi,delivered,amul full cream milk 1l,dairy,68
+ord2003,p012,10,2025-01-10,hyderabad,credit_card,returned,bingo mad angles 90g,snacks,35
+ord2775,p001,2,2025-01-22,bangalore,credit_card,delivered,tata salt 1kg,staples,22
+ord1322,p016,2,2025-02-14,mumbai,cash_on_delivery,delivered,coca-cola 750ml,beverages,40
+ord2498,p001,8,2025-01-04,chennai,cash_on_delivery,cancelled,tata salt 1kg,staples,22
+ord2541,p039,4,2025-02-22,chennai,credit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord1866,p010,1,2025-01-29,pune,upi,delivered,nandini paneer 200g,dairy,90
+ord2321,p037,3,2024-12-11,pune,upi,delivered,mtr upma mix 200g,ready to cook,55
+ord2521,p008,7,2025-02-10,kolkata,upi,delivered,mother dairy curd 400g,dairy,48
+ord1481,p039,3,2025-01-21,mumbai,credit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord1639,p015,8,2024-12-22,mumbai,upi,delivered,parle-g biscuits 800g,snacks,65
+ord1762,p004,2,2024-04-12,ahmedabad,cash_on_delivery,delivered,india gate basmati 1kg,staples,110
+ord1358,p030,10,2025-02-27,chennai,net banking,delivered,lizol disinfectant 1l,household,175
+ord2035,p024,4,2024-12-23,kolkata,upi,delivered,spinach 250g,vegetables,20
+ord2229,p006,1,2025-01-06,bangalore,upi,delivered,amul full cream milk 1l,dairy,68
+ord1743,p002,7,2025-01-18,kolkata,credit_card,delivered,aashirvaad atta 5kg,staples,275
+ord2854,p007,1,2025-02-10,pune,net banking,delivered,amul butter 500g,dairy,285
+ord2941,p023,7,2025-03-01,kolkata,net banking,cancelled,potato 1kg,vegetables,25
+ord2561,p015,7,2025-01-28,bangalore,debit_card,returned,parle-g biscuits 800g,snacks,65
+ord2640,p026,0,2025-02-23,bangalore,net banking,delivered,surf excel 1kg,household,195
+ord2061,p008,2,2025-01-09,bangalore,net banking,delivered,mother dairy curd 400g,dairy,48
+ord1523,p017,5,2025-02-27,kolkata,net banking,cancelled,tropicana orange 1l,beverages,120
+ord1649,p033,10,2025-10-01,kolkata,cash_on_delivery,delivered,colgate strong teeth 300g,personal care,129
+ord1329,p025,2,2024-12-13,chennai,credit_card,delivered,capsicum 500g,vegetables,45
+ord2623,p010,10,2025-02-04,bangalore,upi,delivered,nandini paneer 200g,dairy,90
+ord1090,p016,10,2024-12-21,pune,debit_card,cancelled,coca-cola 750ml,beverages,40
+ord1382,p014,3,2024-12-22,pune,net banking,returned,haldiram bhujia 200g,snacks,80
+ord2376,p024,6,2024-12-30,ahmedabad,debit_card,delivered,spinach 250g,vegetables,20
+ord2916,p023,4,2024-12-23,delhi,cash_on_delivery,delivered,potato 1kg,vegetables,25
+ord2911,p029,4,2024-12-16,bangalore,cash_on_delivery,returned,colin glass cleaner 500ml,household,95
+ord1403,p033,5,2024-12-14,pune,net_banking,cancelled,colgate strong teeth 300g,personal care,129
+ord2053,p032,3,2025-01-19,hyderabad,net banking,cancelled,head & shoulders 340ml,personal care,299
+ord2497,p005,1,2025-01-16,bangalore,upi,cancelled,toor dal 500g,staples,68
+ord1598,p012,1,2025-01-27,bangalore,debit_card,delivered,bingo mad angles 90g,snacks,35
+ord1156,p040,1,2025-02-05,hyderabad,cash_on_delivery,delivered,haldiram dal makhani 300g,ready to cook,85
+ord1756,p006,4,2025-01-25,pune,net banking,delivered,amul full cream milk 1l,dairy,68
+ord1790,p022,2,2024-11-12,chennai,net banking,delivered,onion 1kg,vegetables,28
+ord1274,p001,8,2024-12-12,chennai,net banking,delivered,tata salt 1kg,staples,22
+ord1672,p010,1,2024-12-17,chennai,upi,returned,nandini paneer 200g,dairy,90
+ord1056,p006,5,2025-01-09,chennai,cash_on_delivery,delivered,amul full cream milk 1l,dairy,68
+ord1481,p021,3,2025-02-08,pune,cash_on_delivery,delivered,tomato 1kg,vegetables,35
+ord1548,p034,8,2024-12-17,bangalore,net banking,cancelled,dettol handwash 250ml,personal care,89
+ord2679,p018,5,2025-12-02,chennai,net banking,cancelled,red bull 250ml,beverages,125
+ord1366,p006,2,2025-01-06,mumbai,debit_card,cancelled,amul full cream milk 1l,dairy,68
+ord2274,p022,7,2025-01-14,hyderabad,upi,delivered,onion 1kg,vegetables,28
+ord2357,p037,6,2024-12-02,ahmedabad,debit_card,delivered,mtr upma mix 200g,ready to cook,55
+ord1481,p004,0,2025-01-20,mumbai,cash_on_delivery,returned,india gate basmati 1kg,staples,110
+ord1030,p028,6,2025-02-24,hyderabad,debit_card,delivered,harpic power plus 500ml,household,115
+ord1099,p022,0,2025-02-03,bangalore,upi,delivered,onion 1kg,vegetables,28
+ord1335,p002,9,2025-01-30,mumbai,upi,cancelled,aashirvaad atta 5kg,staples,275
+ord2912,p034,2,2025-02-28,bangalore,debit_card,delivered,dettol handwash 250ml,personal care,89
+ord1646,p026,0,2025-05-02,pune,net banking,delivered,surf excel 1kg,household,195
+ord2938,p024,1,2025-02-12,hyderabad,cash_on_delivery,returned,spinach 250g,vegetables,20
+ord1050,p017,5,2025-02-14,chennai,upi,returned,tropicana orange 1l,beverages,120
+ord2754,p007,4,2024-12-17,delhi,debit_card,delivered,amul butter 500g,dairy,285
+ord2568,p007,4,2024-12-27,bangalore,upi,returned,amul butter 500g,dairy,285
+ord2008,p039,2,2025-01-13,delhi,cash_on_delivery,delivered,sunfeast yippee noodles,ready to cook,14
+ord2569,p023,1,2024-12-29,pune,debit_card,delivered,potato 1kg,vegetables,25
+ord2895,p028,4,2024-12-15,kolkata,credit_card,returned,harpic power plus 500ml,household,115
+ord1786,p022,1,2025-01-13,chennai,net banking,delivered,onion 1kg,vegetables,28
+ord1714,p034,8,2025-01-24,pune,upi,returned,dettol handwash 250ml,personal care,89
+ord2479,p003,4,2024-12-14,ahmedabad,debit_card,cancelled,fortune sunflower oil 1l,staples,135
+ord2805,p015,9,2025-02-11,delhi,debit_card,returned,parle-g biscuits 800g,snacks,65
+ord1882,p011,4,2025-01-19,chennai,credit_card,delivered,lay's classic salted 26g,snacks,20
+ord2228,p028,7,2024-12-05,chennai,net banking,delivered,harpic power plus 500ml,household,115
+ord1750,p006,7,2025-02-02,mumbai,credit_card,delivered,amul full cream milk 1l,dairy,68
+ord1584,p008,7,2024-12-06,ahmedabad,net banking,cancelled,mother dairy curd 400g,dairy,48
+ord1481,p001,7,2025-02-05,delhi,upi,delivered,tata salt 1kg,staples,22
+ord1260,p002,9,2024-12-06,chennai,debit_card,delivered,aashirvaad atta 5kg,staples,275
+ord1867,p012,6,2025-01-19,ahmedabad,net banking,delivered,bingo mad angles 90g,snacks,35
+ord2264,p012,10,2024-12-05,hyderabad,debit_card,delivered,bingo mad angles 90g,snacks,35
+ord2470,p022,10,2024-03-12,bangalore,upi,delivered,onion 1kg,vegetables,28
+ord1184,p024,9,2025-02-25,bangalore,credit_card,delivered,spinach 250g,vegetables,20
+ord1104,p006,6,2025-02-27,bangalore,cash_on_delivery,delivered,amul full cream milk 1l,dairy,68
+ord2525,p028,6,2025-01-18,bangalore,upi,delivered,harpic power plus 500ml,household,115
+ord1434,p022,10,2024-12-18,pune,credit_card,cancelled,onion 1kg,vegetables,28
+ord2105,p040,9,2025-05-01,pune,cash_on_delivery,returned,haldiram dal makhani 300g,ready to cook,85
+ord2190,p006,4,2025-02-08,kolkata,cash_on_delivery,delivered,amul full cream milk 1l,dairy,68
+ord2169,p022,2,2025-01-15,bangalore,cash_on_delivery,cancelled,onion 1kg,vegetables,28
+ord1214,p034,7,2024-12-02,pune,upi,cancelled,dettol handwash 250ml,personal care,89
+ord2330,p021,0,2024-12-20,hyderabad,credit_card,delivered,tomato 1kg,vegetables,35
+ord1656,p015,9,2025-02-17,hyderabad,upi,cancelled,parle-g biscuits 800g,snacks,65
+ord1962,p034,7,2024-12-25,ahmedabad,debit_card,cancelled,dettol handwash 250ml,personal care,89
+ord1670,p005,2,2025-02-14,hyderabad,credit_card,cancelled,toor dal 500g,staples,68
+ord2170,p033,6,2024-12-13,bangalore,credit_card,returned,colgate strong teeth 300g,personal care,129
+ord2007,p012,3,2025-02-11,mumbai,net banking,delivered,bingo mad angles 90g,snacks,35
+ord1734,p023,7,2024-09-12,ahmedabad,upi,returned,potato 1kg,vegetables,25
+ord2234,p035,5,2024-03-12,kolkata,credit_card,delivered,himalaya face wash 100ml,personal care,105
+ord2394,p001,5,2025-01-08,chennai,net banking,delivered,tata salt 1kg,staples,22
+ord2033,p003,7,2024-12-24,ahmedabad,debit_card,cancelled,fortune sunflower oil 1l,staples,135
+ord1524,p005,4,2024-12-25,delhi,upi,cancelled,toor dal 500g,staples,68
+ord2783,p036,9,2025-01-21,mumbai,debit_card,returned,maggi noodles 70g,ready to cook,14
+ord2662,p023,6,2024-12-12,kolkata,cash_on_delivery,returned,potato 1kg,vegetables,25
+ord2787,p023,8,2025-01-20,chennai,debit_card,delivered,potato 1kg,vegetables,25
+ord2605,p034,2,2025-02-24,chennai,net banking,delivered,dettol handwash 250ml,personal care,89
+ord2885,p016,10,2024-01-12,ahmedabad,debit_card,delivered,coca-cola 750ml,beverages,40
+ord1572,p019,8,2025-01-15,kolkata,cash_on_delivery,cancelled,tata tea premium 500g,beverages,220
+ord2795,p018,1,2025-02-16,mumbai,upi,delivered,red bull 250ml,beverages,125
+ord2562,p037,7,2024-12-01,hyderabad,net banking,delivered,mtr upma mix 200g,ready to cook,55
+ord1179,p016,3,2025-01-07,delhi,cash_on_delivery,cancelled,coca-cola 750ml,beverages,40
+ord2111,p025,10,2024-12-25,chennai,debit_card,delivered,capsicum 500g,vegetables,45
+ord2956,p004,8,2025-02-25,bangalore,credit_card,cancelled,india gate basmati 1kg,staples,110
+ord1605,p002,8,2024-12-28,kolkata,debit_card,cancelled,aashirvaad atta 5kg,staples,275
+ord1218,p035,10,2024-12-12,bangalore,debit_card,returned,himalaya face wash 100ml,personal care,105
+ord1328,p017,7,2025-02-17,pune,debit_card,delivered,tropicana orange 1l,beverages,120
+ord2765,p001,1,2024-12-18,chennai,cash_on_delivery,cancelled,tata salt 1kg,staples,22
+ord1844,p025,5,2024-12-25,bangalore,debit_card,delivered,capsicum 500g,vegetables,45
+ord1602,p014,4,2024-12-26,hyderabad,debit_card,returned,haldiram bhujia 200g,snacks,80
+ord1410,p018,7,2025-01-25,bangalore,upi,delivered,red bull 250ml,beverages,125
+ord2164,p039,9,2025-01-28,delhi,net banking,delivered,sunfeast yippee noodles,ready to cook,14
+ord2752,p019,8,2024-12-13,kolkata,net banking,cancelled,tata tea premium 500g,beverages,220
+ord2550,p020,5,2024-12-19,ahmedabad,credit_card,delivered,nescafe classic 50g,beverages,185
+ord1202,p005,3,2025-01-19,pune,cash_on_delivery,delivered,toor dal 500g,staples,68
+ord2723,p034,1,2025-02-24,ahmedabad,cash_on_delivery,cancelled,dettol handwash 250ml,personal care,89
+ord1231,p033,8,2025-02-17,hyderabad,net banking,delivered,colgate strong teeth 300g,personal care,129
+ord1585,p023,9,2025-01-15,delhi,debit_card,returned,potato 1kg,vegetables,25
+ord2391,p022,9,2025-01-04,kolkata,debit_card,delivered,onion 1kg,vegetables,28
+ord2270,p012,1,2025-02-15,mumbai,cash_on_delivery,delivered,bingo mad angles 90g,snacks,35
+ord1454,p006,5,2025-03-01,hyderabad,cash_on_delivery,delivered,amul full cream milk 1l,dairy,68
+ord2665,p015,2,2024-12-28,kolkata,debit_card,delivered,parle-g biscuits 800g,snacks,65
+ord1063,p031,1,2025-01-23,pune,net banking,delivered,dove soap 100g,personal care,55
+ord1148,p030,6,2025-02-26,delhi,net banking,delivered,lizol disinfectant 1l,household,175
+ord2509,p028,5,2025-01-08,delhi,net banking,delivered,harpic power plus 500ml,household,115
+ord1505,p027,4,2025-01-25,ahmedabad,cash_on_delivery,delivered,vim dishwash bar 200g,household,35
+ord2107,p034,9,2025-02-09,delhi,net banking,returned,dettol handwash 250ml,personal care,89
+ord1411,p016,1,2025-01-15,hyderabad,credit_card,delivered,coca-cola 750ml,beverages,40
+ord1948,p022,8,2024-12-23,bangalore,upi,cancelled,onion 1kg,vegetables,28
+ord1843,p006,1,2024-12-12,bangalore,debit_card,delivered,amul full cream milk 1l,dairy,68
+ord1310,p014,9,2024-12-14,mumbai,credit_card,delivered,haldiram bhujia 200g,snacks,80
+ord1481,p001,3,2024-12-22,delhi,upi,delivered,tata salt 1kg,staples,22
+ord1675,p038,2,2025-05-01,bangalore,debit_card,returned,knorr soup tomato 44g,ready to cook,40
+ord2390,p031,10,2025-09-01,delhi,cash_on_delivery,delivered,dove soap 100g,personal care,55
+ord2733,p010,5,2025-02-28,delhi,debit_card,cancelled,nandini paneer 200g,dairy,90
+ord1725,p017,2,2025-02-17,mumbai,credit_card,delivered,tropicana orange 1l,beverages,120
+ord2768,p011,1,2025-01-01,bangalore,upi,delivered,lay's classic salted 26g,snacks,20
+ord2435,p017,6,2025-01-19,delhi,upi,delivered,tropicana orange 1l,beverages,120
+ord2512,p002,5,2025-01-11,kolkata,net banking,cancelled,aashirvaad atta 5kg,staples,275
+ord1228,p012,3,2024-12-03,bangalore,net banking,cancelled,bingo mad angles 90g,snacks,35
+ord1150,p025,1,2025-01-09,mumbai,cash_on_delivery,delivered,capsicum 500g,vegetables,45
+ord1973,p027,10,2024-12-27,hyderabad,credit_card,cancelled,vim dishwash bar 200g,household,35
+ord2888,p016,0,2025-01-14,chennai,upi,delivered,coca-cola 750ml,beverages,40
+ord2917,p023,3,2024-12-25,kolkata,cash_on_delivery,delivered,potato 1kg,vegetables,25
+ord2261,p016,2,2025-02-12,delhi,cash_on_delivery,delivered,coca-cola 750ml,beverages,40
+ord2285,p004,5,2024-09-12,kolkata,cash_on_delivery,delivered,india gate basmati 1kg,staples,110
+ord2365,p032,2,2024-12-28,kolkata,net banking,returned,head & shoulders 340ml,personal care,299
+ord1481,p032,10,2024-12-07,mumbai,net_banking,delivered,head & shoulders 340ml,personal care,299
+ord2004,p015,5,2024-02-12,chennai,debit_card,delivered,parle-g biscuits 800g,snacks,65
+ord2580,p023,9,2024-12-08,bangalore,debit_card,delivered,potato 1kg,vegetables,25
+ord1039,p036,7,2025-01-23,hyderabad,cash_on_delivery,delivered,maggi noodles 70g,ready to cook,14
+ord2336,p036,2,2024-12-01,pune,net banking,delivered,maggi noodles 70g,ready to cook,14
+ord1017,p034,8,2024-12-12,hyderabad,credit_card,delivered,dettol handwash 250ml,personal care,89
+ord1481,p004,6,2025-01-07,ahmedabad,credit_card,cancelled,india gate basmati 1kg,staples,110
+ord2155,p040,10,2024-12-25,bangalore,credit_card,returned,haldiram dal makhani 300g,ready to cook,85
+ord1147,p013,8,2024-12-29,hyderabad,credit_card,delivered,britannia good day 120g,snacks,30
+ord1208,p027,6,2025-02-28,mumbai,credit_card,delivered,vim dishwash bar 200g,household,35
+ord2896,p001,4,2025-01-16,ahmedabad,credit_card,delivered,tata salt 1kg,staples,22
+ord1011,p013,10,2025-01-09,hyderabad,upi,delivered,britannia good day 120g,snacks,30
+ord1481,p014,10,2024-12-05,mumbai,cash_on_delivery,returned,haldiram bhujia 200g,snacks,80
+ord1413,p023,9,2025-01-01,ahmedabad,upi,cancelled,potato 1kg,vegetables,25
+ord1894,p038,6,2025-01-08,pune,credit_card,delivered,knorr soup tomato 44g,ready to cook,40
+ord1477,p034,8,2025-01-30,pune,credit_card,delivered,dettol handwash 250ml,personal care,89
+ord2437,p020,1,2025-01-08,pune,cash_on_delivery,delivered,nescafe classic 50g,beverages,185
+ord2430,p013,10,2025-02-27,bangalore,cash_on_delivery,returned,britannia good day 120g,snacks,30
+ord2666,p039,4,2025-01-17,ahmedabad,upi,cancelled,sunfeast yippee noodles,ready to cook,14
+ord2455,p006,6,2025-02-24,chennai,credit_card,cancelled,amul full cream milk 1l,dairy,68
+ord2168,p039,2,2024-12-01,pune,cash_on_delivery,returned,sunfeast yippee noodles,ready to cook,14
+ord2143,p030,3,2025-02-06,delhi,cash_on_delivery,delivered,lizol disinfectant 1l,household,175
+ord1256,p002,9,2025-02-20,delhi,cash_on_delivery,returned,aashirvaad atta 5kg,staples,275
+ord2405,p009,5,2025-02-01,bangalore,credit_card,delivered,amul cheese slices 200g,dairy,135
+ord2092,p022,1,2025-01-07,ahmedabad,upi,delivered,onion 1kg,vegetables,28
+ord1964,p004,4,2024-12-26,delhi,net banking,returned,india gate basmati 1kg,staples,110
+ord1493,p021,5,2025-01-25,kolkata,upi,delivered,tomato 1kg,vegetables,35
+ord1812,p022,3,2025-02-20,pune,cash_on_delivery,delivered,onion 1kg,vegetables,28
+ord1820,p028,3,2024-12-03,mumbai,net banking,cancelled,harpic power plus 500ml,household,115
+ord1481,p007,8,2025-02-17,delhi,credit_card,delivered,amul butter 500g,dairy,285
+ord2127,p028,0,2024-12-26,hyderabad,credit_card,delivered,harpic power plus 500ml,household,115
+ord1632,p039,9,2025-02-12,mumbai,debit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord1950,p023,1,2025-01-13,ahmedabad,upi,delivered,potato 1kg,vegetables,25
+ord1845,p026,6,2025-01-03,delhi,cash_on_delivery,delivered,surf excel 1kg,household,195
+ord1249,p021,5,2024-12-28,hyderabad,credit_card,cancelled,tomato 1kg,vegetables,35
+ord2713,p020,5,2025-02-18,hyderabad,net_banking,delivered,nescafe classic 50g,beverages,185
+ord2694,p011,0,2024-06-12,ahmedabad,credit_card,delivered,lay's classic salted 26g,snacks,20
+ord2360,p005,9,2025-01-17,ahmedabad,upi,returned,toor dal 500g,staples,68
+ord1162,p021,10,2024-12-29,bangalore,upi,delivered,tomato 1kg,vegetables,35
+ord1168,p026,6,2024-11-12,ahmedabad,cash_on_delivery,cancelled,surf excel 1kg,household,195
+ord1481,p024,4,2025-01-17,chennai,upi,cancelled,spinach 250g,vegetables,20
+ord2369,p019,2,2025-01-19,ahmedabad,upi,cancelled,tata tea premium 500g,beverages,220
+ord2352,p039,1,2025-01-06,ahmedabad,credit_card,returned,sunfeast yippee noodles,ready to cook,14
+ord1755,p003,4,2024-12-29,mumbai,cash_on_delivery,returned,fortune sunflower oil 1l,staples,135
+ord2736,p020,9,2024-12-22,delhi,upi,delivered,nescafe classic 50g,beverages,185
+ord2042,p029,6,2024-12-06,pune,cash_on_delivery,delivered,colin glass cleaner 500ml,household,95
+ord2824,p007,6,2025-01-22,delhi,cash_on_delivery,returned,amul butter 500g,dairy,285
+ord2609,p026,0,2025-07-02,hyderabad,upi,cancelled,surf excel 1kg,household,195
+ord2230,p005,10,2025-02-15,chennai,cash_on_delivery,delivered,toor dal 500g,staples,68
+ord2191,p002,8,2025-02-19,ahmedabad,cash_on_delivery,cancelled,aashirvaad atta 5kg,staples,275
+ord1810,p011,10,2025-02-10,mumbai,upi,delivered,lay's classic salted 26g,snacks,20
+ord2849,p015,6,2024-12-30,ahmedabad,cash_on_delivery,cancelled,parle-g biscuits 800g,snacks,65
+ord2645,p006,2,2025-11-01,bangalore,net_banking,cancelled,amul full cream milk 1l,dairy,68
+ord1776,p029,0,2024-12-08,hyderabad,cash_on_delivery,delivered,colin glass cleaner 500ml,household,95
+ord2013,p022,1,2025-02-22,kolkata,credit_card,delivered,onion 1kg,vegetables,28
+ord1012,p038,7,2024-12-22,chennai,net banking,returned,knorr soup tomato 44g,ready to cook,40
+ord2098,p039,8,2024-12-09,chennai,credit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord2333,p030,2,2025-01-09,bangalore,cash_on_delivery,delivered,lizol disinfectant 1l,household,175
+ord1337,p016,10,2025-02-28,bangalore,net banking,delivered,coca-cola 750ml,beverages,40
+ord1504,p023,3,2024-12-12,ahmedabad,credit_card,delivered,potato 1kg,vegetables,25
+ord1884,p014,4,2025-02-24,delhi,debit_card,delivered,haldiram bhujia 200g,snacks,80
+ord2815,p025,5,2025-01-07,chennai,credit_card,delivered,capsicum 500g,vegetables,45
+ord2868,p018,6,2024-12-19,pune,debit_card,cancelled,red bull 250ml,beverages,125
+ord1187,p006,3,2025-02-25,chennai,net banking,delivered,amul full cream milk 1l,dairy,68
+ord1189,p018,8,2024-12-25,kolkata,net banking,delivered,red bull 250ml,beverages,125
+ord2012,p011,4,2025-02-10,pune,net banking,delivered,lay's classic salted 26g,snacks,20
+ord2392,p040,2,2025-02-24,chennai,upi,delivered,haldiram dal makhani 300g,ready to cook,85
+ord2701,p024,9,2025-02-21,delhi,debit_card,delivered,spinach 250g,vegetables,20
+ord1728,p011,7,2024-12-27,ahmedabad,cash_on_delivery,returned,lay's classic salted 26g,snacks,20
+ord1112,p024,9,2024-12-14,pune,credit_card,delivered,spinach 250g,vegetables,20
+ord1248,p018,6,2025-01-27,bangalore,cash_on_delivery,delivered,red bull 250ml,beverages,125
+ord1958,p002,9,2025-08-01,kolkata,credit_card,delivered,aashirvaad atta 5kg,staples,275
+ord1152,p014,9,2024-11-12,bangalore,debit_card,delivered,haldiram bhujia 200g,snacks,80
+ord2294,p036,4,2025-02-14,pune,upi,delivered,maggi noodles 70g,ready to cook,14
+ord1696,p031,9,2025-12-01,mumbai,credit_card,delivered,dove soap 100g,personal care,55
+ord2015,p007,10,2025-01-19,pune,cash_on_delivery,returned,amul butter 500g,dairy,285
+ord1061,p023,9,2024-12-31,bangalore,debit_card,delivered,potato 1kg,vegetables,25
+ord2866,p040,1,2025-02-27,pune,net banking,delivered,haldiram dal makhani 300g,ready to cook,85
+ord1234,p011,3,2025-10-01,chennai,upi,delivered,lay's classic salted 26g,snacks,20
+ord1736,p006,1,2024-12-25,pune,net banking,returned,amul full cream milk 1l,dairy,68
+ord2140,p013,10,2024-07-12,pune,debit_card,returned,britannia good day 120g,snacks,30
+ord2279,p020,5,2025-01-29,pune,credit_card,delivered,nescafe classic 50g,beverages,185
+ord2077,p038,10,2025-01-08,ahmedabad,cash_on_delivery,delivered,knorr soup tomato 44g,ready to cook,40
+ord2413,p009,6,2025-02-10,ahmedabad,credit_card,delivered,amul cheese slices 200g,dairy,135
+ord2577,p011,8,2025-02-24,mumbai,net_banking,returned,lay's classic salted 26g,snacks,20
+ord1801,p013,0,2025-01-21,hyderabad,debit_card,delivered,britannia good day 120g,snacks,30
+ord2673,p040,7,2024-12-28,bangalore,credit_card,cancelled,haldiram dal makhani 300g,ready to cook,85
+ord1227,p002,9,2024-08-12,hyderabad,net banking,delivered,aashirvaad atta 5kg,staples,275
+ord1034,p027,1,2025-01-19,ahmedabad,cash_on_delivery,delivered,vim dishwash bar 200g,household,35
+ord1158,p032,3,2024-08-12,kolkata,cash_on_delivery,delivered,head & shoulders 340ml,personal care,299
+ord1609,p039,6,2025-02-21,chennai,upi,delivered,sunfeast yippee noodles,ready to cook,14
+ord2875,p034,5,2025-01-17,kolkata,credit_card,cancelled,dettol handwash 250ml,personal care,89
+ord2657,p015,8,2024-12-18,ahmedabad,debit_card,returned,parle-g biscuits 800g,snacks,65
+ord2156,p026,1,2025-01-07,bangalore,net banking,delivered,surf excel 1kg,household,195
+ord1711,p038,3,2025-01-10,mumbai,credit_card,returned,knorr soup tomato 44g,ready to cook,40
+ord1712,p034,4,2024-12-17,ahmedabad,net banking,delivered,dettol handwash 250ml,personal care,89
+ord2930,p001,9,2025-02-14,pune,debit_card,delivered,tata salt 1kg,staples,22
+ord2614,p038,10,2024-12-06,delhi,cash_on_delivery,delivered,knorr soup tomato 44g,ready to cook,40
+ord1172,p031,7,2025-01-27,ahmedabad,credit_card,delivered,dove soap 100g,personal care,55
+ord1295,p039,10,2025-02-09,bangalore,upi,delivered,sunfeast yippee noodles,ready to cook,14
+ord1131,p016,2,2025-09-02,chennai,net banking,cancelled,coca-cola 750ml,beverages,40
+ord1426,p031,1,2024-12-03,ahmedabad,credit_card,cancelled,dove soap 100g,personal care,55
+ord2386,p015,1,2025-01-15,pune,credit_card,delivered,parle-g biscuits 800g,snacks,65
+ord2354,p015,4,2025-01-04,pune,credit_card,delivered,parle-g biscuits 800g,snacks,65
+ord2950,p003,2,2025-02-15,kolkata,debit_card,returned,fortune sunflower oil 1l,staples,135
+ord1430,p040,9,2024-12-31,ahmedabad,cash_on_delivery,delivered,haldiram dal makhani 300g,ready to cook,85
+ord2183,p036,6,2025-02-04,bangalore,net banking,cancelled,maggi noodles 70g,ready to cook,14
+ord1909,p013,7,2025-01-02,delhi,cash_on_delivery,delivered,britannia good day 120g,snacks,30
+ord1481,p021,4,2024-12-26,mumbai,cash_on_delivery,delivered,tomato 1kg,vegetables,35
+ord2162,p013,3,2025-02-11,delhi,debit_card,delivered,britannia good day 120g,snacks,30
+ord1582,p017,8,2025-11-01,pune,net banking,cancelled,tropicana orange 1l,beverages,120
+ord2269,p025,9,2024-08-12,hyderabad,net banking,delivered,capsicum 500g,vegetables,45
+ord1982,p013,7,2025-02-02,mumbai,net banking,returned,britannia good day 120g,snacks,30
+ord2534,p039,2,2025-01-13,hyderabad,debit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord1642,p010,7,2024-12-13,bangalore,cash_on_delivery,delivered,nandini paneer 200g,dairy,90
+ord2484,p040,1,2024-12-14,kolkata,debit_card,cancelled,haldiram dal makhani 300g,ready to cook,85
+ord1429,p002,2,2025-01-19,hyderabad,debit_card,cancelled,aashirvaad atta 5kg,staples,275
+ord2953,p003,0,2024-12-22,hyderabad,credit_card,delivered,fortune sunflower oil 1l,staples,135
+ord1483,p011,8,2025-01-19,ahmedabad,upi,delivered,lay's classic salted 26g,snacks,20
+ord2721,p028,2,2025-02-12,pune,net banking,delivered,harpic power plus 500ml,household,115
+ord2803,p002,4,2025-01-01,ahmedabad,debit_card,cancelled,aashirvaad atta 5kg,staples,275
+ord1304,p016,9,2024-12-06,mumbai,debit_card,delivered,coca-cola 750ml,beverages,40
+ord2388,p020,4,2025-01-29,kolkata,credit_card,delivered,nescafe classic 50g,beverages,185
+ord2258,p002,7,2025-02-16,kolkata,debit_card,returned,aashirvaad atta 5kg,staples,275
+ord2359,p015,1,2025-02-23,ahmedabad,credit_card,delivered,parle-g biscuits 800g,snacks,65
+ord1277,p037,10,2025-02-25,delhi,cash_on_delivery,delivered,mtr upma mix 200g,ready to cook,55
+ord2631,p022,1,2025-11-01,bangalore,net banking,delivered,onion 1kg,vegetables,28
+ord1826,p003,1,2024-12-14,kolkata,upi,delivered,fortune sunflower oil 1l,staples,135
+ord1782,p038,5,2025-02-09,chennai,credit_card,delivered,knorr soup tomato 44g,ready to cook,40
+ord1049,p029,5,2025-01-12,pune,cash_on_delivery,delivered,colin glass cleaner 500ml,household,95
+ord2325,p039,3,2025-02-22,pune,net banking,cancelled,sunfeast yippee noodles,ready to cook,14
+ord2981,p020,9,2024-12-24,bangalore,net banking,returned,nescafe classic 50g,beverages,185
+ord2844,p002,5,2025-01-26,delhi,upi,returned,aashirvaad atta 5kg,staples,275
+ord1855,p013,7,2025-02-03,mumbai,net banking,delivered,britannia good day 120g,snacks,30
+ord1045,p018,7,2025-01-25,pune,cash_on_delivery,cancelled,red bull 250ml,beverages,125
+ord2848,p025,4,2025-01-01,mumbai,net banking,delivered,capsicum 500g,vegetables,45
+ord2452,p013,4,2024-12-29,kolkata,debit_card,delivered,britannia good day 120g,snacks,30
+ord2382,p023,0,2025-02-12,chennai,credit_card,delivered,potato 1kg,vegetables,25
+ord1229,p011,8,2024-12-18,bangalore,cash_on_delivery,cancelled,lay's classic salted 26g,snacks,20
+ord2059,p037,10,2025-03-01,ahmedabad,credit_card,delivered,mtr upma mix 200g,ready to cook,55
+ord1481,p036,3,2025-01-20,hyderabad,credit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord2998,p022,5,2024-05-12,ahmedabad,upi,delivered,onion 1kg,vegetables,28
+ord2137,p037,2,2025-02-21,chennai,debit_card,delivered,mtr upma mix 200g,ready to cook,55
+ord2238,p004,7,2025-01-21,chennai,upi,delivered,india gate basmati 1kg,staples,110
+ord2099,p003,4,2024-12-12,pune,credit_card,delivered,fortune sunflower oil 1l,staples,135
+ord2703,p016,4,2025-02-03,mumbai,credit_card,returned,coca-cola 750ml,beverages,40
+ord1386,p022,6,2025-02-10,bangalore,cash_on_delivery,cancelled,onion 1kg,vegetables,28
+ord1942,p022,6,2025-02-19,kolkata,debit_card,cancelled,onion 1kg,vegetables,28
+ord1936,p028,6,2025-01-14,bangalore,cash_on_delivery,returned,harpic power plus 500ml,household,115
+ord2250,p002,9,2025-02-23,chennai,upi,returned,aashirvaad atta 5kg,staples,275
+ord2031,p002,2,2025-02-01,delhi,cash_on_delivery,delivered,aashirvaad atta 5kg,staples,275
+ord1474,p006,9,2025-02-07,mumbai,upi,returned,amul full cream milk 1l,dairy,68
+ord2453,p006,7,2025-02-15,mumbai,upi,cancelled,amul full cream milk 1l,dairy,68
+ord1312,p020,10,2024-12-30,ahmedabad,cash_on_delivery,delivered,nescafe classic 50g,beverages,185
+ord2119,p039,4,2024-12-14,hyderabad,debit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord1645,p005,1,2025-01-08,pune,net banking,delivered,toor dal 500g,staples,68
+ord1966,p002,5,2024-02-12,bangalore,debit_card,returned,aashirvaad atta 5kg,staples,275
+ord1314,p035,7,2025-01-24,pune,net banking,delivered,himalaya face wash 100ml,personal care,105
+ord1651,p022,10,2025-02-01,delhi,net_banking,delivered,onion 1kg,vegetables,28
+ord1196,p030,9,2024-12-12,ahmedabad,debit_card,returned,lizol disinfectant 1l,household,175
+ord1305,p024,4,2024-12-10,chennai,cash_on_delivery,returned,spinach 250g,vegetables,20
+ord1265,p038,2,2025-01-12,hyderabad,upi,delivered,knorr soup tomato 44g,ready to cook,40
+ord1770,p013,8,2025-02-19,mumbai,credit_card,delivered,britannia good day 120g,snacks,30
+ord1176,p038,8,2025-02-19,ahmedabad,net banking,cancelled,knorr soup tomato 44g,ready to cook,40
+ord3000,p038,6,2025-02-27,hyderabad,debit_card,returned,knorr soup tomato 44g,ready to cook,40
+ord2469,p023,2,2024-12-27,pune,cash_on_delivery,returned,potato 1kg,vegetables,25
+ord2810,p016,2,2024-12-28,chennai,debit_card,returned,coca-cola 750ml,beverages,40
+ord1726,p013,2,2024-12-28,mumbai,debit_card,delivered,britannia good day 120g,snacks,30
+ord2335,p021,3,2024-12-24,hyderabad,cash_on_delivery,cancelled,tomato 1kg,vegetables,35
+ord1941,p033,1,2024-12-19,mumbai,debit_card,delivered,colgate strong teeth 300g,personal care,129
+ord1778,p001,7,2024-12-08,mumbai,credit_card,delivered,tata salt 1kg,staples,22
+ord2503,p011,1,2025-11-02,bangalore,upi,delivered,lay's classic salted 26g,snacks,20
+ord1974,p013,2,2025-01-09,hyderabad,cash_on_delivery,delivered,britannia good day 120g,snacks,30
+ord2785,p002,4,2024-07-12,kolkata,debit_card,delivered,aashirvaad atta 5kg,staples,275
+ord1481,p037,8,2025-01-19,ahmedabad,debit_card,returned,mtr upma mix 200g,ready to cook,55
+ord1924,p039,7,2025-01-24,hyderabad,debit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord2449,p022,6,2024-06-12,kolkata,cash_on_delivery,delivered,onion 1kg,vegetables,28
+ord2456,p002,1,2025-01-13,mumbai,net banking,returned,aashirvaad atta 5kg,staples,275
+ord2161,p036,6,2024-12-18,kolkata,upi,delivered,maggi noodles 70g,ready to cook,14
+ord1183,p031,0,2025-02-05,ahmedabad,debit_card,delivered,dove soap 100g,personal care,55
+ord1072,p036,10,2024-12-30,pune,credit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord1710,p039,1,2025-01-25,pune,net banking,delivered,sunfeast yippee noodles,ready to cook,14
+ord1916,p005,7,2024-12-19,hyderabad,upi,cancelled,toor dal 500g,staples,68
+ord2708,p032,9,2024-12-13,bangalore,net banking,cancelled,head & shoulders 340ml,personal care,299
+ord2204,p030,10,2025-01-23,mumbai,debit_card,returned,lizol disinfectant 1l,household,175
+ord1082,p020,9,2024-12-09,ahmedabad,cash_on_delivery,cancelled,nescafe classic 50g,beverages,185
+ord1951,p001,10,2025-01-19,chennai,upi,returned,tata salt 1kg,staples,22
+ord1355,p004,7,2025-02-20,pune,cash_on_delivery,cancelled,india gate basmati 1kg,staples,110
+ord2598,p009,7,2024-12-28,ahmedabad,upi,delivered,amul cheese slices 200g,dairy,135
+ord2219,p021,4,2025-01-26,delhi,credit_card,delivered,tomato 1kg,vegetables,35
+ord2146,p025,1,2025-01-13,bangalore,debit_card,delivered,capsicum 500g,vegetables,45
+ord1422,p002,4,2025-02-18,delhi,upi,returned,aashirvaad atta 5kg,staples,275
+ord2876,p014,2,2024-12-02,mumbai,cash_on_delivery,delivered,haldiram bhujia 200g,snacks,80
+ord1979,p015,4,2025-10-02,ahmedabad,debit_card,cancelled,parle-g biscuits 800g,snacks,65
+ord2316,p020,8,2025-01-12,pune,upi,delivered,nescafe classic 50g,beverages,185
+ord1479,p022,10,2025-01-04,kolkata,debit_card,delivered,onion 1kg,vegetables,28
+ord1949,p026,6,2024-12-18,pune,credit_card,delivered,surf excel 1kg,household,195
+ord1575,p012,0,2025-02-13,pune,net banking,delivered,bingo mad angles 90g,snacks,35
+ord2299,p024,10,2025-02-01,delhi,debit_card,delivered,spinach 250g,vegetables,20
+ord1188,p014,3,2024-12-24,ahmedabad,net banking,cancelled,haldiram bhujia 200g,snacks,80
+ord1318,p037,10,2025-02-05,chennai,credit_card,delivered,mtr upma mix 200g,ready to cook,55
+ord2968,p006,8,2025-02-03,bangalore,credit_card,cancelled,amul full cream milk 1l,dairy,68
+ord2560,p036,4,2024-03-12,hyderabad,upi,delivered,maggi noodles 70g,ready to cook,14
+ord2922,p011,3,2025-11-01,delhi,net_banking,delivered,lay's classic salted 26g,snacks,20
+ord2661,p036,2,2025-01-21,mumbai,credit_card,delivered,maggi noodles 70g,ready to cook,14
+ord1343,p026,3,2024-12-05,pune,upi,returned,surf excel 1kg,household,195
+ord1807,p018,10,2024-12-04,pune,credit_card,delivered,red bull 250ml,beverages,125
+ord2407,p024,8,2025-02-08,ahmedabad,upi,returned,spinach 250g,vegetables,20
+ord2962,p022,1,2025-01-17,ahmedabad,credit_card,returned,onion 1kg,vegetables,28
+ord2090,p030,6,2025-02-19,pune,debit_card,returned,lizol disinfectant 1l,household,175
+ord2125,p006,4,2025-02-28,mumbai,cash_on_delivery,returned,amul full cream milk 1l,dairy,68
+ord2475,p003,7,2025-02-27,pune,net_banking,cancelled,fortune sunflower oil 1l,staples,135
+ord2784,p010,7,2025-02-12,mumbai,cash_on_delivery,cancelled,nandini paneer 200g,dairy,90
+ord1455,p039,1,2025-03-01,bangalore,credit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord2343,p015,1,2025-01-20,hyderabad,upi,cancelled,parle-g biscuits 800g,snacks,65
+ord2677,p037,7,2024-12-21,mumbai,upi,delivered,mtr upma mix 200g,ready to cook,55
+ord1217,p008,2,2024-12-26,bangalore,net banking,delivered,mother dairy curd 400g,dairy,48
+ord2597,p031,1,2025-01-31,delhi,debit_card,cancelled,dove soap 100g,personal care,55
+ord2704,p032,9,2025-02-08,ahmedabad,upi,cancelled,head & shoulders 340ml,personal care,299
+ord1080,p031,9,2025-01-01,bangalore,net banking,delivered,dove soap 100g,personal care,55
+ord1128,p014,3,2025-02-17,kolkata,credit_card,returned,haldiram bhujia 200g,snacks,80
+ord2057,p015,4,2024-12-28,pune,debit_card,delivered,parle-g biscuits 800g,snacks,65
+ord1331,p016,9,2025-01-12,chennai,debit_card,delivered,coca-cola 750ml,beverages,40
+ord2745,p036,6,2025-01-01,chennai,net banking,delivered,maggi noodles 70g,ready to cook,14
+ord1381,p003,8,2025-01-11,bangalore,upi,delivered,fortune sunflower oil 1l,staples,135
+ord2851,p031,3,2024-12-21,ahmedabad,cash_on_delivery,delivered,dove soap 100g,personal care,55
+ord1647,p039,3,2025-02-16,hyderabad,net banking,delivered,sunfeast yippee noodles,ready to cook,14
+ord2997,p004,4,2025-01-05,bangalore,net banking,cancelled,india gate basmati 1kg,staples,110
+ord2492,p006,4,2024-12-20,mumbai,upi,delivered,amul full cream milk 1l,dairy,68
+ord2906,p007,6,2024-12-13,bangalore,net banking,delivered,amul butter 500g,dairy,285
+ord2323,p023,7,2024-12-30,delhi,upi,delivered,potato 1kg,vegetables,25
+ord1608,p014,10,2025-02-21,mumbai,credit_card,returned,haldiram bhujia 200g,snacks,80
+ord1166,p015,4,2024-12-23,delhi,upi,delivered,parle-g biscuits 800g,snacks,65
+ord2055,p034,7,2025-01-22,ahmedabad,cash_on_delivery,delivered,dettol handwash 250ml,personal care,89
+ord1349,p013,9,2025-01-29,chennai,net banking,returned,britannia good day 120g,snacks,30
+ord1600,p006,2,2024-03-12,delhi,credit_card,delivered,amul full cream milk 1l,dairy,68
+ord2538,p007,3,2024-12-18,hyderabad,cash_on_delivery,returned,amul butter 500g,dairy,285
+ord2482,p026,9,2025-02-23,mumbai,net banking,delivered,surf excel 1kg,household,195
+ord1203,p034,9,2025-02-23,chennai,credit_card,delivered,dettol handwash 250ml,personal care,89
+ord1481,p018,3,2025-01-29,chennai,cash_on_delivery,delivered,red bull 250ml,beverages,125
+ord2758,p006,4,2025-12-02,mumbai,upi,delivered,amul full cream milk 1l,dairy,68
+ord1590,p021,6,2024-12-05,bangalore,credit_card,returned,tomato 1kg,vegetables,35
+ord2026,p028,7,2025-01-17,kolkata,net banking,cancelled,harpic power plus 500ml,household,115
+ord1852,p007,4,2024-12-23,chennai,debit_card,delivered,amul butter 500g,dairy,285
+ord2626,p003,6,2025-01-28,kolkata,credit_card,delivered,fortune sunflower oil 1l,staples,135
+ord1862,p015,4,2025-01-05,pune,cash_on_delivery,cancelled,parle-g biscuits 800g,snacks,65
+ord2814,p008,2,2024-12-18,kolkata,credit_card,delivered,mother dairy curd 400g,dairy,48
+ord1579,p033,10,2025-02-23,bangalore,net banking,returned,colgate strong teeth 300g,personal care,129
+ord2646,p015,8,2024-12-26,mumbai,credit_card,cancelled,parle-g biscuits 800g,snacks,65
+ord1722,p009,3,2025-01-18,chennai,upi,delivered,amul cheese slices 200g,dairy,135
+ord1233,p036,2,2025-02-02,kolkata,debit_card,delivered,maggi noodles 70g,ready to cook,14
+ord1244,p010,6,2024-12-19,kolkata,upi,delivered,nandini paneer 200g,dairy,90
+ord1130,p001,6,2024-12-14,kolkata,credit_card,returned,tata salt 1kg,staples,22
+ord1362,p039,7,2025-02-15,delhi,credit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord1739,p024,1,2024-12-27,delhi,upi,returned,spinach 250g,vegetables,20
+ord2899,p015,7,2025-01-31,mumbai,debit_card,delivered,parle-g biscuits 800g,snacks,65
+ord1563,p010,10,2025-03-02,ahmedabad,credit_card,delivered,nandini paneer 200g,dairy,90
+ord1159,p007,2,2025-01-04,kolkata,net_banking,cancelled,amul butter 500g,dairy,285
+ord2565,p023,10,2025-01-15,hyderabad,net banking,delivered,potato 1kg,vegetables,25
+ord2148,p002,1,2025-02-27,pune,upi,delivered,aashirvaad atta 5kg,staples,275
+ord2637,p024,10,2024-12-06,bangalore,debit_card,returned,spinach 250g,vegetables,20
+ord1048,p008,2,2025-01-30,ahmedabad,cash_on_delivery,cancelled,mother dairy curd 400g,dairy,48
+ord1134,p022,10,2025-02-27,mumbai,net banking,delivered,onion 1kg,vegetables,28
+ord1586,p007,5,2025-01-12,chennai,debit_card,cancelled,amul butter 500g,dairy,285
+ord2552,p019,1,2025-01-30,mumbai,cash_on_delivery,returned,tata tea premium 500g,beverages,220
+ord2504,p023,0,2024-12-26,pune,credit_card,delivered,potato 1kg,vegetables,25
+ord1133,p023,2,2025-08-01,pune,net banking,returned,potato 1kg,vegetables,25
+ord1633,p022,8,2024-12-14,kolkata,upi,delivered,onion 1kg,vegetables,28
+ord1029,p013,2,2025-01-10,kolkata,net banking,returned,britannia good day 120g,snacks,30
+ord1136,p036,6,2024-12-08,bangalore,net banking,delivered,maggi noodles 70g,ready to cook,14
+ord1686,p027,3,2024-12-10,mumbai,credit_card,cancelled,vim dishwash bar 200g,household,35
+ord1495,p004,10,2025-02-03,delhi,net_banking,cancelled,india gate basmati 1kg,staples,110
+ord1481,p038,10,2024-12-18,kolkata,cash_on_delivery,cancelled,knorr soup tomato 44g,ready to cook,40
+ord2486,p038,7,2025-01-14,hyderabad,net banking,returned,knorr soup tomato 44g,ready to cook,40
+ord2440,p011,1,2025-01-26,kolkata,cash_on_delivery,delivered,lay's classic salted 26g,snacks,20
+ord1509,p019,9,2025-01-13,ahmedabad,credit_card,delivered,tata tea premium 500g,beverages,220
+ord2037,p026,6,2024-12-09,delhi,upi,delivered,surf excel 1kg,household,195
+ord1580,p026,10,2025-01-10,kolkata,credit_card,returned,surf excel 1kg,household,195
+ord1110,p020,1,2025-02-19,hyderabad,credit_card,delivered,nescafe classic 50g,beverages,185
+ord2078,p017,7,2024-12-20,delhi,net banking,delivered,tropicana orange 1l,beverages,120
+ord2799,p039,6,2025-01-24,kolkata,cash_on_delivery,delivered,sunfeast yippee noodles,ready to cook,14
+ord1374,p039,4,2025-01-08,ahmedabad,debit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord1098,p002,9,2025-01-06,delhi,upi,cancelled,aashirvaad atta 5kg,staples,275
+ord2081,p003,2,2024-12-02,bangalore,net banking,delivered,fortune sunflower oil 1l,staples,135
+ord1472,p011,2,2024-02-12,delhi,upi,returned,lay's classic salted 26g,snacks,20
+ord2699,p010,4,2025-02-12,kolkata,credit_card,delivered,nandini paneer 200g,dairy,90
+ord2794,p031,7,2025-01-15,mumbai,credit_card,delivered,dove soap 100g,personal care,55
+ord1103,p005,9,2024-10-12,chennai,upi,delivered,toor dal 500g,staples,68
+ord1721,p002,3,2025-01-03,delhi,net banking,delivered,aashirvaad atta 5kg,staples,275
+ord2548,p009,4,2025-02-22,ahmedabad,net banking,returned,amul cheese slices 200g,dairy,135
+ord2582,p013,2,2024-12-28,pune,debit_card,delivered,britannia good day 120g,snacks,30
+ord1545,p035,3,2024-12-16,hyderabad,cash_on_delivery,delivered,himalaya face wash 100ml,personal care,105
+ord1680,p004,7,2025-06-02,bangalore,upi,cancelled,india gate basmati 1kg,staples,110
+ord1760,p021,10,2025-02-27,pune,upi,delivered,tomato 1kg,vegetables,35
+ord1078,p006,5,2025-01-23,delhi,cash_on_delivery,cancelled,amul full cream milk 1l,dairy,68
+ord1995,p031,7,2025-01-18,bangalore,cash_on_delivery,delivered,dove soap 100g,personal care,55
+ord2129,p007,3,2024-12-20,kolkata,upi,delivered,amul butter 500g,dairy,285
+ord2732,p009,9,2025-09-02,kolkata,cash_on_delivery,delivered,amul cheese slices 200g,dairy,135
+ord2533,p029,5,2024-12-07,chennai,upi,delivered,colin glass cleaner 500ml,household,95
+ord2777,p021,2,2025-01-27,delhi,credit_card,delivered,tomato 1kg,vegetables,35
+ord1913,p031,3,2025-12-01,mumbai,cash_on_delivery,delivered,dove soap 100g,personal care,55
+ord1688,p032,8,2025-02-22,hyderabad,cash_on_delivery,delivered,head & shoulders 340ml,personal care,299
+ord1532,p021,8,2024-12-20,delhi,upi,returned,tomato 1kg,vegetables,35
+ord1181,p024,7,2024-12-06,kolkata,debit_card,returned,spinach 250g,vegetables,20
+ord1101,p014,3,2025-01-02,bangalore,debit_card,delivered,haldiram bhujia 200g,snacks,80
+ord1873,p024,10,2025-01-23,kolkata,credit_card,cancelled,spinach 250g,vegetables,20
+ord2283,p013,7,2024-12-02,mumbai,upi,cancelled,britannia good day 120g,snacks,30
+ord2891,p034,7,2024-12-31,delhi,cash_on_delivery,returned,dettol handwash 250ml,personal care,89
+ord1443,p036,9,2025-02-12,hyderabad,upi,delivered,maggi noodles 70g,ready to cook,14
+ord1488,p008,7,2025-01-03,mumbai,debit_card,returned,mother dairy curd 400g,dairy,48
+ord1291,p025,7,2024-12-28,kolkata,upi,delivered,capsicum 500g,vegetables,45
+ord2011,p008,10,2025-02-01,mumbai,debit_card,cancelled,mother dairy curd 400g,dairy,48
+ord2281,p004,9,2024-12-25,bangalore,cash_on_delivery,delivered,india gate basmati 1kg,staples,110
+ord1481,p039,9,2025-05-01,pune,net banking,delivered,sunfeast yippee noodles,ready to cook,14
+ord2222,p025,7,2025-01-15,bangalore,credit_card,cancelled,capsicum 500g,vegetables,45
+ord1387,p002,5,2025-01-30,bangalore,upi,cancelled,aashirvaad atta 5kg,staples,275
+ord1599,p002,8,2025-02-01,delhi,credit_card,delivered,aashirvaad atta 5kg,staples,275
+ord2363,p033,9,2025-02-19,pune,credit_card,returned,colgate strong teeth 300g,personal care,129
+ord1986,p012,2,2025-02-04,delhi,upi,returned,bingo mad angles 90g,snacks,35
+ord2691,p001,10,2025-01-01,kolkata,credit_card,delivered,tata salt 1kg,staples,22
+ord2213,p029,3,2025-01-16,chennai,cash_on_delivery,delivered,colin glass cleaner 500ml,household,95
+ord2994,p009,6,2024-12-03,ahmedabad,cash_on_delivery,delivered,amul cheese slices 200g,dairy,135
+ord1350,p014,10,2024-12-24,mumbai,net banking,returned,haldiram bhujia 200g,snacks,80
+ord2753,p034,2,2024-01-12,delhi,debit_card,delivered,dettol handwash 250ml,personal care,89
+ord1518,p013,9,2024-12-24,kolkata,cash_on_delivery,delivered,britannia good day 120g,snacks,30
+ord1917,p025,0,2025-02-05,chennai,credit_card,delivered,capsicum 500g,vegetables,45
+ord1831,p036,7,2025-02-13,chennai,debit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord1351,p006,2,2025-01-06,pune,cash_on_delivery,cancelled,amul full cream milk 1l,dairy,68
+ord1729,p023,9,2024-12-09,ahmedabad,credit_card,returned,potato 1kg,vegetables,25
+ord2892,p001,2,2024-12-17,delhi,debit_card,cancelled,tata salt 1kg,staples,22
+ord2948,p032,3,2025-02-22,kolkata,debit_card,delivered,head & shoulders 340ml,personal care,299
+ord1481,p016,7,2024-12-26,chennai,cash_on_delivery,delivered,coca-cola 750ml,beverages,40
+ord2878,p008,4,2024-12-13,bangalore,credit_card,delivered,mother dairy curd 400g,dairy,48
+ord2767,p007,2,2024-12-10,hyderabad,net banking,cancelled,amul butter 500g,dairy,285
+ord1832,p009,7,2024-12-14,bangalore,net banking,delivered,amul cheese slices 200g,dairy,135
+ord1552,p011,9,2025-01-02,delhi,upi,returned,lay's classic salted 26g,snacks,20
+ord1114,p007,6,2025-01-15,mumbai,debit_card,delivered,amul butter 500g,dairy,285
+ord2757,p011,1,2025-01-28,delhi,net banking,delivered,lay's classic salted 26g,snacks,20
+ord1282,p039,5,2025-02-26,chennai,credit_card,returned,sunfeast yippee noodles,ready to cook,14
+ord2021,p021,1,2025-01-25,ahmedabad,credit_card,cancelled,tomato 1kg,vegetables,35
+ord1565,p025,7,2025-02-22,mumbai,debit_card,delivered,capsicum 500g,vegetables,45
+ord2496,p033,5,2024-09-12,ahmedabad,upi,delivered,colgate strong teeth 300g,personal care,129
+ord1137,p030,4,2025-02-26,chennai,net banking,delivered,lizol disinfectant 1l,household,175
+ord1557,p022,4,2025-02-26,kolkata,debit_card,returned,onion 1kg,vegetables,28
+ord1751,p036,6,2025-01-27,bangalore,debit_card,returned,maggi noodles 70g,ready to cook,14
+ord2687,p012,5,2025-01-10,ahmedabad,net banking,delivered,bingo mad angles 90g,snacks,35
+ord1740,p020,9,2025-01-10,chennai,cash_on_delivery,cancelled,nescafe classic 50g,beverages,185
+ord2727,p003,7,2024-12-27,ahmedabad,cash_on_delivery,delivered,fortune sunflower oil 1l,staples,135
+ord1169,p021,5,2025-04-01,mumbai,upi,cancelled,tomato 1kg,vegetables,35
+ord2809,p037,3,2024-12-15,bangalore,upi,returned,mtr upma mix 200g,ready to cook,55
+ord2121,p032,10,2025-02-14,hyderabad,cash_on_delivery,cancelled,head & shoulders 340ml,personal care,299
+ord1481,p003,1,2025-02-14,hyderabad,cash_on_delivery,returned,fortune sunflower oil 1l,staples,135
+ord1044,p023,10,2024-12-14,chennai,net banking,returned,potato 1kg,vegetables,25
+ord1308,p006,1,2024-12-24,kolkata,net banking,returned,amul full cream milk 1l,dairy,68
+ord1163,p038,8,2025-01-13,chennai,cash_on_delivery,returned,knorr soup tomato 44g,ready to cook,40
+ord1694,p019,5,2025-03-01,hyderabad,cash_on_delivery,returned,tata tea premium 500g,beverages,220
+ord1640,p002,10,2024-12-31,kolkata,cash_on_delivery,delivered,aashirvaad atta 5kg,staples,275
+ord1999,p021,7,2025-01-30,delhi,upi,delivered,tomato 1kg,vegetables,35
+ord2857,p021,2,2025-02-01,pune,cash_on_delivery,returned,tomato 1kg,vegetables,35
+ord1367,p017,9,2024-12-19,mumbai,cash_on_delivery,delivered,tropicana orange 1l,beverages,120
+ord1085,p027,7,2024-12-28,kolkata,cash_on_delivery,returned,vim dishwash bar 200g,household,35
+ord1161,p020,8,2025-01-15,chennai,debit_card,delivered,nescafe classic 50g,beverages,185
+ord2159,p033,8,2025-04-02,bangalore,cash_on_delivery,delivered,colgate strong teeth 300g,personal care,129
+ord2925,p032,3,2025-01-09,bangalore,debit_card,cancelled,head & shoulders 340ml,personal care,299
+ord2524,p002,5,2024-12-14,chennai,net banking,delivered,aashirvaad atta 5kg,staples,275
+ord2764,p014,2,2024-12-11,pune,cash_on_delivery,delivered,haldiram bhujia 200g,snacks,80
+ord2205,p019,10,2025-02-24,chennai,net banking,cancelled,tata tea premium 500g,beverages,220
+ord2755,p040,5,2025-02-20,bangalore,cash_on_delivery,returned,haldiram dal makhani 300g,ready to cook,85
+ord1375,p008,8,2024-12-04,pune,upi,cancelled,mother dairy curd 400g,dairy,48
+ord1399,p011,6,2025-01-01,bangalore,upi,delivered,lay's classic salted 26g,snacks,20
+ord1018,p011,4,2025-02-28,ahmedabad,credit_card,delivered,lay's classic salted 26g,snacks,20
+ord1875,p027,4,2024-12-31,bangalore,cash_on_delivery,returned,vim dishwash bar 200g,household,35
+ord1236,p024,2,2025-01-08,hyderabad,upi,delivered,spinach 250g,vegetables,20
+ord2977,p029,4,2025-02-17,mumbai,credit_card,delivered,colin glass cleaner 500ml,household,95
+ord2608,p036,1,2024-12-27,hyderabad,cash_on_delivery,delivered,maggi noodles 70g,ready to cook,14
+ord2308,p002,6,2025-01-14,mumbai,upi,delivered,aashirvaad atta 5kg,staples,275
+ord1481,p008,3,2025-01-06,bangalore,cash_on_delivery,returned,mother dairy curd 400g,dairy,48
+ord2487,p003,0,2024-12-22,hyderabad,upi,cancelled,fortune sunflower oil 1l,staples,135
+ord1356,p038,7,2025-01-10,pune,debit_card,delivered,knorr soup tomato 44g,ready to cook,40
+ord2165,p019,2,2025-01-09,hyderabad,credit_card,returned,tata tea premium 500g,beverages,220
+ord2821,p013,1,2024-12-07,hyderabad,upi,cancelled,britannia good day 120g,snacks,30
+ord1323,p001,6,2025-03-01,hyderabad,debit_card,delivered,tata salt 1kg,staples,22
+ord2973,p031,0,2025-01-08,ahmedabad,debit_card,delivered,dove soap 100g,personal care,55
+ord2696,p035,10,2024-12-30,delhi,debit_card,returned,himalaya face wash 100ml,personal care,105
+ord1416,p035,10,2024-02-12,delhi,net banking,delivered,himalaya face wash 100ml,personal care,105
+ord2245,p026,2,2025-02-12,mumbai,debit_card,delivered,surf excel 1kg,household,195
+ord2266,p004,7,2024-12-29,pune,net banking,delivered,india gate basmati 1kg,staples,110
+ord1327,p006,1,2024-12-16,ahmedabad,debit_card,cancelled,amul full cream milk 1l,dairy,68
+ord2311,p021,4,2025-01-29,kolkata,net banking,delivered,tomato 1kg,vegetables,35
+ord2075,p008,8,2024-12-22,ahmedabad,upi,delivered,mother dairy curd 400g,dairy,48
+ord1967,p008,8,2025-02-19,hyderabad,debit_card,cancelled,mother dairy curd 400g,dairy,48
+ord1481,p037,5,2024-12-15,kolkata,cash_on_delivery,delivered,mtr upma mix 200g,ready to cook,55
+ord2871,p013,3,2024-04-12,chennai,credit_card,delivered,britannia good day 120g,snacks,30
+ord1850,p019,7,2025-01-23,kolkata,debit_card,returned,tata tea premium 500g,beverages,220
+ord2214,p014,9,2025-02-23,hyderabad,upi,delivered,haldiram bhujia 200g,snacks,80
+ord1668,p012,2,2025-01-06,ahmedabad,debit_card,returned,bingo mad angles 90g,snacks,35
+ord2545,p012,8,2024-12-15,bangalore,net banking,cancelled,bingo mad angles 90g,snacks,35
+ord1071,p022,7,2025-02-28,chennai,upi,returned,onion 1kg,vegetables,28
+ord1985,p035,6,2025-01-24,kolkata,debit_card,delivered,himalaya face wash 100ml,personal care,105
+ord1154,p036,1,2024-12-31,hyderabad,upi,delivered,maggi noodles 70g,ready to cook,14
+ord1511,p007,5,2024-12-07,hyderabad,credit_card,delivered,amul butter 500g,dairy,285
+ord1346,p001,1,2025-01-05,delhi,cash_on_delivery,cancelled,tata salt 1kg,staples,22
+ord2233,p002,4,2024-12-16,pune,net banking,delivered,aashirvaad atta 5kg,staples,275
+ord1469,p029,2,2024-12-15,kolkata,cash_on_delivery,returned,colin glass cleaner 500ml,household,95
+ord1087,p015,10,2025-02-24,kolkata,upi,returned,parle-g biscuits 800g,snacks,65
+ord1370,p013,9,2025-01-15,pune,debit_card,delivered,britannia good day 120g,snacks,30
+ord2243,p002,5,2025-01-04,kolkata,cash_on_delivery,delivered,aashirvaad atta 5kg,staples,275
+ord1813,p017,5,2024-12-13,hyderabad,upi,returned,tropicana orange 1l,beverages,120
+ord2115,p013,5,2025-02-24,hyderabad,cash_on_delivery,delivered,britannia good day 120g,snacks,30
+ord1915,p036,6,2025-01-02,bangalore,debit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord2086,p004,5,2025-01-27,bangalore,credit_card,cancelled,india gate basmati 1kg,staples,110
+ord2483,p004,0,2025-03-01,hyderabad,debit_card,delivered,india gate basmati 1kg,staples,110
+ord2874,p026,2,2025-01-23,bangalore,cash_on_delivery,delivered,surf excel 1kg,household,195
+ord2789,p004,10,2025-07-02,pune,debit_card,delivered,india gate basmati 1kg,staples,110
+ord2812,p011,4,2025-02-22,mumbai,cash_on_delivery,delivered,lay's classic salted 26g,snacks,20
+ord1062,p027,8,2025-04-02,chennai,cash_on_delivery,returned,vim dishwash bar 200g,household,35
+ord2349,p007,2,2024-12-22,kolkata,credit_card,delivered,amul butter 500g,dairy,285
+ord2780,p036,6,2025-01-12,hyderabad,debit_card,delivered,maggi noodles 70g,ready to cook,14
+ord2265,p026,1,2025-02-15,mumbai,net banking,delivered,surf excel 1kg,household,195
+ord1620,p001,5,2024-09-12,kolkata,net banking,delivered,tata salt 1kg,staples,22
+ord2990,p036,9,2025-01-26,hyderabad,debit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord2241,p016,1,2025-03-01,kolkata,net banking,delivered,coca-cola 750ml,beverages,40
+ord1508,p013,10,2025-02-16,mumbai,upi,delivered,britannia good day 120g,snacks,30
+ord1664,p028,2,2025-01-25,ahmedabad,debit_card,delivered,harpic power plus 500ml,household,115
+ord1014,p002,8,2025-01-12,delhi,net banking,delivered,aashirvaad atta 5kg,staples,275
+ord2085,p024,5,2025-01-21,kolkata,credit_card,cancelled,spinach 250g,vegetables,20
+ord2216,p032,9,2025-02-23,delhi,debit_card,delivered,head & shoulders 340ml,personal care,299
+ord1637,p007,10,2025-02-09,kolkata,upi,delivered,amul butter 500g,dairy,285
+ord1717,p017,4,2025-02-21,kolkata,upi,returned,tropicana orange 1l,beverages,120
+ord2305,p001,7,2025-12-02,mumbai,upi,delivered,tata salt 1kg,staples,22
+ord1342,p039,1,2025-01-06,chennai,credit_card,cancelled,sunfeast yippee noodles,ready to cook,14
+ord1525,p003,2,2025-01-29,bangalore,cash_on_delivery,delivered,fortune sunflower oil 1l,staples,135
+ord1021,p023,9,2025-11-02,delhi,upi,delivered,potato 1kg,vegetables,25
+ord2800,p033,7,2025-02-21,pune,cash_on_delivery,delivered,colgate strong teeth 300g,personal care,129
+ord2345,p022,1,2024-12-21,hyderabad,upi,returned,onion 1kg,vegetables,28
+ord2837,p006,7,2024-02-12,mumbai,net banking,delivered,amul full cream milk 1l,dairy,68
+ord2954,p023,1,2025-01-24,bangalore,credit_card,delivered,potato 1kg,vegetables,25
+ord1698,p019,2,2025-01-10,kolkata,debit_card,returned,tata tea premium 500g,beverages,220
+ord1981,p003,2,2024-12-18,chennai,cash_on_delivery,returned,fortune sunflower oil 1l,staples,135
+ord2089,p001,6,2024-12-22,chennai,cash_on_delivery,delivered,tata salt 1kg,staples,22
+ord1481,p024,10,2024-12-28,pune,credit_card,cancelled,spinach 250g,vegetables,20
+ord2951,p003,2,2025-01-09,ahmedabad,cash_on_delivery,delivered,fortune sunflower oil 1l,staples,135
+ord2999,p017,10,2025-02-02,delhi,debit_card,returned,tropicana orange 1l,beverages,120
+ord2401,p034,10,2024-12-07,bangalore,credit_card,returned,dettol handwash 250ml,personal care,89
+ord1543,p015,3,2025-01-22,delhi,upi,delivered,parle-g biscuits 800g,snacks,65
+ord1784,p016,5,2024-12-15,mumbai,cash_on_delivery,returned,coca-cola 750ml,beverages,40
+ord2540,p026,2,2024-12-19,delhi,debit_card,delivered,surf excel 1kg,household,195
+ord1100,p020,7,2024-12-21,pune,debit_card,returned,nescafe classic 50g,beverages,185
+ord2686,p039,2,2025-02-18,ahmedabad,credit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord1497,p004,5,2025-02-08,kolkata,cash_on_delivery,cancelled,india gate basmati 1kg,staples,110
+ord1704,p011,1,2024-12-11,kolkata,net banking,delivered,lay's classic salted 26g,snacks,20
+ord2036,p006,7,2024-12-17,mumbai,cash_on_delivery,delivered,amul full cream milk 1l,dairy,68
+ord1280,p008,3,2024-12-27,chennai,debit_card,returned,mother dairy curd 400g,dairy,48
+ord1186,p013,8,2024-12-26,ahmedabad,upi,delivered,britannia good day 120g,snacks,30
+ord1626,p024,1,2024-12-01,pune,upi,cancelled,spinach 250g,vegetables,20
+ord2489,p039,8,2024-12-19,bangalore,debit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord2551,p038,9,2025-01-03,hyderabad,debit_card,delivered,knorr soup tomato 44g,ready to cook,40
+ord1803,p022,3,2025-01-17,ahmedabad,cash_on_delivery,delivered,onion 1kg,vegetables,28
+ord1481,p021,0,2025-01-28,kolkata,debit_card,cancelled,tomato 1kg,vegetables,35
+ord2601,p008,1,2025-01-22,kolkata,upi,delivered,mother dairy curd 400g,dairy,48
+ord2671,p018,8,2024-10-12,bangalore,net banking,delivered,red bull 250ml,beverages,125
+ord1391,p027,0,2025-02-17,mumbai,credit_card,delivered,vim dishwash bar 200g,household,35
+ord2531,p039,1,2024-12-11,delhi,debit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord1817,p030,9,2024-12-09,mumbai,net banking,delivered,lizol disinfectant 1l,household,175
+ord1005,p013,3,2024-12-27,chennai,upi,cancelled,britannia good day 120g,snacks,30
+ord2819,p023,9,2025-02-08,mumbai,credit_card,returned,potato 1kg,vegetables,25
+ord1530,p006,2,2024-12-21,ahmedabad,upi,cancelled,amul full cream milk 1l,dairy,68
+ord2425,p029,3,2025-02-15,kolkata,credit_card,delivered,colin glass cleaner 500ml,household,95
+ord2707,p017,2,2024-11-12,bangalore,credit_card,delivered,tropicana orange 1l,beverages,120
+ord1481,p022,10,2024-12-04,delhi,credit_card,returned,onion 1kg,vegetables,28
+ord2715,p020,8,2024-10-12,mumbai,net banking,cancelled,nescafe classic 50g,beverages,185
+ord1047,p006,10,2024-12-28,pune,debit_card,delivered,amul full cream milk 1l,dairy,68
+ord2464,p036,2,2025-02-26,pune,credit_card,delivered,maggi noodles 70g,ready to cook,14
+ord2370,p023,3,2025-02-09,hyderabad,net banking,cancelled,potato 1kg,vegetables,25
+ord1517,p032,6,2025-01-09,bangalore,debit_card,cancelled,head & shoulders 340ml,personal care,299
+ord1471,p030,7,2024-12-15,delhi,upi,cancelled,lizol disinfectant 1l,household,175
+ord2208,p023,5,2025-01-24,bangalore,upi,delivered,potato 1kg,vegetables,25
+ord1442,p026,8,2024-12-08,chennai,credit_card,delivered,surf excel 1kg,household,195
+ord1294,p002,9,2024-12-21,hyderabad,credit_card,cancelled,aashirvaad atta 5kg,staples,275
+ord1107,p006,6,2025-01-25,delhi,credit_card,returned,amul full cream milk 1l,dairy,68
+ord1496,p034,2,2025-01-19,hyderabad,cash_on_delivery,delivered,dettol handwash 250ml,personal care,89
+ord1395,p002,8,2024-12-26,delhi,cash_on_delivery,delivered,aashirvaad atta 5kg,staples,275
+ord1336,p011,3,2025-02-19,bangalore,credit_card,delivered,lay's classic salted 26g,snacks,20
+ord1481,p022,5,2025-01-12,kolkata,debit_card,returned,onion 1kg,vegetables,28
+ord1589,p005,6,2024-12-17,chennai,upi,delivered,toor dal 500g,staples,68
+ord2989,p015,9,2025-02-27,mumbai,upi,returned,parle-g biscuits 800g,snacks,65
+ord2669,p023,8,2025-02-14,bangalore,debit_card,delivered,potato 1kg,vegetables,25
+ord1834,p015,2,2025-01-30,pune,debit_card,delivered,parle-g biscuits 800g,snacks,65
+ord2411,p026,2,2025-02-27,kolkata,net banking,delivered,surf excel 1kg,household,195
+ord1384,p017,1,2025-01-22,ahmedabad,upi,cancelled,tropicana orange 1l,beverages,120
+ord1354,p038,9,2025-02-05,delhi,upi,cancelled,knorr soup tomato 44g,ready to cook,40
+ord1860,p018,2,2025-01-16,mumbai,net banking,cancelled,red bull 250ml,beverages,125
+ord2223,p011,10,2025-01-19,delhi,net banking,returned,lay's classic salted 26g,snacks,20
+ord2135,p034,1,2024-12-04,mumbai,upi,cancelled,dettol handwash 250ml,personal care,89
+ord1267,p028,3,2024-12-13,mumbai,upi,returned,harpic power plus 500ml,household,115
+ord2522,p014,7,2024-01-12,kolkata,cash_on_delivery,cancelled,haldiram bhujia 200g,snacks,80
+ord1733,p022,10,2024-12-31,mumbai,debit_card,delivered,onion 1kg,vegetables,28
+ord2988,p010,4,2024-12-17,chennai,net banking,cancelled,nandini paneer 200g,dairy,90
+ord1897,p038,10,2025-02-23,kolkata,cash_on_delivery,delivered,knorr soup tomato 44g,ready to cook,40
+ord1113,p002,4,2025-01-28,mumbai,debit_card,delivered,aashirvaad atta 5kg,staples,275
+ord2684,p021,7,2025-07-01,delhi,cash_on_delivery,delivered,tomato 1kg,vegetables,35
+ord1143,p021,9,2024-12-14,pune,debit_card,delivered,tomato 1kg,vegetables,35
+ord2979,p013,1,2024-12-12,kolkata,cash_on_delivery,delivered,britannia good day 120g,snacks,30
+ord1377,p012,1,2025-01-28,hyderabad,cash_on_delivery,delivered,bingo mad angles 90g,snacks,35
+ord2207,p022,2,2024-12-30,delhi,credit_card,delivered,onion 1kg,vegetables,28
+ord2834,p031,3,2024-12-03,mumbai,net banking,cancelled,dove soap 100g,personal care,55
+ord2654,p015,3,2024-12-31,kolkata,upi,delivered,parle-g biscuits 800g,snacks,65
+ord1457,p039,5,2025-02-08,pune,debit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord1771,p028,2,2025-01-25,hyderabad,upi,delivered,harpic power plus 500ml,household,115
+ord2603,p031,9,2025-02-17,mumbai,net banking,delivered,dove soap 100g,personal care,55
+ord1833,p007,10,2024-12-01,hyderabad,credit_card,delivered,amul butter 500g,dairy,285
+ord2297,p030,6,2025-01-30,mumbai,net banking,cancelled,lizol disinfectant 1l,household,175
+ord2167,p038,10,2024-12-30,hyderabad,debit_card,cancelled,knorr soup tomato 44g,ready to cook,40
+ord1481,p012,1,2025-02-27,bangalore,debit_card,delivered,bingo mad angles 90g,snacks,35
+ord1084,p023,9,2025-02-13,pune,cash_on_delivery,returned,potato 1kg,vegetables,25
+ord2867,p015,5,2024-12-22,mumbai,upi,delivered,parle-g biscuits 800g,snacks,65
+ord2702,p013,10,2025-01-13,chennai,cash_on_delivery,cancelled,britannia good day 120g,snacks,30
+ord2526,p001,2,2025-01-21,chennai,debit_card,cancelled,tata salt 1kg,staples,22
+ord1900,p006,0,2025-01-29,hyderabad,cash_on_delivery,delivered,amul full cream milk 1l,dairy,68
+ord2790,p002,6,2024-12-28,hyderabad,credit_card,cancelled,aashirvaad atta 5kg,staples,275
+ord1903,p030,3,2025-01-25,chennai,cash_on_delivery,delivered,lizol disinfectant 1l,household,175
+ord1907,p005,4,2025-01-18,mumbai,cash_on_delivery,returned,toor dal 500g,staples,68
+ord1070,p006,7,2025-01-26,pune,net banking,delivered,amul full cream milk 1l,dairy,68
+ord1976,p015,4,2024-12-26,bangalore,cash_on_delivery,delivered,parle-g biscuits 800g,snacks,65
+ord2123,p028,4,2024-12-14,ahmedabad,credit_card,delivered,harpic power plus 500ml,household,115
+ord1840,p002,1,2024-12-13,chennai,credit_card,cancelled,aashirvaad atta 5kg,staples,275
+ord1271,p025,4,2025-01-13,delhi,cash_on_delivery,cancelled,capsicum 500g,vegetables,45
+ord2064,p005,4,2024-07-12,ahmedabad,credit_card,returned,toor dal 500g,staples,68
+ord1448,p003,6,2025-12-01,mumbai,net banking,returned,fortune sunflower oil 1l,staples,135
+ord1139,p003,9,2025-01-26,chennai,cash_on_delivery,delivered,fortune sunflower oil 1l,staples,135
+ord1836,p036,9,2025-01-29,pune,cash_on_delivery,delivered,maggi noodles 70g,ready to cook,14
+ord1373,p036,9,2024-12-19,bangalore,debit_card,delivered,maggi noodles 70g,ready to cook,14
+ord2898,p015,2,2024-12-13,chennai,credit_card,cancelled,parle-g biscuits 800g,snacks,65
+ord2961,p030,5,2024-08-12,hyderabad,net banking,delivered,lizol disinfectant 1l,household,175
+ord1777,p023,1,2024-12-11,ahmedabad,credit_card,delivered,potato 1kg,vegetables,25
+ord1889,p035,10,2024-12-15,ahmedabad,credit_card,delivered,himalaya face wash 100ml,personal care,105
+ord2628,p031,9,2024-02-12,chennai,upi,delivered,dove soap 100g,personal care,55
+ord1854,p012,2,2025-01-06,kolkata,net banking,delivered,bingo mad angles 90g,snacks,35
+ord1481,p023,2,2025-02-28,delhi,upi,returned,potato 1kg,vegetables,25
+ord2083,p031,5,2025-01-20,ahmedabad,upi,delivered,dove soap 100g,personal care,55
+ord1779,p021,6,2024-12-15,ahmedabad,upi,returned,tomato 1kg,vegetables,35
+ord1529,p017,6,2025-01-07,kolkata,cash_on_delivery,returned,tropicana orange 1l,beverages,120
+ord2040,p035,4,2024-12-28,hyderabad,cash_on_delivery,delivered,himalaya face wash 100ml,personal care,105
+ord2929,p009,6,2025-01-24,kolkata,debit_card,delivered,amul cheese slices 200g,dairy,135
+ord2959,p012,2,2025-02-18,mumbai,net banking,delivered,bingo mad angles 90g,snacks,35
+ord2319,p016,1,2025-01-19,mumbai,credit_card,delivered,coca-cola 750ml,beverages,40
+ord1417,p035,3,2025-01-13,delhi,credit_card,delivered,himalaya face wash 100ml,personal care,105
+ord1051,p005,8,2025-02-01,delhi,upi,delivered,toor dal 500g,staples,68
+ord1481,p003,8,2025-02-18,mumbai,net banking,delivered,fortune sunflower oil 1l,staples,135
+ord1692,p001,3,2025-01-23,bangalore,credit_card,delivered,tata salt 1kg,staples,22
+ord2039,p026,2,2024-12-02,pune,upi,delivered,surf excel 1kg,household,195
+ord1607,p028,2,2025-03-02,mumbai,credit_card,delivered,harpic power plus 500ml,household,115
+ord1431,p031,9,2024-12-06,kolkata,upi,delivered,dove soap 100g,personal care,55
+ord2181,p028,3,2025-02-02,bangalore,credit_card,delivered,harpic power plus 500ml,household,115
+ord1481,p011,3,2024-12-04,bangalore,debit_card,delivered,lay's classic salted 26g,snacks,20
+ord2735,p026,9,2025-01-17,mumbai,upi,delivered,surf excel 1kg,household,195
+ord1481,p019,10,2024-12-16,delhi,cash_on_delivery,cancelled,tata tea premium 500g,beverages,220
+ord1934,p036,6,2024-12-28,bangalore,upi,cancelled,maggi noodles 70g,ready to cook,14
+ord2158,p015,8,2025-02-16,delhi,upi,delivered,parle-g biscuits 800g,snacks,65
+ord2049,p009,5,2025-01-18,kolkata,upi,delivered,amul cheese slices 200g,dairy,135
+ord1307,p017,7,2025-01-31,ahmedabad,credit_card,delivered,tropicana orange 1l,beverages,120
+ord1945,p002,6,2025-01-14,ahmedabad,credit_card,delivered,aashirvaad atta 5kg,staples,275
+ord1700,p006,0,2025-02-03,pune,cash_on_delivery,cancelled,amul full cream milk 1l,dairy,68
+ord1857,p013,3,2024-12-13,kolkata,upi,delivered,britannia good day 120g,snacks,30
+ord1720,p004,5,2024-12-17,delhi,net banking,cancelled,india gate basmati 1kg,staples,110
+ord1481,p022,8,2025-01-09,hyderabad,net_banking,cancelled,onion 1kg,vegetables,28
+ord2811,p011,1,2025-02-02,ahmedabad,net banking,returned,lay's classic salted 26g,snacks,20
+ord1921,p016,3,2024-12-15,delhi,net banking,cancelled,coca-cola 750ml,beverages,40
+ord1629,p027,4,2024-12-21,pune,cash_on_delivery,cancelled,vim dishwash bar 200g,household,35
+ord2396,p034,10,2024-12-01,kolkata,upi,returned,dettol handwash 250ml,personal care,89
+ord1481,p001,2,2024-12-08,kolkata,net banking,delivered,tata salt 1kg,staples,22
+ord2180,p011,1,2024-12-06,delhi,cash_on_delivery,delivered,lay's classic salted 26g,snacks,20
+ord1105,p039,10,2025-01-30,hyderabad,debit_card,cancelled,sunfeast yippee noodles,ready to cook,14
+ord1221,p033,8,2024-12-12,pune,upi,delivered,colgate strong teeth 300g,personal care,129
+ord1216,p003,3,2025-02-11,mumbai,cash_on_delivery,cancelled,fortune sunflower oil 1l,staples,135
+ord2993,p006,2,2025-02-03,pune,upi,delivered,amul full cream milk 1l,dairy,68
+ord1847,p008,3,2025-01-03,mumbai,upi,delivered,mother dairy curd 400g,dairy,48
+ord1978,p023,3,2025-01-10,ahmedabad,cash_on_delivery,delivered,potato 1kg,vegetables,25
+ord1613,p015,9,2024-12-11,chennai,net_banking,delivered,parle-g biscuits 800g,snacks,65
+ord2188,p035,10,2024-12-05,hyderabad,net banking,delivered,himalaya face wash 100ml,personal care,105
+ord1738,p020,6,2024-12-31,ahmedabad,cash_on_delivery,returned,nescafe classic 50g,beverages,185
+ord2196,p006,6,2024-12-11,pune,credit_card,delivered,amul full cream milk 1l,dairy,68
+ord1481,p004,6,2025-01-09,kolkata,upi,delivered,india gate basmati 1kg,staples,110
+ord2791,p020,3,2024-12-29,mumbai,debit_card,delivered,nescafe classic 50g,beverages,185
+ord1991,p019,6,2025-01-06,hyderabad,cash_on_delivery,delivered,tata tea premium 500g,beverages,220
+ord1333,p023,2,2025-01-13,kolkata,net_banking,delivered,potato 1kg,vegetables,25
+ord1593,p040,7,2024-12-17,kolkata,cash_on_delivery,cancelled,haldiram dal makhani 300g,ready to cook,85
+ord2964,p033,2,2025-07-01,mumbai,cash_on_delivery,delivered,colgate strong teeth 300g,personal care,129
+ord1041,p030,2,2025-01-18,chennai,cash_on_delivery,delivered,lizol disinfectant 1l,household,175
+ord2836,p008,10,2024-12-07,delhi,debit_card,delivered,mother dairy curd 400g,dairy,48
+ord1706,p037,2,2025-01-20,kolkata,credit_card,delivered,mtr upma mix 200g,ready to cook,55
+ord1190,p011,8,2025-05-01,hyderabad,net banking,delivered,lay's classic salted 26g,snacks,20
+ord2109,p006,0,2025-10-02,hyderabad,upi,delivered,amul full cream milk 1l,dairy,68
+ord1240,p011,9,2025-01-20,mumbai,net banking,delivered,lay's classic salted 26g,snacks,20
+ord1481,p017,2,2025-02-28,delhi,cash_on_delivery,delivered,tropicana orange 1l,beverages,120
+ord1899,p020,2,2025-01-07,mumbai,credit_card,cancelled,nescafe classic 50g,beverages,185
+ord2404,p023,1,2025-01-14,pune,credit_card,returned,potato 1kg,vegetables,25
+ord2202,p011,7,2024-12-12,mumbai,debit_card,delivered,lay's classic salted 26g,snacks,20
+ord1089,p030,3,2025-01-13,pune,upi,delivered,lizol disinfectant 1l,household,175
+ord2093,p008,2,2025-10-01,hyderabad,cash_on_delivery,delivered,mother dairy curd 400g,dairy,48
+ord1576,p026,2,2025-01-29,hyderabad,credit_card,delivered,surf excel 1kg,household,195
+ord2112,p018,5,2024-12-15,kolkata,net banking,delivered,red bull 250ml,beverages,125
+ord2980,p019,7,2025-05-02,kolkata,net banking,cancelled,tata tea premium 500g,beverages,220
+ord1001,p023,2,2024-04-12,chennai,credit_card,delivered,potato 1kg,vegetables,25
+ord1239,p025,1,2025-02-08,kolkata,net banking,delivered,capsicum 500g,vegetables,45
+ord2946,p011,2,2025-01-26,pune,credit_card,delivered,lay's classic salted 26g,snacks,20
+ord2711,p015,9,2025-01-11,ahmedabad,net banking,cancelled,parle-g biscuits 800g,snacks,65
+ord2024,p037,3,2025-02-19,bangalore,net banking,delivered,mtr upma mix 200g,ready to cook,55
+ord2720,p020,8,2025-02-13,kolkata,cash_on_delivery,delivered,nescafe classic 50g,beverages,185
+ord2712,p008,6,2024-12-13,bangalore,credit_card,delivered,mother dairy curd 400g,dairy,48
+ord1861,p001,6,2025-11-01,chennai,upi,delivered,tata salt 1kg,staples,22
+ord2189,p019,8,2025-02-19,delhi,upi,delivered,tata tea premium 500g,beverages,220
+ord1481,p024,3,2024-12-11,mumbai,upi,returned,spinach 250g,vegetables,20
+ord1363,p030,8,2024-12-17,bangalore,cash_on_delivery,delivered,lizol disinfectant 1l,household,175
+ord1463,p018,8,2025-01-08,chennai,cash_on_delivery,delivered,red bull 250ml,beverages,125
+ord1467,p036,2,2025-02-26,chennai,debit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord2571,p028,5,2025-02-21,hyderabad,upi,delivered,harpic power plus 500ml,household,115
+ord2880,p005,0,2025-01-16,pune,cash_on_delivery,delivered,toor dal 500g,staples,68
+ord1968,p002,1,2025-02-26,delhi,cash_on_delivery,delivered,aashirvaad atta 5kg,staples,275
+ord2937,p035,3,2024-12-31,pune,cash_on_delivery,delivered,himalaya face wash 100ml,personal care,105
+ord1164,p023,1,2024-12-08,mumbai,upi,returned,potato 1kg,vegetables,25
+ord1478,p004,6,2024-12-22,delhi,debit_card,returned,india gate basmati 1kg,staples,110
+ord1481,p004,2,2025-02-09,mumbai,upi,delivered,india gate basmati 1kg,staples,110
+ord1932,p022,10,2025-02-24,kolkata,upi,cancelled,onion 1kg,vegetables,28
+ord2203,p029,9,2024-01-12,chennai,debit_card,delivered,colin glass cleaner 500ml,household,95
+ord2344,p023,3,2024-12-29,bangalore,upi,cancelled,potato 1kg,vegetables,25
+ord1665,p026,2,2025-02-24,kolkata,credit_card,delivered,surf excel 1kg,household,195
+ord1636,p014,6,2025-02-23,bangalore,upi,delivered,haldiram bhujia 200g,snacks,80
+ord1460,p036,7,2025-01-16,kolkata,credit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord2698,p010,9,2025-02-26,bangalore,credit_card,delivered,nandini paneer 200g,dairy,90
+ord1795,p027,3,2024-12-28,kolkata,net banking,delivered,vim dishwash bar 200g,household,35
+ord1020,p024,6,2025-02-11,pune,debit_card,delivered,spinach 250g,vegetables,20
+ord1125,p024,1,2025-02-16,pune,net banking,delivered,spinach 250g,vegetables,20
+ord1893,p030,6,2024-12-22,bangalore,net_banking,cancelled,lizol disinfectant 1l,household,175
+ord2367,p024,8,2024-12-28,hyderabad,credit_card,delivered,spinach 250g,vegetables,20
+ord2985,p037,2,2025-01-24,ahmedabad,debit_card,cancelled,mtr upma mix 200g,ready to cook,55
+ord1937,p023,4,2025-01-10,ahmedabad,credit_card,cancelled,potato 1kg,vegetables,25
+ord1481,p023,9,2025-02-06,ahmedabad,credit_card,cancelled,potato 1kg,vegetables,25
+ord1929,p036,2,2025-02-27,ahmedabad,debit_card,delivered,maggi noodles 70g,ready to cook,14
+ord2142,p020,5,2025-10-02,mumbai,debit_card,cancelled,nescafe classic 50g,beverages,185
+ord1237,p022,5,2024-12-26,delhi,upi,delivered,onion 1kg,vegetables,28
+ord1531,p033,2,2025-03-02,mumbai,upi,delivered,colgate strong teeth 300g,personal care,129
+ord2602,p016,2,2024-12-28,mumbai,cash_on_delivery,delivered,coca-cola 750ml,beverages,40
+ord1789,p001,8,2025-01-09,pune,debit_card,returned,tata salt 1kg,staples,22
+ord1918,p007,4,2024-12-24,mumbai,credit_card,cancelled,amul butter 500g,dairy,285
+ord1490,p019,9,2025-02-24,bangalore,upi,cancelled,tata tea premium 500g,beverages,220
+ord1428,p012,2,2025-08-01,kolkata,upi,cancelled,bingo mad angles 90g,snacks,35
+ord1657,p016,3,2024-12-22,hyderabad,credit_card,delivered,coca-cola 750ml,beverages,40
+ord2210,p006,2,2025-01-17,chennai,credit_card,returned,amul full cream milk 1l,dairy,68
+ord2138,p006,0,2025-01-06,mumbai,debit_card,delivered,amul full cream milk 1l,dairy,68
+ord2293,p037,1,2025-02-22,hyderabad,upi,delivered,mtr upma mix 200g,ready to cook,55
+ord2300,p001,6,2024-12-12,bangalore,cash_on_delivery,returned,tata salt 1kg,staples,22
+ord2473,p011,1,2024-12-16,hyderabad,cash_on_delivery,delivered,lay's classic salted 26g,snacks,20
+ord2108,p003,2,2025-12-01,chennai,upi,delivered,fortune sunflower oil 1l,staples,135
+ord1519,p003,8,2025-01-29,kolkata,upi,returned,fortune sunflower oil 1l,staples,135
+ord1804,p020,6,2025-02-04,kolkata,debit_card,delivered,nescafe classic 50g,beverages,185
+ord1191,p013,7,2024-12-06,ahmedabad,net banking,delivered,britannia good day 120g,snacks,30
+ord1676,p012,2,2025-01-03,chennai,credit_card,delivered,bingo mad angles 90g,snacks,35
+ord1010,p036,2,2025-08-01,hyderabad,credit_card,delivered,maggi noodles 70g,ready to cook,14
+ord2722,p001,2,2024-12-21,bangalore,upi,delivered,tata salt 1kg,staples,22
+ord1481,p022,5,2025-01-12,hyderabad,credit_card,returned,onion 1kg,vegetables,28
+ord1266,p036,5,2025-02-21,hyderabad,cash_on_delivery,returned,maggi noodles 70g,ready to cook,14
+ord1151,p038,3,2024-12-05,chennai,cash_on_delivery,delivered,knorr soup tomato 44g,ready to cook,40
+ord1622,p003,2,2024-11-12,kolkata,upi,delivered,fortune sunflower oil 1l,staples,135
+ord2616,p029,9,2024-12-04,mumbai,cash_on_delivery,delivered,colin glass cleaner 500ml,household,95
+ord1117,p023,10,2025-01-16,bangalore,upi,delivered,potato 1kg,vegetables,25
+ord1926,p039,7,2025-01-01,kolkata,credit_card,cancelled,sunfeast yippee noodles,ready to cook,14
+ord2025,p004,1,2025-02-03,mumbai,net banking,delivered,india gate basmati 1kg,staples,110
+ord1842,p026,9,2025-01-22,bangalore,upi,delivered,surf excel 1kg,household,195
+ord1067,p023,5,2025-02-01,mumbai,net banking,delivered,potato 1kg,vegetables,25
+ord2466,p023,9,2025-02-12,pune,net banking,delivered,potato 1kg,vegetables,25
+ord1055,p016,10,2025-02-26,hyderabad,debit_card,cancelled,coca-cola 750ml,beverages,40
+ord2797,p011,2,2025-01-14,hyderabad,credit_card,cancelled,lay's classic salted 26g,snacks,20
+ord2417,p016,3,2025-02-02,ahmedabad,debit_card,cancelled,coca-cola 750ml,beverages,40
+ord2963,p040,2,2025-07-01,kolkata,upi,delivered,haldiram dal makhani 300g,ready to cook,85
+ord2515,p039,4,2025-01-22,chennai,credit_card,returned,sunfeast yippee noodles,ready to cook,14
+ord1930,p039,5,2025-01-23,mumbai,upi,returned,sunfeast yippee noodles,ready to cook,14
+ord1695,p033,7,2025-02-10,delhi,cash_on_delivery,delivered,colgate strong teeth 300g,personal care,129
+ord1452,p018,0,2024-12-27,mumbai,debit_card,delivered,red bull 250ml,beverages,125
+ord1025,p005,4,2025-01-09,pune,upi,returned,toor dal 500g,staples,68
+ord2883,p033,7,2025-01-27,hyderabad,credit_card,delivered,colgate strong teeth 300g,personal care,129
+ord1988,p003,4,2024-12-12,delhi,upi,delivered,fortune sunflower oil 1l,staples,135
+ord2194,p010,5,2025-08-02,bangalore,debit_card,returned,nandini paneer 200g,dairy,90
+ord2822,p009,2,2024-12-12,mumbai,credit_card,returned,amul cheese slices 200g,dairy,135
+ord2773,p002,1,2025-07-01,chennai,upi,returned,aashirvaad atta 5kg,staples,275
+ord1677,p006,5,2024-03-12,delhi,cash_on_delivery,returned,amul full cream milk 1l,dairy,68
+ord2485,p016,5,2025-01-15,hyderabad,credit_card,delivered,coca-cola 750ml,beverages,40
+ord1178,p008,10,2025-01-18,chennai,cash_on_delivery,delivered,mother dairy curd 400g,dairy,48
+ord1388,p040,6,2025-01-31,chennai,cash_on_delivery,cancelled,haldiram dal makhani 300g,ready to cook,85
+ord1501,p028,2,2025-09-02,pune,cash_on_delivery,cancelled,harpic power plus 500ml,household,115
+ord1309,p006,3,2025-01-22,bangalore,net banking,returned,amul full cream milk 1l,dairy,68
+ord2748,p037,6,2025-01-20,kolkata,debit_card,cancelled,mtr upma mix 200g,ready to cook,55
+ord2829,p033,1,2024-12-01,ahmedabad,credit_card,returned,colgate strong teeth 300g,personal care,129
+ord1624,p013,7,2025-01-13,pune,credit_card,returned,britannia good day 120g,snacks,30
+ord1167,p008,2,2025-02-28,hyderabad,debit_card,cancelled,mother dairy curd 400g,dairy,48
+ord1334,p016,1,2025-01-16,ahmedabad,cash_on_delivery,delivered,coca-cola 750ml,beverages,40
+ord1054,p003,0,2024-12-31,bangalore,net banking,delivered,fortune sunflower oil 1l,staples,135
+ord1251,p025,9,2025-02-18,kolkata,net banking,delivered,capsicum 500g,vegetables,45
+ord1707,p039,10,2024-12-19,hyderabad,debit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord2446,p002,7,2024-12-28,mumbai,debit_card,cancelled,aashirvaad atta 5kg,staples,275
+ord2778,p012,9,2025-01-26,bangalore,credit_card,cancelled,bingo mad angles 90g,snacks,35
+ord1481,p001,10,2025-02-24,chennai,credit_card,cancelled,tata salt 1kg,staples,22
+ord2516,p026,2,2024-12-14,delhi,cash_on_delivery,returned,surf excel 1kg,household,195
+ord2604,p021,10,2024-12-27,chennai,credit_card,cancelled,tomato 1kg,vegetables,35
+ord1520,p003,2,2024-12-06,delhi,net banking,delivered,fortune sunflower oil 1l,staples,135
+ord2676,p002,7,2025-02-02,chennai,upi,cancelled,aashirvaad atta 5kg,staples,275
+ord1481,p011,4,2024-12-19,hyderabad,credit_card,returned,lay's classic salted 26g,snacks,20
+ord1984,p039,7,2025-02-18,mumbai,net banking,delivered,sunfeast yippee noodles,ready to cook,14
+ord1173,p010,2,2025-01-18,bangalore,cash_on_delivery,delivered,nandini paneer 200g,dairy,90
+ord1669,p035,10,2025-01-12,pune,debit_card,cancelled,himalaya face wash 100ml,personal care,105
+ord1491,p033,8,2025-01-25,mumbai,net banking,delivered,colgate strong teeth 300g,personal care,129
+ord1919,p015,8,2024-12-28,ahmedabad,net banking,delivered,parle-g biscuits 800g,snacks,65
+ord1837,p007,6,2025-02-14,chennai,debit_card,delivered,amul butter 500g,dairy,285
+ord1481,p027,7,2025-02-26,chennai,debit_card,delivered,vim dishwash bar 200g,household,35
+ord2730,p036,3,2025-02-20,pune,debit_card,delivered,maggi noodles 70g,ready to cook,14
+ord2309,p015,0,2024-12-06,pune,credit_card,returned,parle-g biscuits 800g,snacks,65
+ord2273,p015,7,2025-01-01,pune,debit_card,cancelled,parle-g biscuits 800g,snacks,65
+ord1394,p029,2,2025-01-03,pune,upi,delivered,colin glass cleaner 500ml,household,95
+ord1611,p021,8,2024-12-27,hyderabad,net banking,delivered,tomato 1kg,vegetables,35
+ord2032,p017,8,2025-01-11,chennai,net banking,cancelled,tropicana orange 1l,beverages,120
+ord2547,p013,1,2025-01-05,kolkata,cash_on_delivery,delivered,britannia good day 120g,snacks,30
+ord2117,p016,2,2025-02-27,chennai,cash_on_delivery,returned,coca-cola 750ml,beverages,40
+ord2863,p037,5,2025-02-04,hyderabad,debit_card,delivered,mtr upma mix 200g,ready to cook,55
+ord1408,p021,4,2025-01-15,delhi,debit_card,returned,tomato 1kg,vegetables,35
+ord1475,p014,6,2024-12-28,hyderabad,cash_on_delivery,delivered,haldiram bhujia 200g,snacks,80
+ord2236,p031,6,2025-02-18,delhi,debit_card,delivered,dove soap 100g,personal care,55
+ord2826,p015,8,2024-12-19,delhi,cash_on_delivery,returned,parle-g biscuits 800g,snacks,65
+ord2615,p019,9,2024-12-09,ahmedabad,credit_card,delivered,tata tea premium 500g,beverages,220
+ord2054,p008,5,2025-02-17,bangalore,credit_card,returned,mother dairy curd 400g,dairy,48
+ord1566,p015,6,2025-01-27,pune,upi,delivered,parle-g biscuits 800g,snacks,65
+ord1752,p034,6,2024-12-16,kolkata,cash_on_delivery,delivered,dettol handwash 250ml,personal care,89
+ord1933,p036,8,2025-01-23,kolkata,upi,delivered,maggi noodles 70g,ready to cook,14
+ord2045,p034,8,2025-02-14,bangalore,cash_on_delivery,delivered,dettol handwash 250ml,personal care,89
+ord2760,p027,0,2024-10-12,kolkata,cash_on_delivery,cancelled,vim dishwash bar 200g,household,35
+ord1481,p023,3,2025-01-08,kolkata,credit_card,cancelled,potato 1kg,vegetables,25
+ord2774,p016,7,2024-12-14,mumbai,upi,returned,coca-cola 750ml,beverages,40
+ord2171,p022,3,2025-01-09,chennai,upi,returned,onion 1kg,vegetables,28
+ord1868,p009,6,2024-12-05,delhi,cash_on_delivery,delivered,amul cheese slices 200g,dairy,135
+ord1232,p028,4,2025-01-12,ahmedabad,upi,delivered,harpic power plus 500ml,household,115
+ord2772,p035,7,2024-12-24,ahmedabad,upi,delivered,himalaya face wash 100ml,personal care,105
+ord1288,p012,2,2025-01-16,chennai,credit_card,returned,bingo mad angles 90g,snacks,35
+ord1008,p002,7,2024-12-15,bangalore,credit_card,cancelled,aashirvaad atta 5kg,staples,275
+ord2872,p026,4,2025-02-06,pune,cash_on_delivery,delivered,surf excel 1kg,household,195
+ord1352,p003,10,2025-12-02,kolkata,cash_on_delivery,delivered,fortune sunflower oil 1l,staples,135
+ord1699,p022,8,2024-12-05,chennai,credit_card,delivered,onion 1kg,vegetables,28
+ord1284,p001,8,2025-01-02,hyderabad,net banking,returned,tata salt 1kg,staples,22
+ord2493,p001,1,2025-01-29,ahmedabad,net banking,delivered,tata salt 1kg,staples,22
+ord1481,p020,3,2025-02-19,delhi,net banking,cancelled,nescafe classic 50g,beverages,185
+ord2306,p034,9,2025-01-30,bangalore,net banking,delivered,dettol handwash 250ml,personal care,89
+ord1510,p015,3,2025-01-03,chennai,net banking,delivered,parle-g biscuits 800g,snacks,65
+ord2226,p006,8,2024-12-27,bangalore,upi,returned,amul full cream milk 1l,dairy,68
+ord1138,p011,9,2025-01-14,chennai,debit_card,delivered,lay's classic salted 26g,snacks,20
+ord1506,p008,3,2025-01-06,hyderabad,cash_on_delivery,delivered,mother dairy curd 400g,dairy,48
+ord1681,p006,2,2025-02-19,mumbai,upi,returned,amul full cream milk 1l,dairy,68
+ord1242,p014,1,2025-01-20,pune,debit_card,delivered,haldiram bhujia 200g,snacks,80
+ord1359,p009,4,2025-01-08,delhi,net banking,delivered,amul cheese slices 200g,dairy,135
+ord1568,p008,4,2025-01-13,mumbai,debit_card,delivered,mother dairy curd 400g,dairy,48
+ord1947,p025,6,2025-10-01,mumbai,net banking,delivered,capsicum 500g,vegetables,45
+ord2793,p014,3,2024-12-27,ahmedabad,upi,delivered,haldiram bhujia 200g,snacks,80
+ord1952,p003,3,2025-02-26,bangalore,net banking,delivered,fortune sunflower oil 1l,staples,135
+ord1802,p036,8,2025-02-19,ahmedabad,cash_on_delivery,delivered,maggi noodles 70g,ready to cook,14
+ord2187,p039,5,2025-02-15,mumbai,net banking,delivered,sunfeast yippee noodles,ready to cook,14
+ord1292,p006,5,2025-01-02,delhi,net banking,returned,amul full cream milk 1l,dairy,68
+ord2116,p011,5,2025-01-22,delhi,debit_card,delivered,lay's classic salted 26g,snacks,20
+ord1814,p015,4,2024-12-17,ahmedabad,cash_on_delivery,cancelled,parle-g biscuits 800g,snacks,65
+ord2804,p015,3,2025-02-15,kolkata,cash_on_delivery,cancelled,parle-g biscuits 800g,snacks,65
+ord2958,p036,6,2025-01-23,pune,net banking,returned,maggi noodles 70g,ready to cook,14
+ord2176,p037,9,2024-12-21,delhi,debit_card,delivered,mtr upma mix 200g,ready to cook,55
+ord2145,p003,7,2024-06-12,kolkata,debit_card,returned,fortune sunflower oil 1l,staples,135
+ord1766,p007,3,2025-01-03,kolkata,net banking,delivered,amul butter 500g,dairy,285
+ord2511,p019,4,2025-02-12,chennai,credit_card,returned,tata tea premium 500g,beverages,220
+ord1142,p002,1,2024-12-23,kolkata,credit_card,returned,aashirvaad atta 5kg,staples,275
+ord2672,p037,2,2025-01-11,kolkata,net banking,cancelled,mtr upma mix 200g,ready to cook,55
+ord1253,p025,7,2024-04-12,ahmedabad,debit_card,delivered,capsicum 500g,vegetables,45
+ord1109,p009,4,2024-12-20,kolkata,upi,cancelled,amul cheese slices 200g,dairy,135
+ord2399,p033,6,2024-12-04,mumbai,net banking,cancelled,colgate strong teeth 300g,personal care,129
+ord1923,p032,3,2025-01-16,hyderabad,net banking,delivered,head & shoulders 340ml,personal care,299
+ord2221,p009,8,2025-02-09,ahmedabad,net banking,returned,amul cheese slices 200g,dairy,135
+ord2445,p021,2,2025-02-18,ahmedabad,debit_card,returned,tomato 1kg,vegetables,35
+ord1235,p017,7,2024-12-04,kolkata,credit_card,cancelled,tropicana orange 1l,beverages,120
+ord2771,p008,6,2024-12-08,mumbai,debit_card,delivered,mother dairy curd 400g,dairy,48
+ord1481,p026,4,2024-12-29,delhi,credit_card,delivered,surf excel 1kg,household,195
+ord1268,p015,8,2025-01-28,chennai,cash_on_delivery,cancelled,parle-g biscuits 800g,snacks,65
+ord1481,p021,7,2024-05-12,pune,credit_card,returned,tomato 1kg,vegetables,35
+ord1470,p020,2,2025-01-13,bangalore,debit_card,delivered,nescafe classic 50g,beverages,185
+ord1032,p031,4,2025-02-16,pune,cash_on_delivery,delivered,dove soap 100g,personal care,55
+ord2322,p002,8,2025-01-06,mumbai,cash_on_delivery,delivered,aashirvaad atta 5kg,staples,275
+ord2865,p036,7,2025-07-01,hyderabad,credit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord2454,p023,5,2025-02-20,ahmedabad,cash_on_delivery,delivered,potato 1kg,vegetables,25
+ord2474,p036,2,2025-01-08,hyderabad,cash_on_delivery,delivered,maggi noodles 70g,ready to cook,14
+ord1481,p028,7,2025-02-05,delhi,upi,cancelled,harpic power plus 500ml,household,115
+ord1068,p011,5,2024-04-12,mumbai,debit_card,cancelled,lay's classic salted 26g,snacks,20
+ord2166,p038,7,2025-01-22,mumbai,net_banking,delivered,knorr soup tomato 44g,ready to cook,40
+ord1513,p022,2,2024-12-01,bangalore,cash_on_delivery,returned,onion 1kg,vegetables,28
+ord2567,p006,4,2024-10-12,pune,debit_card,returned,amul full cream milk 1l,dairy,68
+ord1042,p029,4,2025-01-01,hyderabad,upi,cancelled,colin glass cleaner 500ml,household,95
+ord2397,p003,5,2024-12-29,pune,upi,returned,fortune sunflower oil 1l,staples,135
+ord2248,p039,2,2025-02-24,chennai,net banking,delivered,sunfeast yippee noodles,ready to cook,14
+ord2841,p005,3,2024-12-01,mumbai,upi,cancelled,toor dal 500g,staples,68
+ord2542,p002,7,2024-04-12,mumbai,debit_card,returned,aashirvaad atta 5kg,staples,275
+ord2403,p009,0,2025-01-29,ahmedabad,upi,cancelled,amul cheese slices 200g,dairy,135
+ord2471,p003,1,2025-02-23,pune,net banking,delivered,fortune sunflower oil 1l,staples,135
+ord1662,p002,5,2025-02-24,hyderabad,cash_on_delivery,returned,aashirvaad atta 5kg,staples,275
+ord2934,p003,3,2025-02-01,chennai,debit_card,delivered,fortune sunflower oil 1l,staples,135
+ord1822,p019,0,2025-01-18,mumbai,cash_on_delivery,cancelled,tata tea premium 500g,beverages,220
+ord1171,p027,4,2025-02-03,pune,upi,delivered,vim dishwash bar 200g,household,35
+ord2256,p002,0,2025-01-15,hyderabad,upi,delivered,aashirvaad atta 5kg,staples,275
+ord2206,p039,0,2024-12-16,delhi,cash_on_delivery,returned,sunfeast yippee noodles,ready to cook,14
+ord1224,p012,4,2025-04-01,bangalore,upi,delivered,bingo mad angles 90g,snacks,35
+ord1612,p007,3,2025-01-31,delhi,debit_card,delivered,amul butter 500g,dairy,285
+ord1957,p011,4,2025-02-26,mumbai,net banking,returned,lay's classic salted 26g,snacks,20
+ord1880,p018,8,2025-01-01,chennai,debit_card,delivered,red bull 250ml,beverages,125
+ord2260,p039,9,2024-12-29,chennai,net banking,delivered,sunfeast yippee noodles,ready to cook,14
+ord1526,p011,7,2025-01-20,mumbai,debit_card,delivered,lay's classic salted 26g,snacks,20
+ord2972,p036,9,2025-02-21,mumbai,credit_card,returned,maggi noodles 70g,ready to cook,14
+ord1673,p016,7,2025-02-04,kolkata,net banking,cancelled,coca-cola 750ml,beverages,40
+ord2341,p039,1,2025-01-16,hyderabad,upi,cancelled,sunfeast yippee noodles,ready to cook,14
+ord1610,p022,1,2025-01-18,pune,credit_card,delivered,onion 1kg,vegetables,28
+ord1793,p034,5,2025-02-26,kolkata,upi,cancelled,dettol handwash 250ml,personal care,89
+ord1332,p024,9,2024-12-23,chennai,debit_card,delivered,spinach 250g,vegetables,20
+ord2375,p008,6,2025-02-10,chennai,upi,cancelled,mother dairy curd 400g,dairy,48
+ord1464,p036,4,2025-01-23,bangalore,cash_on_delivery,returned,maggi noodles 70g,ready to cook,14
+ord1092,p040,4,2024-12-08,mumbai,credit_card,delivered,haldiram dal makhani 300g,ready to cook,85
+ord1456,p013,9,2025-01-17,ahmedabad,net banking,returned,britannia good day 120g,snacks,30
+ord2904,p023,3,2025-02-18,mumbai,debit_card,delivered,potato 1kg,vegetables,25
+ord2776,p011,3,2025-07-02,chennai,cash_on_delivery,delivered,lay's classic salted 26g,snacks,20
+ord2027,p026,8,2024-12-25,mumbai,net banking,cancelled,surf excel 1kg,household,195
+ord1211,p006,7,2024-12-05,kolkata,credit_card,delivered,amul full cream milk 1l,dairy,68
+ord1614,p027,9,2024-12-26,bangalore,credit_card,delivered,vim dishwash bar 200g,household,35
+ord2346,p003,9,2024-12-26,delhi,cash_on_delivery,delivered,fortune sunflower oil 1l,staples,135
+ord1481,p014,7,2025-01-12,bangalore,net banking,delivered,haldiram bhujia 200g,snacks,80
+ord2779,p039,0,2025-10-02,mumbai,net_banking,cancelled,sunfeast yippee noodles,ready to cook,14
+ord2622,p026,0,2025-01-24,chennai,net banking,cancelled,surf excel 1kg,household,195
+ord2058,p026,6,2025-01-27,mumbai,cash_on_delivery,delivered,surf excel 1kg,household,195
+ord2073,p028,0,2025-02-20,chennai,credit_card,delivered,harpic power plus 500ml,household,115
+ord2118,p040,6,2025-02-09,bangalore,upi,delivered,haldiram dal makhani 300g,ready to cook,85
+ord1578,p009,2,2024-12-26,mumbai,credit_card,returned,amul cheese slices 200g,dairy,135
+ord2945,p033,7,2024-12-04,hyderabad,cash_on_delivery,delivered,colgate strong teeth 300g,personal care,129
+ord1302,p019,4,2024-12-12,kolkata,debit_card,delivered,tata tea premium 500g,beverages,220
+ord2022,p021,10,2024-12-19,pune,debit_card,delivered,tomato 1kg,vegetables,35
+ord1193,p002,6,2025-01-14,chennai,net banking,delivered,aashirvaad atta 5kg,staples,275
+ord1380,p003,9,2025-02-03,delhi,credit_card,cancelled,fortune sunflower oil 1l,staples,135
+ord1853,p013,7,2025-01-30,kolkata,credit_card,returned,britannia good day 120g,snacks,30
+ord2304,p037,1,2024-12-14,pune,debit_card,delivered,mtr upma mix 200g,ready to cook,55
+ord1135,p033,2,2025-01-01,mumbai,net banking,returned,colgate strong teeth 300g,personal care,129
+ord2412,p013,6,2025-02-14,chennai,debit_card,delivered,britannia good day 120g,snacks,30
+ord2619,p023,8,2024-12-24,chennai,debit_card,returned,potato 1kg,vegetables,25
+ord2340,p005,5,2024-12-20,mumbai,debit_card,delivered,toor dal 500g,staples,68
+ord1863,p006,2,2025-02-20,delhi,cash_on_delivery,delivered,amul full cream milk 1l,dairy,68
+ord2611,p039,5,2025-01-04,hyderabad,net banking,returned,sunfeast yippee noodles,ready to cook,14
+ord1006,p034,7,2024-12-08,hyderabad,upi,returned,dettol handwash 250ml,personal care,89
+ord1765,p001,6,2025-08-01,mumbai,net banking,delivered,tata salt 1kg,staples,22
+ord2828,p008,1,2025-10-01,delhi,debit_card,returned,mother dairy curd 400g,dairy,48
+ord2517,p036,1,2024-08-12,ahmedabad,net banking,delivered,maggi noodles 70g,ready to cook,14
+ord2675,p032,0,2025-01-12,pune,credit_card,cancelled,head & shoulders 340ml,personal care,299
+ord1773,p014,0,2024-12-10,delhi,credit_card,cancelled,haldiram bhujia 200g,snacks,80
+ord2975,p018,10,2025-02-04,ahmedabad,cash_on_delivery,delivered,red bull 250ml,beverages,125
+ord2589,p007,3,2025-01-24,delhi,cash_on_delivery,returned,amul butter 500g,dairy,285
+ord2766,p035,2,2025-01-08,pune,credit_card,returned,himalaya face wash 100ml,personal care,105
+ord2114,p007,6,2024-12-19,bangalore,upi,returned,amul butter 500g,dairy,285
+ord1223,p014,9,2025-01-23,hyderabad,net banking,delivered,haldiram bhujia 200g,snacks,80
+ord1892,p031,6,2024-12-30,hyderabad,debit_card,delivered,dove soap 100g,personal care,55
+ord1990,p036,2,2025-02-12,hyderabad,upi,cancelled,maggi noodles 70g,ready to cook,14
+ord2879,p011,4,2024-12-20,mumbai,credit_card,delivered,lay's classic salted 26g,snacks,20
+ord2355,p039,3,2024-12-09,kolkata,credit_card,returned,sunfeast yippee noodles,ready to cook,14
+ord1864,p036,5,2025-01-25,delhi,credit_card,delivered,maggi noodles 70g,ready to cook,14
+ord1022,p011,2,2025-02-22,mumbai,net banking,delivered,lay's classic salted 26g,snacks,20
+ord2908,p026,7,2024-12-15,hyderabad,upi,delivered,surf excel 1kg,household,195
+ord2500,p020,2,2024-12-15,kolkata,upi,delivered,nescafe classic 50g,beverages,185
+ord1095,p014,3,2025-09-01,pune,credit_card,delivered,haldiram bhujia 200g,snacks,80
+ord1989,p022,2,2024-12-24,ahmedabad,debit_card,cancelled,onion 1kg,vegetables,28
+ord1960,p036,6,2024-12-15,chennai,upi,returned,maggi noodles 70g,ready to cook,14
+ord1597,p010,4,2025-02-19,chennai,upi,cancelled,nandini paneer 200g,dairy,90
+ord1809,p006,9,2025-01-12,chennai,cash_on_delivery,cancelled,amul full cream milk 1l,dairy,68
+ord2593,p021,3,2024-12-23,chennai,credit_card,delivered,tomato 1kg,vegetables,35
+ord1987,p001,8,2025-01-13,delhi,credit_card,delivered,tata salt 1kg,staples,22
+ord2041,p006,2,2024-09-12,ahmedabad,net banking,returned,amul full cream milk 1l,dairy,68
+ord2978,p009,2,2024-12-22,chennai,debit_card,delivered,amul cheese slices 200g,dairy,135
+ord1401,p003,8,2025-02-28,ahmedabad,upi,delivered,fortune sunflower oil 1l,staples,135
+ord1024,p006,0,2025-01-26,kolkata,net banking,delivered,amul full cream milk 1l,dairy,68
+ord1798,p024,4,2025-02-16,hyderabad,cash_on_delivery,cancelled,spinach 250g,vegetables,20
+ord1425,p023,7,2024-12-23,ahmedabad,upi,delivered,potato 1kg,vegetables,25
+ord2110,p028,9,2025-02-26,hyderabad,cash_on_delivery,delivered,harpic power plus 500ml,household,115
+ord1347,p003,3,2025-02-18,pune,upi,delivered,fortune sunflower oil 1l,staples,135
+ord1908,p019,2,2025-02-13,delhi,credit_card,cancelled,tata tea premium 500g,beverages,220
+ord1379,p002,5,2025-07-01,ahmedabad,cash_on_delivery,returned,aashirvaad atta 5kg,staples,275
+ord2693,p022,3,2025-02-15,ahmedabad,net banking,returned,onion 1kg,vegetables,28
+ord1123,p023,1,2024-12-24,bangalore,cash_on_delivery,delivered,potato 1kg,vegetables,25
+ord1547,p033,2,2025-02-01,mumbai,upi,delivered,colgate strong teeth 300g,personal care,129
+ord1663,p019,1,2025-01-19,bangalore,upi,returned,tata tea premium 500g,beverages,220
+ord1498,p002,7,2025-02-23,mumbai,credit_card,delivered,aashirvaad atta 5kg,staples,275
+ord1407,p025,10,2025-01-25,pune,upi,delivered,capsicum 500g,vegetables,45
+ord1500,p002,6,2024-12-11,ahmedabad,cash_on_delivery,cancelled,aashirvaad atta 5kg,staples,275
+ord2070,p033,0,2025-02-09,ahmedabad,upi,returned,colgate strong teeth 300g,personal care,129
+ord2356,p023,7,2025-01-09,delhi,debit_card,delivered,potato 1kg,vegetables,25
+ord1535,p029,9,2025-01-16,hyderabad,credit_card,cancelled,colin glass cleaner 500ml,household,95
+ord2832,p034,10,2025-02-27,ahmedabad,cash_on_delivery,delivered,dettol handwash 250ml,personal care,89
+ord1058,p024,8,2025-05-01,bangalore,net banking,delivered,spinach 250g,vegetables,20
+ord1340,p014,9,2025-01-03,delhi,cash_on_delivery,cancelled,haldiram bhujia 200g,snacks,80
+ord1276,p018,4,2025-01-22,delhi,debit_card,cancelled,red bull 250ml,beverages,125
+ord2374,p031,2,2025-01-31,hyderabad,upi,returned,dove soap 100g,personal care,55
+ord2682,p028,9,2024-12-21,bangalore,credit_card,returned,harpic power plus 500ml,household,115
+ord1533,p033,4,2024-12-06,delhi,credit_card,cancelled,colgate strong teeth 300g,personal care,129
+ord1481,p002,9,2025-02-20,ahmedabad,cash_on_delivery,delivered,aashirvaad atta 5kg,staples,275
+ord2018,p023,2,2025-02-26,mumbai,cash_on_delivery,delivered,potato 1kg,vegetables,25
+ord1573,p011,10,2025-02-08,bangalore,credit_card,delivered,lay's classic salted 26g,snacks,20
+ord2759,p008,4,2025-02-24,kolkata,cash_on_delivery,cancelled,mother dairy curd 400g,dairy,48
+ord2100,p006,9,2025-01-13,bangalore,net banking,returned,amul full cream milk 1l,dairy,68
+ord1205,p017,5,2024-12-10,mumbai,net banking,delivered,tropicana orange 1l,beverages,120
+ord2881,p003,0,2025-03-01,hyderabad,debit_card,delivered,fortune sunflower oil 1l,staples,135
+ord1617,p006,10,2025-02-16,ahmedabad,credit_card,delivered,amul full cream milk 1l,dairy,68
+ord2051,p004,2,2025-07-02,chennai,credit_card,cancelled,india gate basmati 1kg,staples,110
+ord2751,p020,10,2025-07-01,ahmedabad,net banking,cancelled,nescafe classic 50g,beverages,185
+ord1481,p002,2,2024-12-25,chennai,cash_on_delivery,delivered,aashirvaad atta 5kg,staples,275
+ord2942,p025,4,2024-12-12,ahmedabad,upi,delivered,capsicum 500g,vegetables,45
+ord2970,p013,1,2024-12-17,bangalore,net_banking,cancelled,britannia good day 120g,snacks,30
+ord2414,p024,4,2024-12-25,hyderabad,upi,cancelled,spinach 250g,vegetables,20
+ord1206,p026,2,2024-12-11,bangalore,debit_card,delivered,surf excel 1kg,household,195
+ord2106,p036,5,2025-02-06,delhi,debit_card,delivered,maggi noodles 70g,ready to cook,14
+ord2318,p036,2,2024-12-13,delhi,upi,delivered,maggi noodles 70g,ready to cook,14
+ord2328,p011,7,2025-02-13,pune,credit_card,delivered,lay's classic salted 26g,snacks,20
+ord1119,p019,8,2025-10-02,delhi,debit_card,cancelled,tata tea premium 500g,beverages,220
+ord1423,p024,8,2024-12-24,delhi,credit_card,delivered,spinach 250g,vegetables,20
+ord2890,p013,4,2024-12-31,bangalore,upi,cancelled,britannia good day 120g,snacks,30
+ord1296,p024,10,2025-02-04,bangalore,credit_card,delivered,spinach 250g,vegetables,20
+ord1693,p004,9,2024-12-08,mumbai,net banking,cancelled,india gate basmati 1kg,staples,110
+ord2408,p006,9,2025-03-01,mumbai,cash_on_delivery,delivered,amul full cream milk 1l,dairy,68
+ord1481,p034,4,2024-12-03,delhi,upi,cancelled,dettol handwash 250ml,personal care,89
+ord2047,p036,6,2024-12-18,chennai,credit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord1385,p013,5,2024-12-19,mumbai,net banking,returned,britannia good day 120g,snacks,30
+ord1922,p033,4,2025-02-04,hyderabad,credit_card,returned,colgate strong teeth 300g,personal care,129
+ord1783,p037,0,2025-05-02,hyderabad,debit_card,cancelled,mtr upma mix 200g,ready to cook,55
+ord2842,p001,8,2025-01-13,chennai,credit_card,returned,tata salt 1kg,staples,22
+ord2843,p012,4,2025-01-23,hyderabad,cash_on_delivery,delivered,bingo mad angles 90g,snacks,35
+ord2770,p011,10,2024-12-09,ahmedabad,net banking,delivered,lay's classic salted 26g,snacks,20
+ord2426,p002,4,2025-01-06,bangalore,net banking,delivered,aashirvaad atta 5kg,staples,275
+ord2566,p015,1,2025-02-02,pune,cash_on_delivery,returned,parle-g biscuits 800g,snacks,65
+ord2364,p017,3,2025-02-26,bangalore,credit_card,delivered,tropicana orange 1l,beverages,120
+ord2091,p028,9,2025-02-03,chennai,net banking,delivered,harpic power plus 500ml,household,115
+ord2409,p002,10,2024-12-20,pune,net banking,delivered,aashirvaad atta 5kg,staples,275
+ord2583,p032,5,2025-02-20,kolkata,credit_card,cancelled,head & shoulders 340ml,personal care,299
+ord2633,p038,7,2024-12-14,chennai,net banking,returned,knorr soup tomato 44g,ready to cook,40
+ord1200,p003,6,2025-01-19,delhi,upi,delivered,fortune sunflower oil 1l,staples,135
+ord2067,p040,0,2025-01-08,delhi,net banking,returned,haldiram dal makhani 300g,ready to cook,85
+ord2887,p006,1,2025-10-01,kolkata,cash_on_delivery,cancelled,amul full cream milk 1l,dairy,68
+ord1157,p038,7,2025-02-24,kolkata,net banking,delivered,knorr soup tomato 44g,ready to cook,40
+ord1587,p011,1,2025-01-14,kolkata,cash_on_delivery,returned,lay's classic salted 26g,snacks,20
+ord1574,p021,4,2024-12-07,kolkata,debit_card,delivered,tomato 1kg,vegetables,35
+ord1650,p012,2,2025-04-01,bangalore,credit_card,delivered,bingo mad angles 90g,snacks,35
+ord2678,p038,6,2024-12-10,chennai,net banking,delivered,knorr soup tomato 44g,ready to cook,40
+ord2406,p033,3,2024-12-03,delhi,cash_on_delivery,cancelled,colgate strong teeth 300g,personal care,129
+ord1768,p022,3,2025-02-13,kolkata,upi,delivered,onion 1kg,vegetables,28
+ord1371,p008,7,2025-01-13,kolkata,credit_card,delivered,mother dairy curd 400g,dairy,48
+ord2846,p014,2,2025-02-07,mumbai,net_banking,cancelled,haldiram bhujia 200g,snacks,80
+ord2434,p019,10,2024-12-29,pune,credit_card,delivered,tata tea premium 500g,beverages,220
+ord1763,p035,1,2025-02-17,delhi,cash_on_delivery,delivered,himalaya face wash 100ml,personal care,105
+ord2731,p008,6,2025-09-02,pune,upi,returned,mother dairy curd 400g,dairy,48
+ord1559,p024,10,2025-01-11,pune,credit_card,delivered,spinach 250g,vegetables,20
+ord2710,p021,9,2024-12-30,hyderabad,debit_card,returned,tomato 1kg,vegetables,35
+ord2289,p002,3,2024-12-12,kolkata,debit_card,delivered,aashirvaad atta 5kg,staples,275
+ord2738,p006,3,2024-12-26,mumbai,cash_on_delivery,delivered,amul full cream milk 1l,dairy,68
+ord1925,p003,10,2025-01-03,chennai,credit_card,returned,fortune sunflower oil 1l,staples,135
+ord1653,p039,8,2025-03-01,hyderabad,net banking,delivered,sunfeast yippee noodles,ready to cook,14
+ord2554,p012,6,2025-01-27,kolkata,debit_card,cancelled,bingo mad angles 90g,snacks,35
+ord2915,p030,5,2025-02-18,mumbai,net banking,delivered,lizol disinfectant 1l,household,175
+ord1808,p016,3,2025-01-25,ahmedabad,debit_card,delivered,coca-cola 750ml,beverages,40
+ord1627,p015,4,2025-01-30,delhi,cash_on_delivery,delivered,parle-g biscuits 800g,snacks,65
+ord2268,p005,8,2024-12-18,bangalore,upi,returned,toor dal 500g,staples,68
+ord2763,p009,2,2024-12-20,mumbai,credit_card,delivered,amul cheese slices 200g,dairy,135
+ord1683,p015,7,2024-12-01,hyderabad,upi,delivered,parle-g biscuits 800g,snacks,65
+ord1301,p036,9,2025-02-09,chennai,net banking,returned,maggi noodles 70g,ready to cook,14
+ord2651,p005,2,2025-02-20,hyderabad,upi,delivered,toor dal 500g,staples,68
+ord2808,p006,1,2025-02-12,chennai,debit_card,returned,amul full cream milk 1l,dairy,68
+ord2120,p039,9,2024-12-01,bangalore,upi,delivered,sunfeast yippee noodles,ready to cook,14
+ord2315,p040,3,2025-01-08,hyderabad,net banking,delivered,haldiram dal makhani 300g,ready to cook,85
+ord2618,p008,3,2024-12-16,ahmedabad,upi,cancelled,mother dairy curd 400g,dairy,48
+ord2853,p033,10,2025-02-11,delhi,credit_card,delivered,colgate strong teeth 300g,personal care,129
+ord2200,p013,8,2025-01-20,chennai,upi,delivered,britannia good day 120g,snacks,30
+ord1222,p008,3,2024-12-24,chennai,debit_card,delivered,mother dairy curd 400g,dairy,48
+ord1170,p027,4,2025-01-20,delhi,debit_card,delivered,vim dishwash bar 200g,household,35
+ord1774,p009,3,2025-03-01,pune,upi,returned,amul cheese slices 200g,dairy,135
+ord2649,p015,7,2024-12-24,delhi,upi,delivered,parle-g biscuits 800g,snacks,65
+ord1326,p040,10,2025-04-02,chennai,cash_on_delivery,delivered,haldiram dal makhani 300g,ready to cook,85
+ord2740,p022,7,2024-12-19,mumbai,upi,returned,onion 1kg,vegetables,28
+ord2347,p036,2,2025-01-19,hyderabad,cash_on_delivery,returned,maggi noodles 70g,ready to cook,14
+ord2284,p008,0,2025-02-08,bangalore,debit_card,cancelled,mother dairy curd 400g,dairy,48
+ord1541,p029,1,2024-12-16,ahmedabad,debit_card,delivered,colin glass cleaner 500ml,household,95
+ord1341,p007,0,2024-12-09,bangalore,credit_card,delivered,amul butter 500g,dairy,285
+ord2644,p028,9,2024-12-06,hyderabad,net banking,delivered,harpic power plus 500ml,household,115
+ord2632,p026,3,2025-01-07,mumbai,debit_card,cancelled,surf excel 1kg,household,195
+ord2798,p016,2,2025-01-06,hyderabad,cash_on_delivery,delivered,coca-cola 750ml,beverages,40
+ord1264,p011,5,2024-12-14,ahmedabad,credit_card,cancelled,lay's classic salted 26g,snacks,20
+ord2377,p002,10,2024-12-12,kolkata,debit_card,delivered,aashirvaad atta 5kg,staples,275
+ord1259,p013,1,2024-12-02,pune,net_banking,delivered,britannia good day 120g,snacks,30
+ord2882,p022,7,2025-01-31,delhi,upi,delivered,onion 1kg,vegetables,28
+ord1182,p014,8,2025-02-25,bangalore,debit_card,returned,haldiram bhujia 200g,snacks,80
+ord1213,p023,4,2025-01-29,pune,net_banking,returned,potato 1kg,vegetables,25
+ord2195,p006,5,2025-01-01,bangalore,net_banking,cancelled,amul full cream milk 1l,dairy,68
+ord1879,p029,6,2025-02-13,delhi,credit_card,delivered,colin glass cleaner 500ml,household,95
+ord1481,p005,1,2025-01-03,ahmedabad,upi,delivered,toor dal 500g,staples,68
+ord2072,p036,9,2025-02-01,kolkata,net banking,delivered,maggi noodles 70g,ready to cook,14
+ord2564,p013,1,2024-07-12,chennai,net banking,returned,britannia good day 120g,snacks,30
+ord2038,p024,2,2025-01-27,pune,net banking,delivered,spinach 250g,vegetables,20
+ord1290,p013,4,2025-02-04,ahmedabad,cash_on_delivery,delivered,britannia good day 120g,snacks,30
+ord1140,p020,2,2025-02-20,hyderabad,upi,delivered,nescafe classic 50g,beverages,185
+ord2639,p040,10,2024-12-01,ahmedabad,cash_on_delivery,delivered,haldiram dal makhani 300g,ready to cook,85
+ord2595,p014,5,2024-12-18,kolkata,net banking,delivered,haldiram bhujia 200g,snacks,80
+ord2450,p031,10,2024-12-17,delhi,debit_card,returned,dove soap 100g,personal care,55
+ord1542,p008,7,2025-08-01,chennai,net banking,cancelled,mother dairy curd 400g,dairy,48
+ord2211,p005,10,2025-02-16,bangalore,upi,cancelled,toor dal 500g,staples,68
+ord2659,p020,7,2025-01-06,chennai,debit_card,delivered,nescafe classic 50g,beverages,185
+ord1965,p026,8,2024-09-12,hyderabad,cash_on_delivery,cancelled,surf excel 1kg,household,195
+ord2494,p016,0,2024-12-25,mumbai,cash_on_delivery,delivered,coca-cola 750ml,beverages,40
+ord1486,p020,7,2024-12-05,ahmedabad,cash_on_delivery,delivered,nescafe classic 50g,beverages,185
+ord1851,p039,1,2024-12-18,bangalore,debit_card,cancelled,sunfeast yippee noodles,ready to cook,14
+ord2371,p009,5,2025-01-21,ahmedabad,credit_card,delivered,amul cheese slices 200g,dairy,135
+ord1372,p036,3,2025-01-12,ahmedabad,net banking,delivered,maggi noodles 70g,ready to cook,14
+ord1702,p003,5,2025-01-10,bangalore,debit_card,delivered,fortune sunflower oil 1l,staples,135
+ord2741,p040,1,2024-12-30,bangalore,credit_card,cancelled,haldiram dal makhani 300g,ready to cook,85
+ord1357,p039,5,2025-01-27,kolkata,upi,cancelled,sunfeast yippee noodles,ready to cook,14
+ord2052,p011,0,2024-12-31,hyderabad,credit_card,cancelled,lay's classic salted 26g,snacks,20
+ord1052,p003,10,2025-02-19,mumbai,credit_card,delivered,fortune sunflower oil 1l,staples,135
+ord2928,p034,9,2025-02-12,pune,credit_card,returned,dettol handwash 250ml,personal care,89
+ord1799,p022,7,2025-06-01,pune,debit_card,delivered,onion 1kg,vegetables,28
+ord1315,p022,2,2025-03-01,kolkata,credit_card,returned,onion 1kg,vegetables,28
+ord2667,p023,6,2025-02-11,bangalore,credit_card,delivered,potato 1kg,vegetables,25
+ord2149,p009,3,2025-01-10,delhi,cash_on_delivery,cancelled,amul cheese slices 200g,dairy,135
+ord2884,p022,6,2025-01-01,kolkata,net banking,returned,onion 1kg,vegetables,28
+ord2728,p010,10,2025-01-21,delhi,debit_card,delivered,nandini paneer 200g,dairy,90
+ord1895,p039,1,2025-01-15,bangalore,cash_on_delivery,cancelled,sunfeast yippee noodles,ready to cook,14
+ord2288,p022,6,2025-02-14,bangalore,net banking,delivered,onion 1kg,vegetables,28
+ord2586,p001,2,2024-12-30,delhi,upi,cancelled,tata salt 1kg,staples,22
+ord1746,p028,2,2025-02-27,hyderabad,credit_card,delivered,harpic power plus 500ml,household,115
+ord2648,p039,3,2024-12-29,delhi,upi,delivered,sunfeast yippee noodles,ready to cook,14
+ord1468,p015,4,2024-12-21,delhi,credit_card,delivered,parle-g biscuits 800g,snacks,65
+ord2477,p013,7,2024-12-15,delhi,cash_on_delivery,delivered,britannia good day 120g,snacks,30
+ord2861,p036,10,2025-02-27,delhi,debit_card,delivered,maggi noodles 70g,ready to cook,14
+ord1935,p013,6,2025-01-01,chennai,cash_on_delivery,cancelled,britannia good day 120g,snacks,30
+ord1106,p005,9,2025-02-01,mumbai,cash_on_delivery,returned,toor dal 500g,staples,68
+ord2361,p032,8,2025-01-03,chennai,cash_on_delivery,delivered,head & shoulders 340ml,personal care,299
+ord1023,p012,2,2025-02-26,chennai,net banking,delivered,bingo mad angles 90g,snacks,35
+ord2368,p026,7,2024-12-29,pune,credit_card,delivered,surf excel 1kg,household,195
+ord2750,p038,5,2024-12-26,hyderabad,debit_card,delivered,knorr soup tomato 44g,ready to cook,40
+ord2573,p014,8,2025-02-15,chennai,upi,delivered,haldiram bhujia 200g,snacks,80
+ord2858,p023,3,2024-09-12,kolkata,upi,delivered,potato 1kg,vegetables,25
+ord1402,p024,8,2025-01-11,ahmedabad,cash_on_delivery,delivered,spinach 250g,vegetables,20
+ord1046,p028,2,2025-04-01,pune,credit_card,returned,harpic power plus 500ml,household,115
+ord2066,p039,7,2025-02-05,pune,net banking,delivered,sunfeast yippee noodles,ready to cook,14
+ord1549,p014,2,2025-02-08,mumbai,cash_on_delivery,cancelled,haldiram bhujia 200g,snacks,80
+ord2423,p009,0,2025-02-07,mumbai,cash_on_delivery,delivered,amul cheese slices 200g,dairy,135
+ord1129,p018,4,2024-12-12,kolkata,net_banking,delivered,red bull 250ml,beverages,125
+ord2838,p037,9,2024-12-27,hyderabad,debit_card,delivered,mtr upma mix 200g,ready to cook,55
+ord2575,p026,4,2025-02-18,kolkata,upi,delivered,surf excel 1kg,household,195
+ord1905,p024,3,2025-02-12,pune,net_banking,delivered,spinach 250g,vegetables,20
+ord1848,p013,6,2024-02-12,bangalore,cash_on_delivery,delivered,britannia good day 120g,snacks,30
+ord2163,p023,7,2025-02-19,kolkata,net banking,delivered,potato 1kg,vegetables,25
+ord2490,p007,5,2024-12-23,pune,upi,returned,amul butter 500g,dairy,285
+ord2581,p020,8,2024-12-25,bangalore,debit_card,cancelled,nescafe classic 50g,beverages,185
+ord2459,p008,9,2025-02-21,bangalore,cash_on_delivery,returned,mother dairy curd 400g,dairy,48
+ord1983,p002,7,2024-12-31,chennai,debit_card,delivered,aashirvaad atta 5kg,staples,275
+ord2894,p013,10,2025-01-16,kolkata,net banking,delivered,britannia good day 120g,snacks,30
+ord1461,p036,7,2025-01-23,ahmedabad,debit_card,delivered,maggi noodles 70g,ready to cook,14
+ord2378,p022,0,2024-12-28,pune,cash_on_delivery,delivered,onion 1kg,vegetables,28
+ord2743,p028,6,2025-01-02,pune,cash_on_delivery,cancelled,harpic power plus 500ml,household,115
+ord1830,p020,10,2025-12-01,delhi,upi,cancelled,nescafe classic 50g,beverages,185
+ord2900,p039,8,2024-12-01,mumbai,debit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord2259,p016,3,2024-12-20,pune,upi,delivered,coca-cola 750ml,beverages,40
+ord2825,p013,4,2025-01-11,ahmedabad,credit_card,delivered,britannia good day 120g,snacks,30
+ord2301,p021,8,2024-01-12,pune,credit_card,returned,tomato 1kg,vegetables,35
+ord2009,p007,1,2024-12-21,delhi,debit_card,delivered,amul butter 500g,dairy,285
+ord1338,p013,2,2025-01-03,bangalore,debit_card,delivered,britannia good day 120g,snacks,30
+ord1635,p039,4,2024-12-08,pune,credit_card,returned,sunfeast yippee noodles,ready to cook,14
+ord2756,p032,10,2025-02-19,chennai,upi,delivered,head & shoulders 340ml,personal care,299
+ord1959,p002,4,2024-12-28,delhi,cash_on_delivery,returned,aashirvaad atta 5kg,staples,275
+ord2237,p016,2,2024-12-01,delhi,upi,delivered,coca-cola 750ml,beverages,40
+ord1097,p022,2,2025-02-26,pune,debit_card,delivered,onion 1kg,vegetables,28
+ord1389,p018,1,2024-12-24,hyderabad,debit_card,returned,red bull 250ml,beverages,125
+ord1558,p034,9,2025-02-10,chennai,cash_on_delivery,delivered,dettol handwash 250ml,personal care,89
+ord1153,p015,3,2025-01-18,hyderabad,credit_card,delivered,parle-g biscuits 800g,snacks,65
+ord1015,p003,8,2025-02-23,kolkata,debit_card,delivered,fortune sunflower oil 1l,staples,135
+ord2254,p034,5,2024-12-24,hyderabad,cash_on_delivery,delivered,dettol handwash 250ml,personal care,89
+ord2543,p014,4,2025-01-16,kolkata,debit_card,delivered,haldiram bhujia 200g,snacks,80
+ord1219,p011,9,2024-12-23,mumbai,cash_on_delivery,returned,lay's classic salted 26g,snacks,20
+ord2680,p011,7,2025-02-28,hyderabad,credit_card,returned,lay's classic salted 26g,snacks,20
+ord1708,p039,3,2025-02-26,kolkata,debit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord2641,p019,2,2025-01-14,pune,net banking,cancelled,tata tea premium 500g,beverages,220
+ord1473,p039,0,2025-01-14,pune,credit_card,returned,sunfeast yippee noodles,ready to cook,14
+ord2987,p013,7,2025-02-03,bangalore,upi,returned,britannia good day 120g,snacks,30
+ord1175,p021,5,2025-01-01,bangalore,cash_on_delivery,delivered,tomato 1kg,vegetables,35
+ord2596,p022,5,2024-12-30,pune,debit_card,delivered,onion 1kg,vegetables,28
+ord1554,p022,7,2024-12-31,ahmedabad,net banking,cancelled,onion 1kg,vegetables,28
+ord1440,p008,6,2025-01-26,pune,cash_on_delivery,delivered,mother dairy curd 400g,dairy,48
+ord2103,p015,2,2024-12-01,pune,cash_on_delivery,delivered,parle-g biscuits 800g,snacks,65
+ord2094,p016,2,2025-01-20,mumbai,cash_on_delivery,delivered,coca-cola 750ml,beverages,40
+ord1273,p016,2,2025-02-12,ahmedabad,upi,returned,coca-cola 750ml,beverages,40
+ord1263,p007,2,2025-02-26,mumbai,debit_card,delivered,amul butter 500g,dairy,285
+ord1931,p003,4,2024-12-13,ahmedabad,credit_card,delivered,fortune sunflower oil 1l,staples,135
+ord2902,p025,0,2025-02-13,delhi,upi,delivered,capsicum 500g,vegetables,45
+ord1094,p004,10,2024-12-03,pune,credit_card,returned,india gate basmati 1kg,staples,110
+ord1835,p036,7,2024-12-28,bangalore,debit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord2218,p021,8,2025-01-03,chennai,net banking,returned,tomato 1kg,vegetables,35
+ord2080,p039,4,2025-02-14,hyderabad,cash_on_delivery,delivered,sunfeast yippee noodles,ready to cook,14
+ord2441,p011,10,2025-01-05,delhi,net banking,delivered,lay's classic salted 26g,snacks,20
+ord1730,p006,2,2025-01-11,kolkata,credit_card,delivered,amul full cream milk 1l,dairy,68
+ord2630,p006,4,2025-02-17,delhi,debit_card,cancelled,amul full cream milk 1l,dairy,68
+ord2380,p024,8,2025-01-21,mumbai,net banking,returned,spinach 250g,vegetables,20
+ord2801,p021,8,2025-01-26,mumbai,cash_on_delivery,cancelled,tomato 1kg,vegetables,35
+ord1754,p001,9,2025-01-02,bangalore,debit_card,returned,tata salt 1kg,staples,22
+ord1492,p023,5,2025-01-22,chennai,debit_card,cancelled,potato 1kg,vegetables,25
+ord1997,p006,2,2025-02-24,mumbai,debit_card,returned,amul full cream milk 1l,dairy,68
+ord1878,p033,1,2024-12-08,chennai,cash_on_delivery,returned,colgate strong teeth 300g,personal care,129
+ord2907,p008,4,2025-02-10,delhi,upi,delivered,mother dairy curd 400g,dairy,48
+ord1406,p008,8,2024-12-18,mumbai,credit_card,cancelled,mother dairy curd 400g,dairy,48
+ord1723,p009,6,2024-12-24,delhi,upi,delivered,amul cheese slices 200g,dairy,135
+ord1512,p018,2,2025-02-02,delhi,credit_card,delivered,red bull 250ml,beverages,125
+ord2387,p023,7,2025-02-22,pune,credit_card,delivered,potato 1kg,vegetables,25
+ord1823,p021,2,2025-02-21,chennai,debit_card,delivered,tomato 1kg,vegetables,35
+ord1481,p006,2,2025-02-24,bangalore,debit_card,returned,amul full cream milk 1l,dairy,68
+ord1869,p023,1,2024-12-22,pune,net banking,delivered,potato 1kg,vegetables,25
+ord2199,p036,10,2025-04-02,delhi,upi,returned,maggi noodles 70g,ready to cook,14
+ord2579,p018,4,2025-01-25,ahmedabad,cash_on_delivery,returned,red bull 250ml,beverages,125
+ord2126,p013,1,2025-01-15,ahmedabad,net banking,cancelled,britannia good day 120g,snacks,30
+ord2362,p036,3,2024-12-19,hyderabad,cash_on_delivery,delivered,maggi noodles 70g,ready to cook,14
+ord1485,p003,4,2025-01-14,pune,cash_on_delivery,delivered,fortune sunflower oil 1l,staples,135
+ord2599,p017,2,2025-02-25,kolkata,credit_card,delivered,tropicana orange 1l,beverages,120
+ord2660,p015,7,2024-12-02,hyderabad,cash_on_delivery,delivered,parle-g biscuits 800g,snacks,65
+ord2185,p030,3,2025-01-18,bangalore,upi,cancelled,lizol disinfectant 1l,household,175
+ord1748,p008,2,2025-03-02,bangalore,credit_card,cancelled,mother dairy curd 400g,dairy,48
+ord2635,p017,5,2025-02-22,chennai,upi,delivered,tropicana orange 1l,beverages,120
+ord1481,p031,7,2025-02-15,mumbai,credit_card,delivered,dove soap 100g,personal care,55
+ord1225,p039,1,2024-12-13,hyderabad,credit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord1320,p013,8,2025-01-05,hyderabad,net_banking,returned,britannia good day 120g,snacks,30
+ord2442,p007,10,2025-02-13,delhi,cash_on_delivery,delivered,amul butter 500g,dairy,285
+ord2852,p023,9,2024-12-11,kolkata,debit_card,delivered,potato 1kg,vegetables,25
+ord1815,p011,1,2025-01-20,ahmedabad,cash_on_delivery,delivered,lay's classic salted 26g,snacks,20
+ord2393,p002,5,2025-01-11,chennai,net banking,delivered,aashirvaad atta 5kg,staples,275
+ord1643,p001,10,2025-02-10,ahmedabad,upi,delivered,tata salt 1kg,staples,22
+ord1641,p033,2,2025-01-18,chennai,cash_on_delivery,delivered,colgate strong teeth 300g,personal care,129
+ord2084,p031,5,2025-04-02,delhi,cash_on_delivery,cancelled,dove soap 100g,personal care,55
+ord1365,p040,4,2025-01-26,bangalore,cash_on_delivery,delivered,haldiram dal makhani 300g,ready to cook,85
+ord2224,p036,10,2024-12-03,bangalore,net banking,delivered,maggi noodles 70g,ready to cook,14
+ord2436,p030,7,2025-02-18,bangalore,cash_on_delivery,cancelled,lizol disinfectant 1l,household,175
+ord1886,p003,4,2024-12-08,ahmedabad,net banking,delivered,fortune sunflower oil 1l,staples,135
+ord2113,p040,4,2024-12-06,delhi,cash_on_delivery,delivered,haldiram dal makhani 300g,ready to cook,85
+ord2960,p004,9,2025-01-28,pune,net banking,delivered,india gate basmati 1kg,staples,110
+ord1069,p036,3,2025-02-18,hyderabad,cash_on_delivery,returned,maggi noodles 70g,ready to cook,14
+ord2177,p011,2,2024-12-22,hyderabad,debit_card,returned,lay's classic salted 26g,snacks,20
+ord1553,p039,2,2024-12-24,mumbai,upi,delivered,sunfeast yippee noodles,ready to cook,14
+ord2324,p001,7,2025-01-14,bangalore,upi,returned,tata salt 1kg,staples,22
+ord2620,p036,2,2024-12-28,kolkata,net banking,delivered,maggi noodles 70g,ready to cook,14
+ord2174,p039,6,2025-02-21,kolkata,credit_card,delivered,sunfeast yippee noodles,ready to cook,14
+ord2940,p018,4,2025-01-14,kolkata,cash_on_delivery,delivered,red bull 250ml,beverages,125
+ord1785,p014,0,2025-01-26,mumbai,credit_card,delivered,haldiram bhujia 200g,snacks,80
+ord1073,p011,3,2025-01-26,mumbai,net banking,delivered,lay's classic salted 26g,snacks,20
+ord1898,p005,3,2024-12-10,pune,cash_on_delivery,returned,toor dal 500g,staples,68
+ord1215,p006,9,2025-01-05,delhi,upi,returned,amul full cream milk 1l,dairy,68
+ord2553,p031,1,2024-12-31,chennai,upi,delivered,dove soap 100g,personal care,55
+ord1081,p006,0,2024-12-17,chennai,credit_card,delivered,amul full cream milk 1l,dairy,68
+ord2734,p022,1,2025-01-10,hyderabad,upi,delivered,onion 1kg,vegetables,28
+ord2350,p021,9,2025-01-11,chennai,credit_card,delivered,tomato 1kg,vegetables,35
+ord1064,p012,4,2025-08-02,kolkata,cash_on_delivery,returned,bingo mad angles 90g,snacks,35
+ord2389,p023,4,2025-01-14,chennai,cash_on_delivery,cancelled,potato 1kg,vegetables,25
+ord2262,p040,2,2025-02-20,bangalore,credit_card,cancelled,haldiram dal makhani 300g,ready to cook,85
+ord1713,p039,1,2025-02-12,mumbai,debit_card,returned,sunfeast yippee noodles,ready to cook,14
+ord1943,p026,2,2025-01-11,hyderabad,net banking,delivered,surf excel 1kg,household,195
+ord1160,p036,8,2024-12-28,hyderabad,upi,cancelled,maggi noodles 70g,ready to cook,14
+ord1040,p023,1,2024-04-12,kolkata,net_banking,delivered,potato 1kg,vegetables,25
+ord1207,p023,2,2025-01-09,kolkata,credit_card,delivered,potato 1kg,vegetables,25
+ord1796,p023,10,2025-01-23,delhi,net_banking,cancelled,potato 1kg,vegetables,25
+ord2689,p002,6,2024-12-10,kolkata,cash_on_delivery,delivered,aashirvaad atta 5kg,staples,275
+ord2247,p014,1,2024-12-13,bangalore,credit_card,delivered,haldiram bhujia 200g,snacks,80
+ord1392,p036,7,2025-02-07,pune,cash_on_delivery,cancelled,maggi noodles 70g,ready to cook,14
+ord1053,p020,7,2025-01-27,ahmedabad,debit_card,returned,nescafe classic 50g,beverages,185
+ord1946,p030,5,2024-12-18,kolkata,credit_card,cancelled,lizol disinfectant 1l,household,175
+ord1252,p002,5,2025-01-05,pune,debit_card,delivered,aashirvaad atta 5kg,staples,275
+ord1076,p004,9,2024-12-30,ahmedabad,upi,cancelled,india gate basmati 1kg,staples,110
+ord2570,p029,2,2025-01-01,hyderabad,credit_card,delivered,colin glass cleaner 500ml,household,95
+ord2463,p039,10,2025-01-13,mumbai,net banking,delivered,sunfeast yippee noodles,ready to cook,14
+ord1581,p035,8,2025-02-13,ahmedabad,credit_card,cancelled,himalaya face wash 100ml,personal care,105
+ord2923,p010,3,2025-02-12,bangalore,upi,cancelled,nandini paneer 200g,dairy,90
+ord2023,p015,3,2025-01-25,delhi,net_banking,delivered,parle-g biscuits 800g,snacks,65
+ord1444,p009,10,2025-01-25,hyderabad,net banking,returned,amul cheese slices 200g,dairy,135
+ord2460,p007,2,2025-06-01,kolkata,credit_card,delivered,amul butter 500g,dairy,285
+ord2062,p038,4,2024-12-22,hyderabad,upi,returned,knorr soup tomato 44g,ready to cook,40
+ord1086,p025,2,2025-01-30,delhi,upi,returned,capsicum 500g,vegetables,45
+ord1697,p010,2,2025-11-02,mumbai,net banking,returned,nandini paneer 200g,dairy,90
+ord2172,p040,2,2024-12-15,kolkata,net banking,delivered,haldiram dal makhani 300g,ready to cook,85
+ord1655,p028,7,2025-02-09,ahmedabad,upi,returned,harpic power plus 500ml,household,115
+ord2462,p014,5,2024-12-21,kolkata,net banking,returned,haldiram bhujia 200g,snacks,80
+ord2139,p013,5,2025-01-13,delhi,debit_card,cancelled,britannia good day 120g,snacks,30
+ord1255,p037,4,2025-02-26,pune,upi,delivered,mtr upma mix 200g,ready to cook,55
+ord1596,p035,7,2025-01-23,hyderabad,credit_card,returned,himalaya face wash 100ml,personal care,105
+ord1503,p022,6,2025-01-11,chennai,credit_card,delivered,onion 1kg,vegetables,28
+ord2421,p035,4,2024-12-06,chennai,net banking,delivered,himalaya face wash 100ml,personal care,105
+ord2681,p027,2,2025-02-13,delhi,upi,delivered,vim dishwash bar 200g,household,35
+ord2652,p018,3,2025-01-19,kolkata,credit_card,returned,red bull 250ml,beverages,125
+ord2658,p021,4,2025-02-16,chennai,debit_card,returned,tomato 1kg,vegetables,35
+ord2476,p036,5,2025-01-25,delhi,debit_card,cancelled,maggi noodles 70g,ready to cook,14
+ord2002,p031,1,2025-01-05,bangalore,debit_card,returned,dove soap 100g,personal care,55
+ord2209,p026,8,2024-12-29,kolkata,cash_on_delivery,returned,surf excel 1kg,household,195
+ord2372,p027,3,2024-12-03,delhi,net banking,delivered,vim dishwash bar 200g,household,35
+ord2495,p014,5,2024-12-19,bangalore,upi,delivered,haldiram bhujia 200g,snacks,80
+ord1522,p037,2,2024-12-24,hyderabad,credit_card,delivered,mtr upma mix 200g,ready to cook,55
+ord2468,p037,4,2025-01-03,pune,upi,cancelled,mtr upma mix 200g,ready to cook,55
+ord2298,p021,1,2025-01-21,bangalore,cash_on_delivery,cancelled,tomato 1kg,vegetables,35
+ord1911,p019,4,2024-12-18,ahmedabad,upi,delivered,tata tea premium 500g,beverages,220
+ord2215,p031,3,2024-12-28,bangalore,upi,delivered,dove soap 100g,personal care,55
+ord1481,p028,9,2025-01-08,mumbai,credit_card,delivered,harpic power plus 500ml,household,115
+ord1821,p001,10,2025-01-05,ahmedabad,credit_card,delivered,tata salt 1kg,staples,22
+ord1516,p006,3,2025-01-21,delhi,upi,returned,amul full cream milk 1l,dairy,68
+ord1209,p004,2,2024-12-04,pune,cash_on_delivery,delivered,india gate basmati 1kg,staples,110
+ord1953,p038,3,2024-12-16,chennai,debit_card,delivered,knorr soup tomato 44g,ready to cook,40
+ord1481,p015,10,2024-12-27,kolkata,cash_on_delivery,returned,parle-g biscuits 800g,snacks,65
+ord1616,p018,7,2025-02-27,pune,upi,cancelled,red bull 250ml,beverages,125
+ord1004,p023,4,2025-01-16,hyderabad,upi,delivered,potato 1kg,vegetables,25
+ord1910,p024,1,2024-12-30,delhi,cash_on_delivery,returned,spinach 250g,vegetables,20
+ord1619,p037,6,2024-12-12,delhi,net banking,cancelled,mtr upma mix 200g,ready to cook,55
+ord2307,p033,4,2024-12-24,bangalore,debit_card,cancelled,colgate strong teeth 300g,personal care,129
+ord2971,p018,2,2024-12-17,chennai,credit_card,delivered,red bull 250ml,beverages,125
+ord2612,p027,1,2024-12-15,kolkata,cash_on_delivery,delivered,vim dishwash bar 200g,household,35
+ord2342,p027,2,2025-02-02,pune,credit_card,cancelled,vim dishwash bar 200g,household,35
+ord2508,p008,10,2025-02-26,ahmedabad,credit_card,returned,mother dairy curd 400g,dairy,48
+ord2519,p015,1,2025-11-01,hyderabad,debit_card,delivered,parle-g biscuits 800g,snacks,65
+ord1438,p023,3,2024-12-27,chennai,upi,delivered,potato 1kg,vegetables,25
+ord1489,p032,2,2025-01-30,kolkata,credit_card,delivered,head & shoulders 340ml,personal care,299
+ord1344,p001,1,2025-01-01,kolkata,cash_on_delivery,delivered,tata salt 1kg,staples,22
+ord1841,p001,1,2025-02-24,kolkata,cash_on_delivery,returned,tata salt 1kg,staples,22
+ord1397,p017,5,2024-06-12,delhi,net_banking,cancelled,tropicana orange 1l,beverages,120
+ord2591,p016,8,2025-01-29,ahmedabad,cash_on_delivery,delivered,coca-cola 750ml,beverages,40
+ord1241,p007,7,2024-12-25,bangalore,upi,delivered,amul butter 500g,dairy,285
+ord2312,p003,5,2025-02-18,bangalore,cash_on_delivery,delivered,fortune sunflower oil 1l,staples,135
+ord2287,p025,2,2025-02-24,pune,credit_card,cancelled,capsicum 500g,vegetables,45
+ord1538,p020,9,2024-12-19,kolkata,cash_on_delivery,cancelled,nescafe classic 50g,beverages,185
+ord2862,p007,4,2025-02-21,chennai,debit_card,returned,amul butter 500g,dairy,285
+ord2584,p006,10,2024-12-21,hyderabad,debit_card,delivered,amul full cream milk 1l,dairy,68
+ord2088,p006,6,2025-02-02,ahmedabad,cash_on_delivery,cancelled,amul full cream milk 1l,dairy,68
+ord2864,p034,9,2024-12-28,kolkata,cash_on_delivery,returned,dettol handwash 250ml,personal care,89
+ord2839,p033,7,2025-01-19,hyderabad,net banking,returned,colgate strong teeth 300g,personal care,129
+ord2613,p035,5,2024-12-07,delhi,cash_on_delivery,cancelled,himalaya face wash 100ml,personal care,105
+ord1319,p040,4,2025-01-21,pune,cash_on_delivery,delivered,haldiram dal makhani 300g,ready to cook,85
+ord1091,p018,9,2025-01-26,kolkata,debit_card,delivered,red bull 250ml,beverages,125
+ord1825,p001,9,2025-02-27,hyderabad,net banking,cancelled,tata salt 1kg,staples,22
+ord1838,p026,1,2025-01-02,chennai,upi,returned,surf excel 1kg,household,195
+ord2339,p036,8,2025-02-23,delhi,net banking,delivered,maggi noodles 70g,ready to cook,14
+ord1201,p001,4,2025-02-22,bangalore,cash_on_delivery,delivered,tata salt 1kg,staples,22
+ord2028,p039,2,2024-12-25,mumbai,upi,delivered,sunfeast yippee noodles,ready to cook,14
+ord2901,p006,0,2024-12-19,delhi,credit_card,delivered,amul full cream milk 1l,dairy,68
+ord1742,p024,9,2025-01-27,pune,debit_card,delivered,spinach 250g,vegetables,20
+ord2000,p031,4,2025-02-10,pune,net banking,cancelled,dove soap 100g,personal care,55
+ord2706,p022,9,2025-01-17,kolkata,credit_card,delivered,onion 1kg,vegetables,28
+ord1618,p022,7,2024-11-12,hyderabad,cash_on_delivery,delivered,onion 1kg,vegetables,28
+ord2225,p023,8,2024-12-26,mumbai,net banking,delivered,potato 1kg,vegetables,25
+ord2530,p008,1,2024-12-19,delhi,net banking,delivered,mother dairy curd 400g,dairy,48
+ord1996,p010,5,2024-12-26,mumbai,cash_on_delivery,delivered,nandini paneer 200g,dairy,90
+ord1705,p014,8,2025-02-11,kolkata,upi,delivered,haldiram bhujia 200g,snacks,80
+ord2714,p017,6,2024-12-07,delhi,credit_card,returned,tropicana orange 1l,beverages,120
+ord2983,p028,3,2025-12-02,pune,net banking,delivered,harpic power plus 500ml,household,115
+ord2610,p039,2,2025-01-27,mumbai,cash_on_delivery,delivered,sunfeast yippee noodles,ready to cook,14
+ord2193,p008,6,2024-12-07,chennai,upi,cancelled,mother dairy curd 400g,dairy,48
+ord2536,p025,0,2025-02-14,kolkata,debit_card,delivered,capsicum 500g,vegetables,45
+ord2381,p016,10,2025-01-19,mumbai,cash_on_delivery,returned,coca-cola 750ml,beverages,40
+ord2588,p037,0,2025-01-23,mumbai,cash_on_delivery,returned,mtr upma mix 200g,ready to cook,55
+ord2709,p033,10,2024-01-12,kolkata,cash_on_delivery,cancelled,colgate strong teeth 300g,personal care,129
+ord1037,p003,9,2025-01-06,hyderabad,debit_card,delivered,fortune sunflower oil 1l,staples,135
+ord2132,p039,10,2024-12-15,ahmedabad,cash_on_delivery,returned,sunfeast yippee noodles,ready to cook,14
+ord1716,p016,4,2025-02-13,mumbai,debit_card,returned,coca-cola 750ml,beverages,40
+ord1764,p011,7,2024-12-13,ahmedabad,debit_card,cancelled,lay's classic salted 26g,snacks,20

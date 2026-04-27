@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_price
+p001,tata salt 1kg,staples,22
+p002,aashirvaad atta 5kg,staples,275
+p003,fortune sunflower oil 1l,staples,135
+p004,india gate basmati 1kg,staples,110
+p005,toor dal 500g,staples,68
+p006,amul full cream milk 1l,dairy,68
+p007,amul butter 500g,dairy,285
+p008,mother dairy curd 400g,dairy,48
+p009,amul cheese slices 200g,dairy,135
+p010,nandini paneer 200g,dairy,90
+p011,lay's classic salted 26g,snacks,20
+p012,bingo mad angles 90g,snacks,35
+p013,britannia good day 120g,snacks,30
+p014,haldiram bhujia 200g,snacks,80
+p015,parle-g biscuits 800g,snacks,65
+p016,coca-cola 750ml,beverages,40
+p017,tropicana orange 1l,beverages,120
+p018,red bull 250ml,beverages,125
+p019,tata tea premium 500g,beverages,220
+p020,nescafe classic 50g,beverages,185
+p021,tomato 1kg,vegetables,35
+p022,onion 1kg,vegetables,28
+p023,potato 1kg,vegetables,25
+p024,spinach 250g,vegetables,20
+p025,capsicum 500g,vegetables,45
+p026,surf excel 1kg,household,195
+p027,vim dishwash bar 200g,household,35
+p028,harpic power plus 500ml,household,115
+p029,colin glass cleaner 500ml,household,95
+p030,lizol disinfectant 1l,household,175
+p031,dove soap 100g,personal care,55
+p032,head & shoulders 340ml,personal care,299
+p033,colgate strong teeth 300g,personal care,129
+p034,dettol handwash 250ml,personal care,89
+p035,himalaya face wash 100ml,personal care,105
+p036,maggi noodles 70g,ready to cook,14
+p037,mtr upma mix 200g,ready to cook,55
+p038,knorr soup tomato 44g,ready to cook,40
+p039,sunfeast yippee noodles,ready to cook,14
+p040,haldiram dal makhani 300g,ready to cook,85
