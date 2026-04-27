@@ -1,0 +1,17 @@
+# ============================================================
+# ZipMart ETL Pipeline — Python Dependencies
+# ============================================================
+# Install all dependencies with:
+#   pip install -r requirements.txt
+# ============================================================
+
+# --- Core Data Processing ---
+pandas>=2.0.0               # Data loading, cleaning, transformation, merging
+
+# --- Visualization ---
+matplotlib>=3.7.0           # Line charts, bar charts
+seaborn>=0.12.0             # Extended chart styling
+
+# --- Notebook Environment ---
+jupyterlab>=4.0.0           # Recommended: run notebooks in browser
+notebook>=7.0.0             # Classic Jupyter notebook (alternative)
